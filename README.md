@@ -192,7 +192,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [JavaScript : The Right Way][repo-jstherightway] ([Site][site-jstherightway], cc-nc-sa)
 * [Idiomatic JavaScript][repo-idiomatic-js] (cc) - Principles of Writing Consistent, Idiomatic JavaScript
 * [Angular Test Patterns][repo-angular-test-pattern] (MIT) - A High-Quality Guide for Testing Angular 1.x Applications
-* [Airbnb JavaScript Style Guide][airbnb-javascript] (MIT)
+* [Airbnb JavaScript Style Guide][repo-airbnb-javascript] (MIT)
 * [JavaScript Garden][repo-js-garden] ([Site][site-js-garden], MIT) - A collection of documentation about the most quirky parts of the JavaScript language
 
 [repo-angular-style-guide]: https://github.com/johnpapa/angular-styleguide
