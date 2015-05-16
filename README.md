@@ -2,12 +2,52 @@
 
 A curated list of awesome open source or open source licensed documents, guides, books.
 
+## Table of Contents
+
+* Subjects
+  * Computer Science
+  * Data Science
+  * Devops
+  * Methematics
+  * Open Source
+  * Programming
+  * World Wide Web
+  * Writing and Documentation
+  * Journalism and Visualization
+* Programming Languages
+  * Coffeescript
+  * CSS
+  * Ruby
+  * Clojure
+  * Erlang
+  * Elixir
+  * Go
+  * Haskell
+  * Java
+  * Javascript
+  * Objective-c
+  * Php
+  * Python
+  * Rust
+  * Scala
+* Tools
+  * Editor
+  * Git
+  * Server
+* Other Lanugages
+  * Chinese
+  * Japanese
+  * Korean
+* License
+
 ## Subjects
 
 ### Computer Science
 
 * [Crypto 101][repo-crypto-101] ([Site][site-crypto-101], cc-nc) - the introductory book on cryptography
 * [The little book about OS development][repo-littleosbook] ([Site][site-littleosbook], cc-nc-sa)
+* hdtp
+* sicp
 
 [site-crypto-101]: https://www.crypto101.io/
 [repo-crypto-101]: https://github.com/crypto101/book
@@ -40,7 +80,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 [repo-hott-book]: https://github.com/HoTT/HoTT
 [site-hott-book]: http://homotopytypetheory.org/
 
-### Open Sources
+### Open Source
 
 * [The Architecture of Open Source Applications 1][repo-aosa] ([Site][site-aosa], cc-nc-sa)
 * [The Architecture of Open Source Applications 2][repo-aosa] ([Site][site-aosa], cc-nc-sa)
