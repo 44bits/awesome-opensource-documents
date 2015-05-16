@@ -4,44 +4,46 @@ A curated list of awesome open source or open source licensed documents, guides,
 
 ## Table of Contents
 
-* Subjects
-  * Computer Science
-  * Data Science
-  * Devops
-  * Methematics
-  * Open Source
-  * Programming
-  * World Wide Web
-  * Writing and Documentation
-  * Journalism and Visualization
-* Programming Languages
-  * Coffeescript
-  * CSS
-  * Ruby
-  * Clojure
-  * Erlang
-  * Elixir
-  * Go
-  * Haskell
-  * Java
-  * Javascript
-  * Objective-c
-  * Php
-  * Python
-  * Rust
-  * Scala
-* Tools
-  * Editor
-  * Git
-  * Server
-* Other Lanugages
-  * Chinese
-  * Japanese
-  * Korean
-* License
+* [Subjects](#subjects)
+  * [Computer Science](#computer_science)
+  * [Data Science](#data_science)
+  * [Devops](#devops)
+  * [Methematics](#mathematics)
+  * [Open Source](#open_source)
+  * [Programming](#programming)
+  * [World Wide Web](#world_wide_web)
+  * [Writing and Documentation](#writing_and_documentation)
+  * [Journalism and Visualization](#journalism_and_visualization)
+* [Programming Languages](#programming_languages)
+  * [Coffeescript](#coffeescript)
+  * [CSS](#css)
+  * [Ruby](#ruby)
+  * [Clojure](#clojure)
+  * [Erlang](#erlang)
+  * [Elixir](#elixir)
+  * [Go](#go)
+  * [Haskell](#haskell)
+  * [Java](#java)
+  * [Javascript](#javascript)
+  * [Objective-c](#objective-c)
+  * [Php](#php)
+  * [Python](#python)
+  * [Rust](#rusy)
+  * [Scala](#scala)
+* [Tools](#tools)
+  * [Editor](#editor)
+  * [Git](#git)
+  * [Server](#server)
+* [Other Lanugages](#other_languages)
+  * [Chinese](#chinese)
+  * [Japanese](#japanese)
+  * [Korean](#korean)
+* [License](#license)
 
+<a name='subjects'></a>
 ## Subjects
 
+<a name='computer_science'></a>
 ### Computer Science
 
 * [Crypto 101][repo-crypto-101] ([Site][site-crypto-101], cc-nc) - the introductory book on cryptography
@@ -54,8 +56,10 @@ A curated list of awesome open source or open source licensed documents, guides,
 [repo-littleosbook]: https://github.com/littleosbook/littleosbook
 [site-littleosbook]: http://littleosbook.github.io/
 
+<a name='data_science'></a>
 ### Data Science
 
+<a name='devops'></a>
 ### Devops
 
 * [Ops School Curriculum][repo-ops-school] ([Site][site-ops-school], cc)
@@ -73,6 +77,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 [site-ops-school]: http://ops-school.readthedocs.org/en/latest/
 [repo-ops-school]: https://github.com/opsschool/curriculum
 
+<a name='mathematics'></a>
 ### Mathematics
 
 * [Homotopy type theory][repo-hott-book] ([Site][site-hott-book], BSD)
@@ -80,6 +85,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 [repo-hott-book]: https://github.com/HoTT/HoTT
 [site-hott-book]: http://homotopytypetheory.org/
 
+<a name='open_source'></a>
 ### Open Source
 
 * [The Architecture of Open Source Applications 1][repo-aosa] ([Site][site-aosa], cc-nc-sa)
@@ -89,6 +95,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 [site-aosa]: http://aosabook.org/en/index.html
 [repo-aosa]: https://github.com/aosabook/aosabook
 
+<a name='progromming'></a>
 ### Programming
 
 * [500 Lines or Less][repo-500-lines] (cc & mit)
@@ -105,6 +112,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 [repo-app-launch-guide]: https://github.com/adamwulf/app-launch-guide
 [site-app-launch-guide]: http://www.applaunchguide.com/
 
+<a name='world_wide_web'></a>
 ### World Wide Web
 
 * [HTTP API Design Guide][repo-http-api] (cc) - HTTP API design guide extracted from work on the Heroku Platform API
@@ -121,6 +129,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 [repo-500-lines]: https://github.com/aosabook/500lines
 [repo-http-api]: https://github.com/interagent/http-api-design
 
+<a name='writings_and_documentation'></a>
 ### Writings and Documentation
 
 * [Write the Doc][repo-write-the-doc] ([Site][site-write-the-doc], cc) - A place for Sphinx documentation and general writing of things.
@@ -137,7 +146,8 @@ A curated list of awesome open source or open source licensed documents, guides,
 [site-write-the-doc]: http://docs.writethedocs.org/
 [repo-write-the-doc]: https://github.com/writethedocs/docs/
 
-### Journalism / Visualization
+<a name='journalism_and_visualization'></a>
+### Journalism and Visualization
 
 * [Data Journalism Handbook][site-data-journalism-handbook] (cc-sa)
 * [Intro to D3.js][repo-intro-to-d3] ([Site][site-intro-to-d3], Apache 2.0)
@@ -149,14 +159,17 @@ A curated list of awesome open source or open source licensed documents, guides,
 [site-intro-to-d3]: https://square.github.io/intro-to-d3/
 [site-data-journalism-handbook]: http://datajournalismhandbook.org/1.0/en/
 
+<a name='etc'></a>
 ### ETC
 
 * [Cocktails for programmers][repo-cocktails-for-programmer] (MIT)
 
 [repo-cocktails-for-programmer]: https://github.com/the-teacher/cocktails_for_programmers
 
+<a name=programming_languages'></a>
 ## Programming Languages
 
+<a name='coffeescript'></a>
 ### Cofeescript
 
 * [Cofeescript Cookbook][repo-coffee-cookbook] ([Site][site-coffee-cookbook], cc)
@@ -164,12 +177,14 @@ A curated list of awesome open source or open source licensed documents, guides,
 [site-coffee-cookbook]: https://coffeescript-cookbook.github.io/
 [repo-coffee-cookbook]: https://github.com/coffeescript-cookbook/coffeescript-cookbook.github.io
 
+<a name='css'></a>
 ### CSS
 
 * [idiomatic CSS][repo-idiomatic-css] (cc) - Principles of writing consistent
 
 [repo-idiomatic-css]: https://github.com/necolas/idiomatic-css
 
+<a name='ruby'></a>
 ### Ruby
 
 * [Why's Poignant Guide to Ruby][repo-poignant-ruby] ([Site][site-poignant-ruby], cc-sa)
@@ -191,8 +206,10 @@ A curated list of awesome open source or open source licensed documents, guides,
 [repo-poignant-ruby]: https://github.com/mislav/poignant-guide
 [site-poignant-ruby]: http://mislav.uniqpath.com/poignant-guide/book/
 
+<a name='clojure'></a>
 ### Clojure
 
+<a name='elixir'></a>
 ### Elixir
 
 * [Elixir Getting Started][repo-elixir-getting-started] ([Site][site-elixir-getting-started], Apache 2.0)
@@ -202,26 +219,31 @@ A curated list of awesome open source or open source licensed documents, guides,
 [site-elixir-getting-started]: http://elixir-lang.org/getting-started/introduction.html
 [repo-30-days-of-elixir]: https://github.com/seven1m/30-days-of-elixir
 
+<a name='erlang'></a>
 ### Erlang
 
 * Learn You Some Erlang for Great Good! ([Site][site-lysefgg], cc-nc-nd)
 
 [site-lysefgg]: http://learnyousomeerlang.com/content
 
+<a name='go'></a>
 ### Go
 
 * [Go by Example][repo-go-by-example] (cc)
 
 [repo-go-by-example]: https://github.com/mmcgrana/gobyexample
 
+<a name='haskell'></a>
 ### Haskell
 
 * Learn You a Haskell for Great Good! ([Site][site-lyhfgg], cc-nc-sa)
 
 [site-lyhfgg]: http://learnyouahaskell.com/chapters
 
+<a name='java'></a>
 ### Java
 
+<a name='javascript'></a>
 ### Javascript
 
 * Learning JavaScript Design Patterns ([Site][site-ljdp], cc-nc-nd)
@@ -249,12 +271,14 @@ A curated list of awesome open source or open source licensed documents, guides,
 [repo-js-garden]: https://github.com/BonsaiDen/JavaScript-Garden
 [site-js-garden]: http://bonsaiden.github.io/JavaScript-Garden/
 
+<a name='objective-c'></a>
 ### Objective-C
 
 * [NYTimes Objective-C Style Guide][repo-nytimes-objective-c-style-guide] (MIT)
 
 [repo-nytimes-objective-c-style-guide]: https://github.com/NYTimes/objective-c-style-guide
 
+<a name='php'></a>
 ### Php
 
 * [PHP: The Right Way][repo-php-right-way] ([Site][site-php-right-way], by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
@@ -264,6 +288,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 [repo-php-right-way]: https://github.com/codeguy/php-the-right-way
 [site-php-right-way]: http://www.phptherightway.com/
 
+<a name='python'></a>
 ### Python
 
 * [Python Enhancement Proposals][repo-peps] ([Site][site-peps], Open Publication License)
@@ -290,6 +315,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 [site-python-hguide]: http://docs.python-guide.org/en/latest/
 [repo-python-hguide]: https://github.com/kennethreitz/python-guide
 
+<a name='rust'></a>
 ### Rust
 
 * [The Rust Programming Language][repo-trpl] ([Site][site-trpl], MIT)
@@ -300,6 +326,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 [site-trpl]: http://doc.rust-lang.org/book/README.html
 [repo-trpl]: https://github.com/rust-lang/rust/tree/master/src/doc/trpl
 
+<a name='scala'></a>
 ### Scala
 
 * [Scala School!][repo-scala-school] ([Site][site-scala-school], Apache 2.0) - Lessons in the Fundamentals of Scala
@@ -307,14 +334,17 @@ A curated list of awesome open source or open source licensed documents, guides,
 [repo-scala-school]: https://github.com/twitter/scala_school
 [site-scala-school]: https://twitter.github.io/scala_school/
 
+<a name='tools'></a>
 ## Tools
 
+<a name='server'></a>
 ### Server
 
 * [Nginx Server Configs][repo-nginx-configs] (MIT)
 
 [repo-nginx-configs]: https://github.com/h5bp/server-configs-nginx
 
+<a name='editor'></a>
 ### Editor
 
 * emacs
@@ -322,6 +352,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 * emacs.sexy
 * vim.sexy
 
+<a name='git'></a>
 ### Git
 
 * [Pro Git][repo-progit] ([Site][site-progit], by-nc-sa)
@@ -332,14 +363,17 @@ A curated list of awesome open source or open source licensed documents, guides,
 [repo-progit]: https://github.com/progit/progit
 [site-progit]: http://git-scm.com/book/
 
+<a name='other_languages'></a>
 ## Other Languages
 
+<a name='korean'></a>
 ### Korean
 
 * 점프 투 파이썬 ([Site][site-jump-to-python], cc-nc-nd)
 
 [site-jump-to-python]: https://wikidocs.net/book/1
 
+<a name='chinese'></a>
 ### Chinese
 
 * [JavaScript 标准参考教程][repo-jstutorial] ([Site][site-jstutorial], cc-nc)
@@ -347,6 +381,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 [site-jstutorial]: http://javascript.ruanyifeng.com
 [repo-jstutorial]: https://github.com/ruanyf/jstutorial/
 
+<a name='another_documents_list'></a>
 ## Another Documents List / References
 
 * https://github.com/PharkMillups/beautiful-docs
@@ -356,5 +391,3 @@ A curated list of awesome open source or open source licensed documents, guides,
 * https://github.com/sindresorhus/awesome
 * https://github.com/rxin/db-readings
 * https://www.gitbook.io/
-
-
