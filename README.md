@@ -48,9 +48,15 @@ A curated list of awesome open source or open source licensed documents, guides,
 
 * [Crypto 101][repo-crypto-101] ([Site][site-crypto-101], cc-nc) - the introductory book on cryptography
 * [The little book about OS development][repo-littleosbook] ([Site][site-littleosbook], cc-nc-sa)
-* hdtp
-* sicp
+* How to Design Programs ([Site][site-htdp], cc-nc-nd)
+* Structure and Interpretation of Computer Programs ([Site][site-sicp], cc-sa)
+* Programming Languages: Application and Interpretation ([Site][site-plai], cc-nc-sa)
+* Practical Foundations for Programming Languages ([Site][site-pfpl], cc-nc-nd)
 
+[site-pfpl]: http://www.cs.cmu.edu/~rwh/plbook/
+[site-plai]: http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/
+[site-sicp]: https://mitpress.mit.edu/sicp/full-text/book/book.html
+[site-htdp]: http://www.ccs.neu.edu/home/matthias/HtDP2e/
 [site-crypto-101]: https://www.crypto101.io/
 [repo-crypto-101]: https://github.com/crypto101/book
 [repo-littleosbook]: https://github.com/littleosbook/littleosbook
@@ -103,7 +109,9 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [An App Launch Guide][repo-app-launch-guide] ([Site][site-app-launch-guide], Public Domain) - This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch
 * [Reverse Engineering for Beginners][repo-refb-book] ([Site][site-refb-book], cc-nc-nd)
 * [Build Podcast][repo-build-podcast] ([Site][site-build-podcast], Public Domain)
+* Mozilla Developer Network ([Site][site-mdn], cc-by-sa)
 
+[site-mdn]: https://developer.mozilla.org/en-US/
 [repo-build-podcast]: https://github.com/sayanee/build-podcast
 [site-build-podcast]: http://build-podcast.com/
 [repo-thoughtbot-guides]: https://github.com/thoughtbot/guides
@@ -298,9 +306,10 @@ A curated list of awesome open source or open source licensed documents, guides,
 * Dive Into Python 3 ([Site][site-diveintopython3], cc-sa)
 * [Explore Flask][repo-explore-flask] ([Site][site-explore-flask], Public Domain)
 * [Full Stack Python][repo-full-python] ([Site][site-full-python],  MIT) - Full Stack Python source with Pelican, Bootstrap and Markdown
-* sphinx
-* graphite
+* [Sphinx documentation][repo-sphinx-doc] ([Site][site-sphinx-doc], BSD)
 
+[repo-sphinx-doc]: https://github.com/sphinx-doc/sphinx/tree/master/doc
+[site-sphinx-doc]: http://sphinx-doc.org/contents.html
 [repo-full-python]: https://github.com/makaimc/fullstackpython.com
 [site-full-python]: http://www.fullstackpython.com/
 [repo-explore-flask]: https://github.com/rpicard/explore-flask
