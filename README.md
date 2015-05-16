@@ -6,8 +6,8 @@ A curated list of awesome open source or open source licensed documents, guides,
 
 ### Computer Science
 
-* [Crypto 101][repo-crypto-101] ([site][site-crypto-101], cc-nc) - the introductory book on cryptography
-* [The little book about OS development][repo-littleosbook] ([site][site-littleosbook], cc-nc-sa)
+* [Crypto 101][repo-crypto-101] ([Site][site-crypto-101], cc-nc) - the introductory book on cryptography
+* [The little book about OS development][repo-littleosbook] ([Site][site-littleosbook], cc-nc-sa)
 
 [site-crypto-101]: https://www.crypto101.io/
 [repo-crypto-101]: https://github.com/crypto101/book
@@ -59,13 +59,11 @@ A curated list of awesome open source or open source licensed documents, guides,
 
 [repo-build-podcast]: https://github.com/sayanee/build-podcast
 [site-build-podcast]: http://build-podcast.com/
-[repo-thoughtbot-guide]: https://github.com/thoughtbot/guides
+[repo-thoughtbot-guides]: https://github.com/thoughtbot/guides
 [repo-refb-book]: https://github.com/dennis714/RE-for-beginners
 [site-refb-book]: http://beginners.re/
 [repo-app-launch-guide]: https://github.com/adamwulf/app-launch-guide
 [site-app-launch-guide]: http://www.applaunchguide.com/
-
-
 
 ### World Wide Web
 
@@ -88,13 +86,12 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [Write the Doc][repo-write-the-doc] ([Site][site-write-the-doc], cc) - A place for Sphinx documentation and general writing of things.
 * [The Hitchhiker's Guide to Documentation!][repo-thgtd] ([Site][site-thgtd], cc-nc-sa)
 * [CommonMark Spec][repo-commonmark-spec] ([Site][site-commonmark-spec], cc-sa)
-* reStructuredText Markup Specification ([Site][http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html], [Index][index-rst-spec], Public Domain)
+* reStructuredText Markup Specification ([Site][site-rst-spec], Public Domain)
 * omegat
 
 [repo-commonmark-spec]: https://github.com/jgm/CommonMark
 [site-commonmark-spec]: http://spec.commonmark.org/
-[site-rst-spec]: reStructuredText Markup Specification
-[index-rst-spec]: reStructuredText Markup Specification
+[site-rst-spec]: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 [site-thgtd]: http://docs-guide.readthedocs.org/en/latest/
 [repo-thgtd]: https://github.com/chrismedrela/docs-guide
 [site-write-the-doc]: http://docs.writethedocs.org/
@@ -131,7 +128,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 
 * [idiomatic CSS][repo-idiomatic-css] (cc) - Principles of writing consistent
 
-[repo-idiomatic-css]https://github.com/necolas/idiomatic-css
+[repo-idiomatic-css]: https://github.com/necolas/idiomatic-css
 
 ### Ruby
 
@@ -159,7 +156,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 ### Elixir
 
 * [Elixir Getting Started][repo-elixir-getting-started] ([Site][site-elixir-getting-started], Apache 2.0)
-* [repo-30-days-of-elixir][30-days-of-elixir] (MIT) - A walk through the Elixir language in 30 exercises
+* [repo-30-days-of-elixir][repo-30-days-of-elixir] (MIT) - A walk through the Elixir language in 30 exercises
 
 [repo-elixir-getting-started]: https://github.com/elixir-lang/elixir-lang.github.com
 [site-elixir-getting-started]: http://elixir-lang.org/getting-started/introduction.html
@@ -193,9 +190,9 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [React Primer Draft][repo-react-primer] (GNU)
 * [Angular Style Guide][repo-angular-style-guide] (MIT)
 * [JavaScript : The Right Way][repo-jstherightway] ([Site][site-jstherightway], cc-nc-sa)
-* [Idiomatic JavaScript][site-idiomatic-js] (cc) - Principles of Writing Consistent, Idiomatic JavaScript
+* [Idiomatic JavaScript][repo-idiomatic-js] (cc) - Principles of Writing Consistent, Idiomatic JavaScript
 * [Angular Test Patterns][repo-angular-test-pattern] (MIT) - A High-Quality Guide for Testing Angular 1.x Applications
-* [Airbnb JavaScript Style Guide() {][airbnb-javascript] (MIT)
+* [Airbnb JavaScript Style Guide][airbnb-javascript] (MIT)
 * [JavaScript Garden][repo-js-garden] ([Site][site-js-garden], MIT) - A collection of documentation about the most quirky parts of the JavaScript language
 
 [repo-angular-style-guide]: https://github.com/johnpapa/angular-styleguide
@@ -235,10 +232,12 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [Ansible Documentation][repo-ansible-document] ([Site][site-ansible-document], GNU)
 * Dive Into Python 3 ([Site][site-diveintopython3], cc-sa)
 * [Explore Flask][repo-explore-flask] ([Site][site-explore-flask], Public Domain)
-* [Full Stack Python][repo-full-python] ([Site][site-full-python], MIT)
+* [Full Stack Python][repo-full-python] ([Site][site-full-python],  MIT) - Full Stack Python source with Pelican, Bootstrap and Markdown
 * sphinx
 * graphite
 
+[repo-full-python]: https://github.com/makaimc/fullstackpython.com
+[site-full-python]: http://www.fullstackpython.com/
 [repo-explore-flask]: https://github.com/rpicard/explore-flask
 [site-explore-flask]: https://exploreflask.com/
 [site-diveintopython3]: http://www.diveintopython3.net/
@@ -272,9 +271,9 @@ A curated list of awesome open source or open source licensed documents, guides,
 
 ### Server
 
-* [Nginx Server Configs[][repo-nginx-configs] (MIT)
+* [Nginx Server Configs][repo-nginx-configs] (MIT)
 
-[repo-nginx-configs]https://github.com/h5bp/server-configs-nginx
+[repo-nginx-configs]: https://github.com/h5bp/server-configs-nginx
 
 ### Editor
 
