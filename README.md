@@ -65,6 +65,9 @@ A curated list of awesome open source or open source licensed documents, guides,
 <a name='data_science'></a>
 ### Data Science
 
+* LearnDataScience https://github.com/nborwankar/LearnDataScience
+
+
 <a name='devops'></a>
 ### Devops
 
@@ -73,6 +76,9 @@ A curated list of awesome open source or open source licensed documents, guides,
 * Digital Oceans - Tutorials ([Site][site-do-tutorials] cc-nc-sa)
 * [.htaccess Snippets][repo-htaccess] (Public Domain) - A collection of useful .htaccess snippets
 * [Travis CI][repo-travis-docs] ([Site][site-travis-docs], MIT)
+* https://github.com/coreos/docs/
+* packer
+
 
 [site-travis-docs]: http://docs.travis-ci.com/
 [repo-travis-docs]: https://github.com/travis-ci/docs-travis-ci-com
@@ -127,6 +133,10 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [Dive Into HTML5][repo-diveintohtml5] ([Site][site-diveintohtml5], )
 * [Web Fundamentals][repo-web-fundamentles] ([Site][site-web-fundamentles], Apache 2.0) - Best practices for modern web development
 * [Code Guide][repo-code-guide] ([Site][site-code-guide], MIT) - Standards for flexible, durable, and sustainable HTML and CSS
+* https://github.com/hail2u/html-best-practices HTML Best Practices
+* https://github.com/webcomponents/webcomponents.github.io http://webcomponents.org
+* https://github.com/zenorocha/browser-diet http://browserdiet.com/ cc-sa, MIT
+* https://github.com/north/north MIT Design and development standards to align and guide your project. http://pointnorth.io/
 
 [repo-web-fundamentles]: https://github.com/google/WebFundamentals/
 [site-web-fundamentles]: https://developers.google.com/web/fundamentals/
@@ -160,6 +170,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [Data Journalism Handbook][site-data-journalism-handbook] (cc-sa)
 * [Intro to D3.js][repo-intro-to-d3] ([Site][site-intro-to-d3], Apache 2.0)
 * [The Nature of Code][repo-natureofcode] ([Site][site-natureofcode], cc-nc, LGPL)
+* https://github.com/DrSkippy/Data-Science-45min-Intros
 
 [repo-natureofcode]: https://github.com/shiffman/The-Nature-of-Code
 [site-natureofcode]: http://natureofcode.com/
@@ -171,11 +182,22 @@ A curated list of awesome open source or open source licensed documents, guides,
 ### ETC
 
 * [Cocktails for programmers][repo-cocktails-for-programmer] (MIT)
+* Solarized
+* http://zguide.zeromq.org/page:all https://github.com/imatix/zguide cc-sa
+* https://github.com/nprapps/bestpractices
+* https://github.com/10up/Engineering-Best-Practices
+* https://github.com/peco/peco/releases
+* https://github.com/adambard/learnxinyminutes-docs cc-sa http://learnxinyminutes.com/
+* 
 
 [repo-cocktails-for-programmer]: https://github.com/the-teacher/cocktails_for_programmers
 
 <a name=programming_languages'></a>
 ## Programming Languages
+
+### C
+
+* https://github.com/mcinglis/c-style
 
 <a name='coffeescript'></a>
 ### Cofeescript
@@ -188,6 +210,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 <a name='css'></a>
 ### CSS
 
+* bootstrap
 * [idiomatic CSS][repo-idiomatic-css] (cc) - Principles of writing consistent
 
 [repo-idiomatic-css]: https://github.com/necolas/idiomatic-css
@@ -204,6 +227,9 @@ A curated list of awesome open source or open source licensed documents, guides,
 * learnxinyminutes-docs
 * [Better Spec][repo-better-spec] ([Site][site-better-spec], MIT)
 * [Ruby Hacking Guide][repo-rhg] ([Site][site-rhg-english], cc-nc-sa)
+* vagrant
+* https://practicingruby.com/
+* https://github.com/practicingruby/rbp-book
 
 [site-rhg-english]: https://ruby-hacking-guide.github.io/
 [repo-rhg]: https://github.com/tmm1/ruby-hacking-guide
@@ -217,20 +243,30 @@ A curated list of awesome open source or open source licensed documents, guides,
 <a name='clojure'></a>
 ### Clojure
 
+http://clojuredocs.org/
+
 <a name='elixir'></a>
 ### Elixir
 
 * [Elixir Getting Started][repo-elixir-getting-started] ([Site][site-elixir-getting-started], Apache 2.0)
 * [repo-30-days-of-elixir][repo-30-days-of-elixir] (MIT) - A walk through the Elixir language in 30 exercises
+* https://github.com/niftyn8/elixir_style_guide
 
 [repo-elixir-getting-started]: https://github.com/elixir-lang/elixir-lang.github.com
 [site-elixir-getting-started]: http://elixir-lang.org/getting-started/introduction.html
 [repo-30-days-of-elixir]: https://github.com/seven1m/30-days-of-elixir
 
+### Forth
+
+* Thinking Forth Project 
+
 <a name='erlang'></a>
 ### Erlang
 
 * Learn You Some Erlang for Great Good! ([Site][site-lysefgg], cc-nc-nd)
+* riak
+* http://lfe.gitbooks.io/sicp/
+* http://lfe.gitbooks.io/quick-start/
 
 [site-lysefgg]: http://learnyousomeerlang.com/content
 
@@ -238,6 +274,8 @@ A curated list of awesome open source or open source licensed documents, guides,
 ### Go
 
 * [Go by Example][repo-go-by-example] (cc)
+* docker
+* https://github.com/astaxie/build-web-application-with-golang
 
 [repo-go-by-example]: https://github.com/mmcgrana/gobyexample
 
@@ -245,11 +283,16 @@ A curated list of awesome open source or open source licensed documents, guides,
 ### Haskell
 
 * Learn You a Haskell for Great Good! ([Site][site-lyhfgg], cc-nc-sa)
+* https://github.com/bitemyapp/learnhaskell
 
 [site-lyhfgg]: http://learnyouahaskell.com/chapters
 
 <a name='java'></a>
 ### Java
+
+* android document
+* Best practices in Android development https://github.com/futurice/android-best-practices
+* http://mixi-inc.github.io/AndroidTraining/ cc-by https://github.com/mixi-inc/AndroidTraining
 
 <a name='javascript'></a>
 ### Javascript
@@ -264,6 +307,15 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [Angular Test Patterns][repo-angular-test-pattern] (MIT) - A High-Quality Guide for Testing Angular 1.x Applications
 * [Airbnb JavaScript Style Guide][repo-airbnb-javascript] (MIT)
 * [JavaScript Garden][repo-js-garden] ([Site][site-js-garden], MIT) - A collection of documentation about the most quirky parts of the JavaScript language
+* casperjs
+* moment
+* ember
+* react
+* https://github.com/alanjames1987/Node.js-Best-Practices
+* https://github.com/bevacqua/js function qualityGuide () { MIT
+* http://www.nodebeginner.org/ https://github.com/manuelkiessling/nodebeginner.org cc-nc-sa
+* https://github.com/workshopper/learnyounode Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.  MIT
+* https://leanpub.com/understandinges6/read cc-nc-nd
 
 [repo-angular-style-guide]: https://github.com/johnpapa/angular-styleguide
 [repo-react-primer]: https://github.com/mikechau/react-primer-draft/
@@ -279,10 +331,16 @@ A curated list of awesome open source or open source licensed documents, guides,
 [repo-js-garden]: https://github.com/BonsaiDen/JavaScript-Garden
 [site-js-garden]: http://bonsaiden.github.io/JavaScript-Garden/
 
+### Lisp
+
+* https://github.com/kvalle/diy-lisp BSD A hands-on, test driven guide to implementing a simple programming language 
+
 <a name='objective-c'></a>
 ### Objective-C
 
 * [NYTimes Objective-C Style Guide][repo-nytimes-objective-c-style-guide] (MIT)
+* https://github.com/futurice/ios-good-practices
+* https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions
 
 [repo-nytimes-objective-c-style-guide]: https://github.com/NYTimes/objective-c-style-guide
 
@@ -292,6 +350,8 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [PHP: The Right Way][repo-php-right-way] ([Site][site-php-right-way], by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 * zend
 * phpmyadmin
+* symfony
+* Laravel
 
 [repo-php-right-way]: https://github.com/codeguy/php-the-right-way
 [site-php-right-way]: http://www.phptherightway.com/
@@ -307,6 +367,8 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [Explore Flask][repo-explore-flask] ([Site][site-explore-flask], Public Domain)
 * [Full Stack Python][repo-full-python] ([Site][site-full-python],  MIT) - Full Stack Python source with Pelican, Bootstrap and Markdown
 * [Sphinx documentation][repo-sphinx-doc] ([Site][site-sphinx-doc], BSD)
+* sqlalchemy
+* Pylons
 
 [repo-sphinx-doc]: https://github.com/sphinx-doc/sphinx/tree/master/doc
 [site-sphinx-doc]: http://sphinx-doc.org/contents.html
@@ -329,6 +391,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 
 * [The Rust Programming Language][repo-trpl] ([Site][site-trpl], MIT)
 * [Rust by Example][repo-rust-by-example] ([Site][site-rust-by-example], MIT)
+* https://github.com/steveklabnik/rust_for_rubyists http://rustforrubyists.com/ AGPL
 
 [repo-rust-by-example]: https://github.com/rust-lang/rust-by-example
 [site-rust-by-example]: http://rustbyexample.com/
@@ -337,6 +400,10 @@ A curated list of awesome open source or open source licensed documents, guides,
 
 <a name='scala'></a>
 ### Scala
+
+* https://github.com/alexandru/scala-best-practices
+* http://docs.scala-lang.org/contribute.html
+* twitter.github.com/effectivescala https://github.com/twitter/effectivescala cc-by
 
 * [Scala School!][repo-scala-school] ([Site][site-scala-school], Apache 2.0) - Lessons in the Fundamentals of Scala
 
@@ -360,6 +427,8 @@ A curated list of awesome open source or open source licensed documents, guides,
 * emacs lisp
 * emacs.sexy
 * vim.sexy
+* http://learnvimscriptthehardway.stevelosh.com/ Learn Vimscript the Hard Way https://github.com/sjl/learnvimscriptthehardway
+* https://github.com/bbatsov/emacs-lisp-style-guide cc
 
 <a name='git'></a>
 ### Git
@@ -367,6 +436,8 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [Pro Git][repo-progit] ([Site][site-progit], by-nc-sa)
 * git style
 * [Github Cheatsheet][repo-github-cheatsheet] (MIT) - A list of cool features of Git and GitHub
+* https://github.com/blynn/gitmagic GPL http://cs.stanford.edu/~blynn/gitmagic/
+* https://github.com/jlord/git-it BSD http://jlord.github.io/git-it
 
 [repo-github-cheatsheet]: https://github.com/tiimgreen/github-cheat-sheet
 [repo-progit]: https://github.com/progit/progit
@@ -386,6 +457,11 @@ A curated list of awesome open source or open source licensed documents, guides,
 ### Chinese
 
 * [JavaScript 标准参考教程][repo-jstutorial] ([Site][site-jstutorial], cc-nc)
+* https://github.com/astaxie/build-web-application-with-golang
+* http://nqdeng.github.io/7-days-nodejs/ https://github.com/nqdeng/7-days-nodejs
+* https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial MIT
+* https://github.com/the5fire/backbonejs-learning-note
+* https://github.com/ruanyf/es6tutorial cc-nc
 
 [site-jstutorial]: http://javascript.ruanyifeng.com
 [repo-jstutorial]: https://github.com/ruanyf/jstutorial/
@@ -400,3 +476,5 @@ A curated list of awesome open source or open source licensed documents, guides,
 * https://github.com/sindresorhus/awesome
 * https://github.com/rxin/db-readings
 * https://www.gitbook.io/
+* https://github.com/rasbt/python_reference
+* https://github.com/NARKOZ/guides
