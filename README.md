@@ -1,6 +1,6 @@
 # Awesome Documents
 
-A curated list of awesome open source or open source licensed documents, guides, books.
+This is not a list of free programming books. This is a curated list of open source or open source licensed documents, guides, books which can read, use, modify, translate, distribute and even rewrite under their license.
 
 ## Table of Contents
 
@@ -52,6 +52,18 @@ A curated list of awesome open source or open source licensed documents, guides,
 * Structure and Interpretation of Computer Programs ([Site][site-sicp], cc-sa)
 * Programming Languages: Application and Interpretation ([Site][site-plai], cc-nc-sa)
 * Practical Foundations for Programming Languages ([Site][site-pfpl], cc-nc-nd)
+* http://opendatastructures.org/ Open Data Structures cc
+* http://jeffe.cs.illinois.edu/teaching/algorithms/ Algorithms, Etc. cc-nc-sa
+* http://cglab.ca/~michiel/TheoryOfComputation/ cc-sa Introduction to Theory of Computation
+* http://cglab.ca/~michiel/DiscreteStructures/ cc-sa
+* https://code.google.com/p/graphbook/ GNU-FDL
+* Operating Systems and Middleware: Supporting Controlled Interaction https://gustavus.edu/+max/os-book/ cc-sa
+* http://heather.cs.ucdavis.edu/parprocbook cc-nd
+* https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html cc-sa
+* High Performance Computing cc http://open.umich.edu/education/si/resources/hpc-opentextbook/2009
+* http://nlpwp.org/book/ cc
+* Fundamentals of Programming: With Object Oriented Programming https://books.google.lk/books?printsec=frontcover&id=TZ-qjncsv6QC&hl=ko#v=onepage&q&f=false cc-nd-sa
+* cc-nc-sa http://www.computingbook.org/ Introduction to Computing
 
 [site-pfpl]: http://www.cs.cmu.edu/~rwh/plbook/
 [site-plai]: http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/
@@ -63,10 +75,12 @@ A curated list of awesome open source or open source licensed documents, guides,
 [site-littleosbook]: http://littleosbook.github.io/
 
 <a name='data_science'></a>
-### Data Science
+### Data Science and Statistics
 
 * LearnDataScience https://github.com/nborwankar/LearnDataScience
-
+* http://greenteapress.com/thinkstats/ Think Stats cc-sa
+* http://www.dkriesel.com/en/science/neural_networks cc-nc-nd
+* Data Mining for the Masses cc http://textbookequity.org/oct/Textbooks/North_DataMiningForTheMasses.pdf
 
 <a name='devops'></a>
 ### Devops
@@ -103,6 +117,9 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [The Architecture of Open Source Applications 1][repo-aosa] ([Site][site-aosa], cc-nc-sa)
 * [The Architecture of Open Source Applications 2][repo-aosa] ([Site][site-aosa], cc-nc-sa)
 * [The Performance of Open Source Applications][repo-aosa] ([Site][site-aosa], cc-nc-sa)
+* http://bzr.savannah.gnu.org/lh/books/changes Free Software Free Society: Selected Essays of Richard M. Stallman, 2nd Edition http://shop.fsf.org/product/free-software-free-society-2/ GNU-FDL
+* http://shop.fsf.org/product/free-as-in-freedom-2/ GNU-FDL
+* http://www.groklaw.net/staticpages/index.php?page=20051013231901859 The Daemon, the GNU & the Penguin ~ by Dr. Peter Salus cc-nc-nd
 
 [site-aosa]: http://aosabook.org/en/index.html
 [repo-aosa]: https://github.com/aosabook/aosabook
@@ -116,6 +133,8 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [Reverse Engineering for Beginners][repo-refb-book] ([Site][site-refb-book], cc-nc-nd)
 * [Build Podcast][repo-build-podcast] ([Site][site-build-podcast], Public Domain)
 * Mozilla Developer Network ([Site][site-mdn], cc-by-sa)
+* http://codingintro.com/ cc-nc
+* http://programminghistorian.org/ The Programming Historian cc https://github.com/programminghistorian/jekyll
 
 [site-mdn]: https://developer.mozilla.org/en-US/
 [repo-build-podcast]: https://github.com/sayanee/build-podcast
@@ -137,6 +156,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 * https://github.com/webcomponents/webcomponents.github.io http://webcomponents.org
 * https://github.com/zenorocha/browser-diet http://browserdiet.com/ cc-sa, MIT
 * https://github.com/north/north MIT Design and development standards to align and guide your project. http://pointnorth.io/
+* http://restfulwebapis.org/rws.html RESTful Web APIs cc-nc-nd
 
 [repo-web-fundamentles]: https://github.com/google/WebFundamentals/
 [site-web-fundamentles]: https://developers.google.com/web/fundamentals/
@@ -171,6 +191,7 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [Intro to D3.js][repo-intro-to-d3] ([Site][site-intro-to-d3], Apache 2.0)
 * [The Nature of Code][repo-natureofcode] ([Site][site-natureofcode], cc-nc, LGPL)
 * https://github.com/DrSkippy/Data-Science-45min-Intros
+* https://github.com/infoactive/data-design/ cc-nc-sa  https://infoactive.co/data-design
 
 [repo-natureofcode]: https://github.com/shiffman/The-Nature-of-Code
 [site-natureofcode]: http://natureofcode.com/
@@ -214,6 +235,10 @@ A curated list of awesome open source or open source licensed documents, guides,
 * [idiomatic CSS][repo-idiomatic-css] (cc) - Principles of writing consistent
 
 [repo-idiomatic-css]: https://github.com/necolas/idiomatic-css
+
+### Fortran
+
+* http://www.egr.unlv.edu/~ed/fortran Introduction to Programming using Fortran 95 cc-nc-sa
 
 <a name='ruby'></a>
 ### Ruby
@@ -284,6 +309,7 @@ http://clojuredocs.org/
 
 * Learn You a Haskell for Great Good! ([Site][site-lyhfgg], cc-nc-sa)
 * https://github.com/bitemyapp/learnhaskell
+* https://github.com/lotz84/haskellbyexample cc
 
 [site-lyhfgg]: http://learnyouahaskell.com/chapters
 
@@ -316,6 +342,7 @@ http://clojuredocs.org/
 * http://www.nodebeginner.org/ https://github.com/manuelkiessling/nodebeginner.org cc-nc-sa
 * https://github.com/workshopper/learnyounode Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.  MIT
 * https://leanpub.com/understandinges6/read cc-nc-nd
+* JavaScript Allongé cc-sa
 
 [repo-angular-style-guide]: https://github.com/johnpapa/angular-styleguide
 [repo-react-primer]: https://github.com/mikechau/react-primer-draft/
@@ -344,6 +371,10 @@ http://clojuredocs.org/
 
 [repo-nytimes-objective-c-style-guide]: https://github.com/NYTimes/objective-c-style-guide
 
+### Ocaml
+
+* https://realworldocaml.org/v1/en/html/ Real World OCaml cc-nc-nd
+
 <a name='php'></a>
 ### Php
 
@@ -369,6 +400,9 @@ http://clojuredocs.org/
 * [Sphinx documentation][repo-sphinx-doc] ([Site][site-sphinx-doc], BSD)
 * sqlalchemy
 * Pylons
+* http://www.swaroopch.com/notes/python/ cc-sa
+* https://github.com/swaroopch/byte_of_python http://www.swaroopch.com/notes/python/
+* https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit cc-sa  Learning to Program Using Python
 
 [repo-sphinx-doc]: https://github.com/sphinx-doc/sphinx/tree/master/doc
 [site-sphinx-doc]: http://sphinx-doc.org/contents.html
@@ -429,6 +463,7 @@ http://clojuredocs.org/
 * vim.sexy
 * http://learnvimscriptthehardway.stevelosh.com/ Learn Vimscript the Hard Way https://github.com/sjl/learnvimscriptthehardway
 * https://github.com/bbatsov/emacs-lisp-style-guide cc
+* http://files.swaroopch.com/vim/byte_of_vim_v051.pdf cc-sa
 
 <a name='git'></a>
 ### Git
@@ -478,3 +513,7 @@ http://clojuredocs.org/
 * https://www.gitbook.io/
 * https://github.com/rasbt/python_reference
 * https://github.com/NARKOZ/guides
+* http://www.oreilly.com/openbook/
+* http://www.onlineprogrammingbooks.com/
+* http://shop.fsf.org/category/books/
+* http://www.greenteapress.com/
