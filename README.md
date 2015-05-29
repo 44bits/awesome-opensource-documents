@@ -64,6 +64,10 @@ This is not a list of free programming books. This is a curated list of open sou
 * http://nlpwp.org/book/ cc
 * Fundamentals of Programming: With Object Oriented Programming https://books.google.lk/books?printsec=frontcover&id=TZ-qjncsv6QC&hl=ko#v=onepage&q&f=false cc-nd-sa
 * cc-nc-sa http://www.computingbook.org/ Introduction to Computing
+* https://github.com/ianw/bottomupcs http://www.bottomupcs.com/ cc-sa
+* Data Compression Explained http://mattmahoney.net/dc/dce.html ??
+* http://interactivepython.org/runestone/static/pythonds/index.html https://github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python Problem Solving with Algorithms and Data Structures cc-nc-sa
+
 
 [site-pfpl]: http://www.cs.cmu.edu/~rwh/plbook/
 [site-plai]: http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/
@@ -81,6 +85,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * http://greenteapress.com/thinkstats/ Think Stats cc-sa
 * http://www.dkriesel.com/en/science/neural_networks cc-nc-nd
 * Data Mining for the Masses cc http://textbookequity.org/oct/Textbooks/North_DataMiningForTheMasses.pdf
+* https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers Bayesian Methods for Hackers MIT
 
 <a name='devops'></a>
 ### Devops
@@ -92,7 +97,6 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Travis CI][repo-travis-docs] ([Site][site-travis-docs], MIT)
 * https://github.com/coreos/docs/
 * packer
-
 
 [site-travis-docs]: http://docs.travis-ci.com/
 [repo-travis-docs]: https://github.com/travis-ci/docs-travis-ci-com
@@ -157,6 +161,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * https://github.com/zenorocha/browser-diet http://browserdiet.com/ cc-sa, MIT
 * https://github.com/north/north MIT Design and development standards to align and guide your project. http://pointnorth.io/
 * http://restfulwebapis.org/rws.html RESTful Web APIs cc-nc-nd
+* http://domenlightenment.com/ DOM Enlightenment
 
 [repo-web-fundamentles]: https://github.com/google/WebFundamentals/
 [site-web-fundamentles]: https://developers.google.com/web/fundamentals/
@@ -175,6 +180,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [CommonMark Spec][repo-commonmark-spec] ([Site][site-commonmark-spec], cc-sa)
 * reStructuredText Markup Specification ([Site][site-rst-spec], Public Domain)
 * omegat
+* Prose for Programmers  https://github.com/joshuacc/prose-for-programmers A book to help software developers write better prose cc-nc-nd
 
 [repo-commonmark-spec]: https://github.com/jgm/CommonMark
 [site-commonmark-spec]: http://spec.commonmark.org/
@@ -192,6 +198,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [The Nature of Code][repo-natureofcode] ([Site][site-natureofcode], cc-nc, LGPL)
 * https://github.com/DrSkippy/Data-Science-45min-Intros
 * https://github.com/infoactive/data-design/ cc-nc-sa  https://infoactive.co/data-design
+* https://github.com/curran/screencasts MIT
 
 [repo-natureofcode]: https://github.com/shiffman/The-Nature-of-Code
 [site-natureofcode]: http://natureofcode.com/
@@ -342,7 +349,9 @@ http://clojuredocs.org/
 * http://www.nodebeginner.org/ https://github.com/manuelkiessling/nodebeginner.org cc-nc-sa
 * https://github.com/workshopper/learnyounode Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.  MIT
 * https://leanpub.com/understandinges6/read cc-nc-nd
-* JavaScript Allongé cc-sa
+* JavaScript Allongé cc-sa https://leanpub.com/javascript-allonge/read
+* https://github.com/maxogden/art-of-node cc
+* https://leanpub.com/understandinges6/read/ cc-nc-nd
 
 [repo-angular-style-guide]: https://github.com/johnpapa/angular-styleguide
 [repo-react-primer]: https://github.com/mikechau/react-primer-draft/
@@ -403,6 +412,9 @@ http://clojuredocs.org/
 * http://www.swaroopch.com/notes/python/ cc-sa
 * https://github.com/swaroopch/byte_of_python http://www.swaroopch.com/notes/python/
 * https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit cc-sa  Learning to Program Using Python
+* A guide to Python's magic methods https://github.com/RafeKettler/magicmethods ss-nc-sa
+* Think Python http://www.greenteapress.com/thinkpython/thinkpython.pdf cc-nc
+* cc https://developers.google.com/edu/python/ Google's Python Class
 
 [repo-sphinx-doc]: https://github.com/sphinx-doc/sphinx/tree/master/doc
 [site-sphinx-doc]: http://sphinx-doc.org/contents.html
@@ -426,6 +438,7 @@ http://clojuredocs.org/
 * [The Rust Programming Language][repo-trpl] ([Site][site-trpl], MIT)
 * [Rust by Example][repo-rust-by-example] ([Site][site-rust-by-example], MIT)
 * https://github.com/steveklabnik/rust_for_rubyists http://rustforrubyists.com/ AGPL
+* Rust for Python Programmers cc-nc-sa http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
 
 [repo-rust-by-example]: https://github.com/rust-lang/rust-by-example
 [site-rust-by-example]: http://rustbyexample.com/
@@ -438,7 +451,6 @@ http://clojuredocs.org/
 * https://github.com/alexandru/scala-best-practices
 * http://docs.scala-lang.org/contribute.html
 * twitter.github.com/effectivescala https://github.com/twitter/effectivescala cc-by
-
 * [Scala School!][repo-scala-school] ([Site][site-scala-school], Apache 2.0) - Lessons in the Fundamentals of Scala
 
 [repo-scala-school]: https://github.com/twitter/scala_school
@@ -517,3 +529,9 @@ http://clojuredocs.org/
 * http://www.onlineprogrammingbooks.com/
 * http://shop.fsf.org/category/books/
 * http://www.greenteapress.com/
+* http://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29
+* http://jsbooks.revolunet.com/
+
+<a name='license'></a>
+## License
+
