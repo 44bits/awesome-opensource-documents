@@ -1,6 +1,12 @@
-# Awesome Documents
+# Awesome Open Source Documents
 
 This is not a list of free programming books. This is a curated list of open source or open source licensed documents, guides, books which can read, use, modify, translate, distribute and even rewrite under their license.
+
+## Book Template
+
+```
+[TITLE][repository-url] by AUTHOR ([SITE][site-url], LICENSE) - SHORT DESCRITPTION
+```
 
 ## Table of Contents
 
@@ -11,6 +17,7 @@ This is not a list of free programming books. This is a curated list of open sou
   * [Methematics](#mathematics)
   * [Open Source](#open_source)
   * [Programming](#programming)
+  * [Database](#database)
   * [World Wide Web](#world_wide_web)
   * [Writing and Documentation](#writing_and_documentation)
   * [Journalism and Visualization](#journalism_and_visualization)
@@ -52,23 +59,28 @@ This is not a list of free programming books. This is a curated list of open sou
 * Structure and Interpretation of Computer Programs ([Site][site-sicp], cc-sa)
 * Programming Languages: Application and Interpretation ([Site][site-plai], cc-nc-sa)
 * Practical Foundations for Programming Languages ([Site][site-pfpl], cc-nc-nd)
-* http://opendatastructures.org/ Open Data Structures cc
-* http://jeffe.cs.illinois.edu/teaching/algorithms/ Algorithms, Etc. cc-nc-sa
-* http://cglab.ca/~michiel/TheoryOfComputation/ cc-sa Introduction to Theory of Computation
-* http://cglab.ca/~michiel/DiscreteStructures/ cc-sa
-* https://code.google.com/p/graphbook/ GNU-FDL
-* Operating Systems and Middleware: Supporting Controlled Interaction https://gustavus.edu/+max/os-book/ cc-sa
-* http://heather.cs.ucdavis.edu/parprocbook cc-nd
-* https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html cc-sa
-* High Performance Computing cc http://open.umich.edu/education/si/resources/hpc-opentextbook/2009
-* http://nlpwp.org/book/ cc
-* Fundamentals of Programming: With Object Oriented Programming https://books.google.lk/books?printsec=frontcover&id=TZ-qjncsv6QC&hl=ko#v=onepage&q&f=false cc-nd-sa
-* cc-nc-sa http://www.computingbook.org/ Introduction to Computing
-* https://github.com/ianw/bottomupcs http://www.bottomupcs.com/ cc-sa
+* [Open Data Structures][repo-ods] ([Site][site-ods], cc)
+* Algorithms, Etc. ([Site][site-algorithm-etc], cc-nc-sa)
+* Introduction to Theory of Computation ([Site][site-michiel-computation], cc-sa)
+* Discrete Structures for Computer Science: Counting, Recursion, and Probability ([Site][site-michiel-structures], cc-nc-sa) 
+* [graphbook][repo-graphbook] (GNU-FDL)
+* [Operating Systems and Middleware: Supporting Controlled Interaction][repo-operating-middleware] ([Site][site-operating-middleware] cc-sa)
+* Programming on Parallel Machines ([Site][site-parallel-machine], cc-nd)
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It?][repo-perfbook] ([Site][site-perfbook], cc-sa)
+* High Performance Computing ([Site][site-high-perfomance-computing], cc)
+* Natural Language Processing for the Working Programmer ([Site][site-nlpwp], cc)
+* Fundamentals of Programming: With Object Oriented Programming ([Site][site-funop], cc-nc-sa)
+* Introduction to Computing ([Site][site-introtocom]], cc-nc-sa)
+* [Computer Science from the Bottom Up][repo-csftbu] ([Site][site-csftbu], cc-sa)
+* [Problem Solving with Algorithms and Data Structures][repo-psads] ([Site][site-psads], cc-nc-sa)
 * Data Compression Explained http://mattmahoney.net/dc/dce.html ??
-* http://interactivepython.org/runestone/static/pythonds/index.html https://github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python Problem Solving with Algorithms and Data Structures cc-nc-sa
 
-
+[repo-psads]: https://github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python
+[site-psads]: http://interactivepython.org/runestone/static/pythonds/index.html 
+[repo-csftbu]: https://github.com/ianw/bottomupcs
+[site-csftbu]: http://www.bottomupcs.com/
+[site-introtocom]: http://www.computingbook.org/
+[site-funop]: https://books.google.lk/books?printsec=frontcover&id=TZ-qjncsv6QC&hl=ko#v=onepage&q&f=false
 [site-pfpl]: http://www.cs.cmu.edu/~rwh/plbook/
 [site-plai]: http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/
 [site-sicp]: https://mitpress.mit.edu/sicp/full-text/book/book.html
@@ -77,15 +89,36 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-crypto-101]: https://github.com/crypto101/book
 [repo-littleosbook]: https://github.com/littleosbook/littleosbook
 [site-littleosbook]: http://littleosbook.github.io/
+[site-ods]: http://opendatastructures.org/
+[redo-ods]: https://github.com/patmorin/ods
+[site-algorithm-etc]: http://jeffe.cs.illinois.edu/teaching/algorithms/
+[site-michiel-structures]: http://cglab.ca/~michiel/DiscreteStructures/
+[site-michiel-computation]: http://cglab.ca/~michiel/TheoryOfComputation/
+[repo-graphbook]: https://code.google.com/p/graphbook/
+[site-operating-middleware]: https://gustavus.edu/+max/os-book/
+[repo-operating-middleware]: https://github.com/Max-Hailperin/Operating-Systems-and-Middleware--Supporting-Controlled-Interaction
+[site-parallel-machine]: http://heather.cs.ucdavis.edu/parprocbook
+[repo-perfbook]: https://github.com/sbinet/perfbook
+[site-perfbook]: https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
+[site-high-performance-computing]:  http://open.umich.edu/education/si/resources/hpc-opentextbook/2009
+[site-nlpwp]: http://nlpwp.org/book/
 
 <a name='data_science'></a>
 ### Data Science and Statistics
 
-* LearnDataScience https://github.com/nborwankar/LearnDataScience
-* http://greenteapress.com/thinkstats/ Think Stats cc-sa
-* http://www.dkriesel.com/en/science/neural_networks cc-nc-nd
-* Data Mining for the Masses cc http://textbookequity.org/oct/Textbooks/North_DataMiningForTheMasses.pdf
-* https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers Bayesian Methods for Hackers MIT
+* [LearnDataScience][repo-leads] (BSD) - Open Content for self-directed learning in data science
+* [Think Stats][repo-thinkstats] ([Site][site-thinkstats], cc-sa) - Probability and Statistics for Programmers
+* A Brief Introduction to Neural Networks ([Site][site-abinn], cc-nc-nd)
+* Data Mining for the Masses ([PDF][site-dmftm], cc)
+* [Bayesian Methods for Hackers][repo-baymh] ([Site][site-baymh], MIT)
+
+[site-baymh]: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+[repo-baymh]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+[site-dmftm]: http://textbookequity.org/oct/Textbooks/North_DataMiningForTheMasses.pdf
+[site-abinn]: http://www.dkriesel.com/en/science/neural_networks
+[repo-thinkstats]: https://code.google.com/p/thinkstats
+[site-thinkstats]: http://greenteapress.com/thinkstats/
+[repo-leads]: https://github.com/nborwankar/LearnDataScience
 
 <a name='devops'></a>
 ### Devops
@@ -95,9 +128,13 @@ This is not a list of free programming books. This is a curated list of open sou
 * Digital Oceans - Tutorials ([Site][site-do-tutorials] cc-nc-sa)
 * [.htaccess Snippets][repo-htaccess] (Public Domain) - A collection of useful .htaccess snippets
 * [Travis CI][repo-travis-docs] ([Site][site-travis-docs], MIT)
-* https://github.com/coreos/docs/
-* packer
+* [CoreOS Documentation][repo-coreos] ([Site][site-coreos], Apache 2.0) - Documentation for CoreOS
+* [Packer Documentation][repo-packer] ([Site][site-packer], MPL)
 
+[repo-packer]: https://github.com/mitchellh/packer/tree/master/website/source/docs
+[site-packer]: https://www.packer.io/docs
+[site-coreos]: https://coreos.com/docs/
+[repo-coreos]: https://github.com/coreos/docs/
 [site-travis-docs]: http://docs.travis-ci.com/
 [repo-travis-docs]: https://github.com/travis-ci/docs-travis-ci-com
 [repo-twelve-factor]: https://github.com/heroku/12factor
@@ -121,10 +158,13 @@ This is not a list of free programming books. This is a curated list of open sou
 * [The Architecture of Open Source Applications 1][repo-aosa] ([Site][site-aosa], cc-nc-sa)
 * [The Architecture of Open Source Applications 2][repo-aosa] ([Site][site-aosa], cc-nc-sa)
 * [The Performance of Open Source Applications][repo-aosa] ([Site][site-aosa], cc-nc-sa)
-* http://bzr.savannah.gnu.org/lh/books/changes Free Software Free Society: Selected Essays of Richard M. Stallman, 2nd Edition http://shop.fsf.org/product/free-software-free-society-2/ GNU-FDL
+* [Free Software Free Society: Selected Essays][repo-fsfs] ([Site][site-fsfs], GNU-FDL)
 * http://shop.fsf.org/product/free-as-in-freedom-2/ GNU-FDL
-* http://www.groklaw.net/staticpages/index.php?page=20051013231901859 The Daemon, the GNU & the Penguin ~ by Dr. Peter Salus cc-nc-nd
+* The Daemon, the GNU & the Penguin ~ by Dr. Peter Salus ([Site][site-tdtgtp], cc-nc-nd)
 
+[site-tdtgtp]: http://www.groklaw.net/staticpages/index.php?page=20051013231901859
+[site-fsfs]: http://shop.fsf.org/product/free-software-free-society-2/
+[repo-fsfs]: http://bzr.savannah.gnu.org/lh/books/changes
 [site-aosa]: http://aosabook.org/en/index.html
 [repo-aosa]: https://github.com/aosabook/aosabook
 
@@ -137,9 +177,13 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Reverse Engineering for Beginners][repo-refb-book] ([Site][site-refb-book], cc-nc-nd)
 * [Build Podcast][repo-build-podcast] ([Site][site-build-podcast], Public Domain)
 * Mozilla Developer Network ([Site][site-mdn], cc-by-sa)
-* http://codingintro.com/ cc-nc
-* http://programminghistorian.org/ The Programming Historian cc https://github.com/programminghistorian/jekyll
+* [The Little Introduction To Programming][repo-tlitp] ([Site][site-tlitp], cc-nc)
+* [The Programming Historian][repo-tphistorian] ([Site][site-tphistorian], cc)
 
+[repo-tphistorian]: https://github.com/programminghistorian/jekyll
+[site-tphistorian]: http://programminghistorian.org/
+[repo-tlitp]: https://github.com/karlseguin/the-little-introduction-to-programming
+[site-tlitp]: http://codingintro.com/
 [site-mdn]: https://developer.mozilla.org/en-US/
 [repo-build-podcast]: https://github.com/sayanee/build-podcast
 [site-build-podcast]: http://build-podcast.com/
@@ -149,6 +193,13 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-app-launch-guide]: https://github.com/adamwulf/app-launch-guide
 [site-app-launch-guide]: http://www.applaunchguide.com/
 
+<a name='database'></a>
+### Database
+
+* [Elasticsearch - The Definitive Guide][repo-elastic-dg] ([Site][site-elastic-dg]cc-nc-nd)
+
+[site-elastic-dg]: https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html
+
 <a name='world_wide_web'></a>
 ### World Wide Web
 
@@ -156,13 +207,20 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Dive Into HTML5][repo-diveintohtml5] ([Site][site-diveintohtml5], )
 * [Web Fundamentals][repo-web-fundamentles] ([Site][site-web-fundamentles], Apache 2.0) - Best practices for modern web development
 * [Code Guide][repo-code-guide] ([Site][site-code-guide], MIT) - Standards for flexible, durable, and sustainable HTML and CSS
-* https://github.com/hail2u/html-best-practices HTML Best Practices
-* https://github.com/webcomponents/webcomponents.github.io http://webcomponents.org
+* [HTML Best Practices][repo-html-best] (cc0)
+* [WebComponents.org][repo-webponents] ([Site][site-webcomponents], cc-sa)
 * https://github.com/zenorocha/browser-diet http://browserdiet.com/ cc-sa, MIT
-* https://github.com/north/north MIT Design and development standards to align and guide your project. http://pointnorth.io/
-* http://restfulwebapis.org/rws.html RESTful Web APIs cc-nc-nd
-* http://domenlightenment.com/ DOM Enlightenment
+* [North][repo-north] ([Site][site-north], MIT) - MIT Design and development standards to align and guide your project.
+* RESTful Web APIs ([Site][site-restful-web-apis], cc-nc-nd)
+* DOM Enlightenment ([Site][site-domenlight], cc-nc-nd)
 
+[site-domenlight]: http://domenlightenment.com/
+[site-restful-web-apis]: http://restfulwebapis.org/rws.html
+[repo-north]: https://github.com/north/north
+[site-north]: http://pointnorth.io/
+[repo-webcomponents]: https://github.com/webcomponents/webcomponents.github.io
+[site-webcomponents]: http://webcomponents.org/
+[repo-html-best]: https://github.com/hail2u/html-best-practices
 [repo-web-fundamentles]: https://github.com/google/WebFundamentals/
 [site-web-fundamentles]: https://developers.google.com/web/fundamentals/
 [repo-code-guide]: https://github.com/mdo/code-guide
@@ -180,8 +238,9 @@ This is not a list of free programming books. This is a curated list of open sou
 * [CommonMark Spec][repo-commonmark-spec] ([Site][site-commonmark-spec], cc-sa)
 * reStructuredText Markup Specification ([Site][site-rst-spec], Public Domain)
 * omegat
-* Prose for Programmers  https://github.com/joshuacc/prose-for-programmers A book to help software developers write better prose cc-nc-nd
+* [Prose for Programmers][repo-prose-prog] (cc-nc-nd) - A book to help software developers write better prose 
 
+[repo-prose-prog]: https://github.com/joshuacc/prose-for-programmers
 [repo-commonmark-spec]: https://github.com/jgm/CommonMark
 [site-commonmark-spec]: http://spec.commonmark.org/
 [site-rst-spec]: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
@@ -196,10 +255,18 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Data Journalism Handbook][site-data-journalism-handbook] (cc-sa)
 * [Intro to D3.js][repo-intro-to-d3] ([Site][site-intro-to-d3], Apache 2.0)
 * [The Nature of Code][repo-natureofcode] ([Site][site-natureofcode], cc-nc, LGPL)
-* https://github.com/DrSkippy/Data-Science-45min-Intros
-* https://github.com/infoactive/data-design/ cc-nc-sa  https://infoactive.co/data-design
-* https://github.com/curran/screencasts MIT
+* [Data Science 45-min Intros][repo-data-science-45min] (Public Domain)
+* [Data + Design][repo-data-design] ([Site][site-data-design],  cc-nc-sa)
+* [D3 101 Screencasts][repo-d3-101-screencasts] ([Site][site-d3-101-screencasts], MIT)
+* [Thematic Cartography Guide][repo-themacg] ([Site][site-themacg], cc-nc)
 
+[repo-themacg]: https://github.com/axismaps/thematic-cartography
+[site-themacg]: http://axismaps.github.io/thematic-cartography/
+[site-d3-101-screencasts]: https://www.youtube.com/watch?v=iuA-gmvJ5n0&list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb
+[repo-d3-101-screencasts]: https://github.com/curran/screencasts/
+[repo-data-design]: https://github.com/infoactive/data-design/
+[site-data-design]: https://infoactive.co/data-design
+[repo-data-science-45min]: https://github.com/DrSkippy/Data-Science-45min-Intros
 [repo-natureofcode]: https://github.com/shiffman/The-Nature-of-Code
 [site-natureofcode]: http://natureofcode.com/
 [repo-intro-to-d3]: https://github.com/square/intro-to-d3
@@ -215,8 +282,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * https://github.com/nprapps/bestpractices
 * https://github.com/10up/Engineering-Best-Practices
 * https://github.com/peco/peco/releases
-* https://github.com/adambard/learnxinyminutes-docs cc-sa http://learnxinyminutes.com/
-* 
+* https://github.c om/adambard/learnxinyminutes-docs cc-sa http://learnxinyminutes.com/
 
 [repo-cocktails-for-programmer]: https://github.com/the-teacher/cocktails_for_programmers
 
@@ -439,6 +505,7 @@ http://clojuredocs.org/
 * [Rust by Example][repo-rust-by-example] ([Site][site-rust-by-example], MIT)
 * https://github.com/steveklabnik/rust_for_rubyists http://rustforrubyists.com/ AGPL
 * Rust for Python Programmers cc-nc-sa http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
+* https://github.com/rust-lang/rfcs ??? 
 
 [repo-rust-by-example]: https://github.com/rust-lang/rust-by-example
 [site-rust-by-example]: http://rustbyexample.com/
@@ -535,3 +602,8 @@ http://clojuredocs.org/
 <a name='license'></a>
 ## License
 
+## etc(uncategorized)
+
+https://ramnathv.github.io/pycon2014-r/ https://github.com/idocs/test1 Apache License 2.0
+http://www.jstatsoft.org/ cc
+https://github.com/jlevy/the-art-of-command-line cc-sa
