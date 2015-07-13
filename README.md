@@ -63,7 +63,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * Algorithms, Etc. ([Site][site-algorithm-etc], cc-nc-sa)
 * Introduction to Theory of Computation ([Site][site-michiel-computation], cc-sa)
 * Discrete Structures for Computer Science: Counting, Recursion, and Probability ([Site][site-michiel-structures], cc-nc-sa) 
-* [graphbook][repo-graphbook] (GNU-FDL)
+* [graphbook][repo-graphbook] (GNU-FDL) - A book on algorithmic graph theory
 * [Operating Systems and Middleware: Supporting Controlled Interaction][repo-operating-middleware] ([Site][site-operating-middleware] cc-sa)
 * Programming on Parallel Machines ([Site][site-parallel-machine], cc-nd)
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?][repo-perfbook] ([Site][site-perfbook], cc-sa)
@@ -277,13 +277,22 @@ This is not a list of free programming books. This is a curated list of open sou
 ### ETC
 
 * [Cocktails for programmers][repo-cocktails-for-programmer] (MIT)
-* Solarized
-* http://zguide.zeromq.org/page:all https://github.com/imatix/zguide cc-sa
-* https://github.com/nprapps/bestpractices
-* https://github.com/10up/Engineering-Best-Practices
-* https://github.com/peco/peco/releases
-* https://github.c om/adambard/learnxinyminutes-docs cc-sa http://learnxinyminutes.com/
+* [Solarized][repo-solarized] ([Site][site-solarized], MIT)
+* [ØMQ - The Guide][repo-zguide] ([Site][site-zguide] cc-nc-sa)
+* [NPR Visuals' Best Practices][repo-npr-bp] (cc)
+* [10up Engineering Best Practices][repo-10up-bp] ([Site][site-10up-bp], MIT)
+* [Peco REAMDE][repo-peco] (MIT) - Simplistic interactive filtering tool 
+* [Learn X in Y minutes][repo-xyminutes] ([Site][site-xyminutes], cc-sa)
 
+[site-xyminutes]: http://learnxinyminutes.com/
+[repo-xyminutes]: https://github.com/adambard/learnxinyminutes-docs
+[repo-peco]: https://github.com/peco/peco
+[repo-10up-bp]: https://github.com/10up/Engineering-Best-Practices
+[site-10up-bp]: https://10up.github.io/Engineering-Best-Practices/
+[site-zguide]: http://zguide.zeromq.org/
+[repo-zguide]: https://github.com/imatix/zguide
+[repo-solarized]: https://github.com/altercation/ethanschoonover.com/tree/master/projects/solarized
+[site-solarized]: http://ethanschoonover.com/solarized
 [repo-cocktails-for-programmer]: https://github.com/the-teacher/cocktails_for_programmers
 
 <a name=programming_languages'></a>
@@ -291,7 +300,9 @@ This is not a list of free programming books. This is a curated list of open sou
 
 ### C
 
-* https://github.com/mcinglis/c-style
+* [C Style][repo-cstyle] (cc-sa)
+
+[repo-cstyle]: https://github.com/mcinglis/c-style
 
 <a name='coffeescript'></a>
 ### Cofeescript
@@ -304,30 +315,37 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='css'></a>
 ### CSS
 
-* bootstrap
+* [Bootstrap][repo-bootstrap] ([Site][site-bootstrap], cc)
 * [idiomatic CSS][repo-idiomatic-css] (cc) - Principles of writing consistent
+* [Font Awesome][repo-font-awesome] ([Site][site-font-awesome], cc) - The iconic font and CSS toolkit
 
+[repo-font-awesome]: https://github.com/FortAwesome/Font-Awesome/tree/master/src
+[site-font-awesome]: http://fortawesome.github.io/Font-Awesome/
+[site-bootstrap]: http://getbootstrap.com/
+[repo-bootstrap]: https://github.com/twbs/bootstrap/tree/master/docs
 [repo-idiomatic-css]: https://github.com/necolas/idiomatic-css
 
 ### Fortran
 
-* http://www.egr.unlv.edu/~ed/fortran Introduction to Programming using Fortran 95 cc-nc-sa
+*  Introduction to Programming using Fortran 95 cc-nc-sa
+
+http://www.egr.unlv.edu/~ed/fortran
 
 <a name='ruby'></a>
 ### Ruby
 
 * [Why's Poignant Guide to Ruby][repo-poignant-ruby] ([Site][site-poignant-ruby], cc-sa)
 * [Rails Guide][repo-rails-guide] ([Site][site-rails-guide], cc-sa)
-* Middleman
-* Jekyll
 * Rails Style Guide
 * Ruby Style Guide
-* learnxinyminutes-docs
 * [Better Spec][repo-better-spec] ([Site][site-better-spec], MIT)
 * [Ruby Hacking Guide][repo-rhg] ([Site][site-rhg-english], cc-nc-sa)
-* vagrant
 * https://practicingruby.com/
 * https://github.com/practicingruby/rbp-book
+* ruby koan
+* Middleman
+* Jekyll
+* vagrant
 
 [site-rhg-english]: https://ruby-hacking-guide.github.io/
 [repo-rhg]: https://github.com/tmm1/ruby-hacking-guide
@@ -341,7 +359,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='clojure'></a>
 ### Clojure
 
-http://clojuredocs.org/
+* http://clojuredocs.org/
 
 <a name='elixir'></a>
 ### Elixir
@@ -607,3 +625,4 @@ http://clojuredocs.org/
 https://ramnathv.github.io/pycon2014-r/ https://github.com/idocs/test1 Apache License 2.0
 http://www.jstatsoft.org/ cc
 https://github.com/jlevy/the-art-of-command-line cc-sa
+https://github.com/jeffThompson/CollisionDetection
