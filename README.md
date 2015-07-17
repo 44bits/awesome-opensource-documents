@@ -237,7 +237,6 @@ This is not a list of free programming books. This is a curated list of open sou
 * [The Hitchhiker's Guide to Documentation!][repo-thgtd] ([Site][site-thgtd], cc-nc-sa)
 * [CommonMark Spec][repo-commonmark-spec] ([Site][site-commonmark-spec], cc-sa)
 * reStructuredText Markup Specification ([Site][site-rst-spec], Public Domain)
-* omegat
 * [Prose for Programmers][repo-prose-prog] (cc-nc-nd) - A book to help software developers write better prose 
 
 [repo-prose-prog]: https://github.com/joshuacc/prose-for-programmers
@@ -336,17 +335,20 @@ http://www.egr.unlv.edu/~ed/fortran
 
 * [Why's Poignant Guide to Ruby][repo-poignant-ruby] ([Site][site-poignant-ruby], cc-sa)
 * [Rails Guide][repo-rails-guide] ([Site][site-rails-guide], cc-sa)
-* Rails Style Guide
-* Ruby Style Guide
+* [The Rails Style Guide][repo-rails-style-guide] (cc) - A community-driven Ruby on Rails 4 style guide 
+* [Ruby Style Guide][repo-ruby-style-guide] (cc) - A community-driven Ruby coding style guide 
 * [Better Spec][repo-better-spec] ([Site][site-better-spec], MIT)
 * [Ruby Hacking Guide][repo-rhg] ([Site][site-rhg-english], cc-nc-sa)
-* https://practicingruby.com/
-* https://github.com/practicingruby/rbp-book
-* ruby koan
-* Middleman
-* Jekyll
-* vagrant
+* Practicing Ruby ([Site][site-practicing-ruby], cc-sa)
+* [Ruby Best Practices][repo-rbp] (cc-nc-sa)
+* [Neo Ruby Koans][repo-ruby-koan] ([Site][site-ruby-koan], cc-nc-sa) - A set of Koans to teach the Ruby language
 
+[repo-ruby-koan]: https://github.com/neo/ruby_koans
+[site-ruby-koan]: https://github.com/neo/ruby_koans
+[repo-rbp]: https://github.com/practicingruby/rbp-book
+[repo-practicing-ruby]: https://practicingruby.com/about
+[repo-ruby-style-guide]: https://github.com/bbatsov/ruby-style-guide
+[repo-rails-style-guide]: https://github.com/bbatsov/rails-style-guide
 [site-rhg-english]: https://ruby-hacking-guide.github.io/
 [repo-rhg]: https://github.com/tmm1/ruby-hacking-guide
 [repo-better-spec]: https://github.com/andreareginato/betterspecs/
@@ -359,49 +361,58 @@ http://www.egr.unlv.edu/~ed/fortran
 <a name='clojure'></a>
 ### Clojure
 
-* http://clojuredocs.org/
+* [ClojureDocs][repo-clojure-docs] ([Site][site-clojure-docs], Eclipse Public License)
+
+[site-clojure-docs]: http://clojuredocs.org
+[repo-clojure-docs]
 
 <a name='elixir'></a>
 ### Elixir
 
 * [Elixir Getting Started][repo-elixir-getting-started] ([Site][site-elixir-getting-started], Apache 2.0)
 * [repo-30-days-of-elixir][repo-30-days-of-elixir] (MIT) - A walk through the Elixir language in 30 exercises
-* https://github.com/niftyn8/elixir_style_guide
+* [Elixir Style Guide][repo-elixir-style-guide] (cc) - A community driven style guide for Elixir 
 
+[repo-elixir-style-guide]: https://github.com/niftyn8/elixir_style_guide
 [repo-elixir-getting-started]: https://github.com/elixir-lang/elixir-lang.github.com
 [site-elixir-getting-started]: http://elixir-lang.org/getting-started/introduction.html
 [repo-30-days-of-elixir]: https://github.com/seven1m/30-days-of-elixir
 
 ### Forth
 
-* Thinking Forth Project 
+* Thinking Forth Project Thinking Forth Project ([PDF][site-thinking-forth], cc-nc-sa)
+
+[site-thinking-forth]: http://www.dnd.utwente.nl/~tim/colorforth/Leo-Brodie/thinking-forth.pdf
 
 <a name='erlang'></a>
 ### Erlang
 
 * Learn You Some Erlang for Great Good! ([Site][site-lysefgg], cc-nc-nd)
-* riak
-* http://lfe.gitbooks.io/sicp/
-* http://lfe.gitbooks.io/quick-start/
+* [Structure and Interpretation of Computer Program][repo-sicp-lfe] ([Site][site-sicp-lfe], cc-sa)
 
+[repo-sicp-lfe]: https://github.com/lfe/sicp
+[site-sicp-lfe]: http://lfe.gitbooks.io/sicp/
 [site-lysefgg]: http://learnyousomeerlang.com/content
 
 <a name='go'></a>
 ### Go
 
 * [Go by Example][repo-go-by-example] (cc)
-* docker
-* https://github.com/astaxie/build-web-application-with-golang
+* [Build Web Application With Golang][repo-bwawg] (cc-sa)
 
+[repo-bwawg]: https://github.com/astaxie/build-web-application-with-golang
 [repo-go-by-example]: https://github.com/mmcgrana/gobyexample
 
 <a name='haskell'></a>
 ### Haskell
 
 * Learn You a Haskell for Great Good! ([Site][site-lyhfgg], cc-nc-sa)
-* https://github.com/bitemyapp/learnhaskell
-* https://github.com/lotz84/haskellbyexample cc
+* [How to learn Haskell][repo-howtlh] (cc0)
+* [Haskell By Example][repo-haskell-example] ([Site][site], cc)
 
+[repo-haskell-example]: https://github.com/lotz84/haskellbyexample
+[site-haskell-example]: http://lotz84.github.io/haskellbyexample/
+[repo-howtlh]: https://github.com/bitemyapp/learnhaskell
 [site-lyhfgg]: http://learnyouahaskell.com/chapters
 
 <a name='java'></a>
@@ -575,6 +586,15 @@ http://www.egr.unlv.edu/~ed/fortran
 [repo-progit]: https://github.com/progit/progit
 [site-progit]: http://git-scm.com/book/
 
+## Document
+
+* riak
+* Middleman
+* Jekyll
+* vagrant
+* docker
+
+
 <a name='other_languages'></a>
 ## Other Languages
 
@@ -626,3 +646,5 @@ https://ramnathv.github.io/pycon2014-r/ https://github.com/idocs/test1 Apache Li
 http://www.jstatsoft.org/ cc
 https://github.com/jlevy/the-art-of-command-line cc-sa
 https://github.com/jeffThompson/CollisionDetection
+https://github.com/getify/You-Dont-Know-JS cc-nc-nd
+https://github.com/Carreau/jupyter-book
