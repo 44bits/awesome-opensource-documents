@@ -21,6 +21,8 @@ This is not a list of free programming books. This is a curated list of open sou
   * [World Wide Web](#world_wide_web)
   * [Writing and Documentation](#writing_and_documentation)
   * [Journalism and Visualization](#journalism_and_visualization)
+  * [Android Development](#android_devlopment)
+  * [IOS Development](#ios_devlopment)
 * [Programming Languages](#programming_languages)
   * [Coffeescript](#coffeescript)
   * [CSS](#css)
@@ -274,6 +276,12 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-intro-to-d3]: https://square.github.io/intro-to-d3/
 [site-data-journalism-handbook]: http://datajournalismhandbook.org/1.0/en/
 
+<a name='android_development'>
+### Android Development
+
+<a name='ios_development'>
+### IOS Development
+
 <a name='etc'></a>
 ### ETC
 
@@ -441,12 +449,14 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Airbnb JavaScript Style Guide][repo-airbnb-javascript] (MIT)
 * [JavaScript Garden][repo-js-garden] ([Site][site-js-garden], MIT) - A collection of documentation about the most quirky parts of the JavaScript language
 * [Node.js Best Practices][repo-nodejs-bp] ([Site][site-nodejs-bp], MIT)
-* [function qualityGuide ()][repo-function-quality] { (MIT)
+* [function qualityGuide () {][repo-function-quality] (MIT)
 * [The Node Beginner Book][repo-node-biginner] ([Site][site-node-biginner], cc-nc-sa)
 * [Learn You The Node.js For Much Win!][repo-learn-node-win] (MIT) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops. 
 * Understanding ECMAScript 6 ([Site][site-understanding-es6], cc-nc-nd)
 * [An introduction to Node.js][repo-art-of-node] (cc-sa)
+* [stream-handbook][repo-stream-handbook] (cc)
 
+[repo-stream-handbook]: https://github.com/substack/stream-handbook
 [repo-art-of-node]: https://github.com/maxogden/art-of-node
 [site-understanding-es6]: https://leanpub.com/understandinges6/read
 [repo-learn-node-win]: https://github.com/workshopper/learnyounode
@@ -521,9 +531,9 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-google-python]: https://developers.google.com/edu/python/
 [site-think-python]: http://www.greenteapress.com/thinkpython/thinkpython.pdf
 [repo-magic-methods]: https://github.com/RafeKettler/magicmethods
-[site-magit-methods]: http://www.rafekettler.com/magicmethods.html
+[site-magic-methods]: http://www.rafekettler.com/magicmethods.html
 [site-lpupython]: https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit
-[repo-byte-ptyhon]: https://github.com/swaroopch/byte_of_python
+[repo-byte-python]: https://github.com/swaroopch/byte_of_python
 [site-byte-python]: http://www.swaroopch.com/notes/python/
 [repo-sphinx-doc]: https://github.com/sphinx-doc/sphinx/tree/master/doc
 [site-sphinx-doc]: http://sphinx-doc.org/contents.html
@@ -546,10 +556,12 @@ This is not a list of free programming books. This is a curated list of open sou
 
 * [The Rust Programming Language][repo-trpl] ([Site][site-trpl], MIT)
 * [Rust by Example][repo-rust-by-example] ([Site][site-rust-by-example], MIT)
-* https://github.com/steveklabnik/rust_for_rubyists http://rustforrubyists.com/ AGPL
-* Rust for Python Programmers cc-nc-sa http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
-* https://github.com/rust-lang/rfcs ??? 
+* [Rust For Rubyists][repo-rust-rubyist] ([Site][site-rust-rubyist], AGPL)
+* Rust for Python Programmers ([Site][site-rust-python], cc-nc-sa)
 
+[site-rust-python]: http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
+[repo-rust-rubyist]: https://github.com/steveklabnik/rust_for_rubyists
+[site-rust-rubyist]: http://rustforrubyists.com/
 [repo-rust-by-example]: https://github.com/rust-lang/rust-by-example
 [site-rust-by-example]: http://rustbyexample.com/
 [site-trpl]: http://doc.rust-lang.org/book/README.html
@@ -558,11 +570,14 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='scala'></a>
 ### Scala
 
-* https://github.com/alexandru/scala-best-practices
-* http://docs.scala-lang.org/contribute.html
-* twitter.github.com/effectivescala https://github.com/twitter/effectivescala cc-by
+* [Scala Best Practices][repo-scala-bp] (cc)
+* [twitter.github.com/effectivescala][repo-effective-scala] ([Site][site-effective-scala], cc-by)
 * [Scala School!][repo-scala-school] ([Site][site-scala-school], Apache 2.0) - Lessons in the Fundamentals of Scala
 
+[repo-effective-scala]: https://github.com/twitter/effectivescala
+[site-effective-scala]: http://twitter.github.com/effectivescala
+[sacla-document]: http://docs.scala-lang.org/contribute.html
+[scala-bp]: https://github.com/alexandru/scala-best-practices
 [repo-scala-school]: https://github.com/twitter/scala_school
 [site-scala-school]: https://twitter.github.io/scala_school/
 
@@ -638,6 +653,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [A Detailed Cplusplus Concurrency Tutorial][repo-adcct] (MIT)
 * [Backbone.js入门教程][repo-backbonejs-note] (MIT)
 * [ECMAScript 6入门][repo-es6tutorial-cn] ([Site][site-es6tutorial-cn], cc-nc)
+
 [site-es6tutorial-cn]: http://es6.ruanyifeng.com/
 [repo-es6tutorial-cn]: https://github.com/ruanyf/es6tutorial
 [repo-backbonejs-note]: https://github.com/the5fire/backbonejs-learning-note
@@ -651,7 +667,9 @@ This is not a list of free programming books. This is a curated list of open sou
 ## Japanese
 
 * [Android Development Training Course][repo-and-training] ([Site][site-and-training], Apache 2.0)
+* [はてな教科書][repo-hatena-book] (cc-nc-sa) - はてな研修用教科書
 
+[repo-hatena-book]: https://github.com/hatena/Hatena-Textbook
 [repo-and-training]: https://github.com/mixi-inc/AndroidTraining
 [site-and-training]:http://mixi-inc.github.io/AndroidTraining/
 
@@ -673,16 +691,17 @@ This is not a list of free programming books. This is a curated list of open sou
 * http://www.greenteapress.com/
 * http://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29
 * http://jsbooks.revolunet.com/
+* https://github.com/vhf/free-programming-books
 
 <a name='license'></a>
 ## License
 
 ## etc(uncategorized)
 
-https://ramnathv.github.io/pycon2014-r/ https://github.com/idocs/test1 Apache License 2.0
-http://www.jstatsoft.org/ cc
-https://github.com/jlevy/the-art-of-command-line cc-sa
-https://github.com/jeffThompson/CollisionDetection
-https://github.com/getify/You-Dont-Know-JS cc-nc-nd
-https://github.com/Carreau/jupyter-book
-
+* https://ramnathv.github.io/pycon2014-r/ https://github.com/idocs/test1 Apache License 2.0
+* http://www.jstatsoft.org/ cc
+* https://github.com/jlevy/the-art-of-command-line cc-sa
+* https://github.com/jeffThompson/CollisionDetection
+* https://github.com/getify/You-Dont-Know-JS cc-nc-nd
+* https://github.com/Carreau/jupyter-book
+* https://www.gitbook.com/book/bigbadotis/gibber-user-manual/details
