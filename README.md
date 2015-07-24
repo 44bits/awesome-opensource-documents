@@ -49,7 +49,6 @@ This is not a list of free programming books. This is a curated list of open sou
 
 <a name='subjects'></a>
 ## Subjects
-
 <a name='computer_science'></a>
 ### Computer Science
 
@@ -326,9 +325,9 @@ This is not a list of free programming books. This is a curated list of open sou
 
 ### Fortran
 
-*  Introduction to Programming using Fortran 95 cc-nc-sa
+* Introduction to Programming using Fortran 95 ([Site]][site-ipufortran], cc-nc-sa)
 
-http://www.egr.unlv.edu/~ed/fortran
+[site-ipufortran]: http://www.egr.unlv.edu/~ed/fortran
 
 <a name='ruby'></a>
 ### Ruby
@@ -411,16 +410,52 @@ http://www.egr.unlv.edu/~ed/fortran
 * [Haskell By Example][repo-haskell-example] ([Site][site], cc)
 
 [repo-haskell-example]: https://github.com/lotz84/haskellbyexample
-[site-haskell-example]: http://lotz84.github.io/haskellbyexample/
+[site-haskell-exampl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e]: http://lotz84.github.io/haskellbyexample/
 [repo-howtlh]: https://github.com/bitemyapp/learnhaskell
 [site-lyhfgg]: http://learnyouahaskell.com/chapters
 
 <a name='java'></a>
 ### Java
 
-* android document
+* Android Developers - API Guide ([Site][site-android-api-guide], cc)
+
 * Best practices in Android development https://github.com/futurice/android-best-practices
-* http://mixi-inc.github.io/AndroidTraining/ cc-by https://github.com/mixi-inc/AndroidTraining
+* http://mixi-inc.github.io/AndroidTraining/ cc https://github.com/mixi-inc/AndroidTraining
+
+[site-android-api-gudie]: http://developer.android.com/guide/index.html
 
 <a name='javascript'></a>
 ### Javascript
@@ -435,7 +470,7 @@ http://www.egr.unlv.edu/~ed/fortran
 * [Angular Test Patterns][repo-angular-test-pattern] (MIT) - A High-Quality Guide for Testing Angular 1.x Applications
 * [Airbnb JavaScript Style Guide][repo-airbnb-javascript] (MIT)
 * [JavaScript Garden][repo-js-garden] ([Site][site-js-garden], MIT) - A collection of documentation about the most quirky parts of the JavaScript language
-* casperjs
+* casperjscasperjs
 * moment
 * ember
 * react
@@ -464,20 +499,26 @@ http://www.egr.unlv.edu/~ed/fortran
 
 ### Lisp
 
-* https://github.com/kvalle/diy-lisp BSD A hands-on, test driven guide to implementing a simple programming language 
+* [DIY Lisp][repo-diy-lisp] (BSD) - A hands-on, test driven guide to implementing a simple programming language 
+
+[repo-diy-lisp]: https://github.com/kvalle/diy-lisp
 
 <a name='objective-c'></a>
 ### Objective-C
 
 * [NYTimes Objective-C Style Guide][repo-nytimes-objective-c-style-guide] (MIT)
-* https://github.com/futurice/ios-good-practices
-* https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions
+* [iOS Good Practices][repo-ios-good-practices] (cc) - Good ideas for iOS development, by Futurice developers.
+* [iOS Developer and Designer Interview Questions][repo-ios-questions] (MIT) - A small guide to help those looking to hire a developer or designer for iOS work.
 
+[repo-ios-questions]: https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions
+[repo-ios-good-practices]: https://github.com/futurice/ios-good-practices
 [repo-nytimes-objective-c-style-guide]: https://github.com/NYTimes/objective-c-style-guide
 
 ### Ocaml
 
-* https://realworldocaml.org/v1/en/html/ Real World OCaml cc-nc-nd
+* Real World OCaml ([Site][site-real-world-ocaml], cc-nc-nd)
+
+[site-real-world-ocaml]: https://realworldocaml.org/v1/en/html/
 
 <a name='php'></a>
 ### Php
@@ -609,12 +650,17 @@ http://www.egr.unlv.edu/~ed/fortran
 ### Chinese
 
 * [JavaScript 标准参考教程][repo-jstutorial] ([Site][site-jstutorial], cc-nc)
-* https://github.com/astaxie/build-web-application-with-golang
-* http://nqdeng.github.io/7-days-nodejs/ https://github.com/nqdeng/7-days-nodejs
-* https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial MIT
-* https://github.com/the5fire/backbonejs-learning-note
+* [Build Web Applciation With Golang][repo-build-web-app-golang] (cc-sa) - A golang ebook intro how to build a web with golang 
+* [七天学会NodeJS][repo-7days-node] ([Site][site-7days-node], MIT)
+* [A Detailed Cplusplus Concurrency Tutorial][repo-adcct] (MIT)
+* [Backbone.js入门教程][repo-backbonejs-note] (MIT)
 * https://github.com/ruanyf/es6tutorial cc-nc
 
+[repo-backbonejs-note]: https://github.com/the5fire/backbonejs-learning-note
+[repo-adcct]: https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial
+[site-7days-node]: http://nqdeng.github.io/7-days-nodejs/ 
+[repo-7days-node]: https://github.com/nqdeng/7-days-nodejs
+[repo-build-web-app-golang]: https://github.com/astaxie/build-web-application-with-golang
 [site-jstutorial]: http://javascript.ruanyifeng.com
 [repo-jstutorial]: https://github.com/ruanyf/jstutorial/
 
@@ -648,3 +694,43 @@ https://github.com/jlevy/the-art-of-command-line cc-sa
 https://github.com/jeffThompson/CollisionDetection
 https://github.com/getify/You-Dont-Know-JS cc-nc-nd
 https://github.com/Carreau/jupyter-book
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
