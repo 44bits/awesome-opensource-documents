@@ -89,7 +89,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-littleosbook]: https://github.com/littleosbook/littleosbook
 [site-littleosbook]: http://littleosbook.github.io/
 [site-ods]: http://opendatastructures.org/
-[redo-ods]: https://github.com/patmorin/ods
+[repo-ods]: https://github.com/patmorin/ods
 [site-algorithm-etc]: http://jeffe.cs.illinois.edu/teaching/algorithms/
 [site-michiel-structures]: http://cglab.ca/~michiel/DiscreteStructures/
 [site-michiel-computation]: http://cglab.ca/~michiel/TheoryOfComputation/
@@ -158,9 +158,11 @@ This is not a list of free programming books. This is a curated list of open sou
 * [The Architecture of Open Source Applications 2][repo-aosa] ([Site][site-aosa], cc-nc-sa)
 * [The Performance of Open Source Applications][repo-aosa] ([Site][site-aosa], cc-nc-sa)
 * [Free Software Free Society: Selected Essays][repo-fsfs] ([Site][site-fsfs], GNU-FDL)
-* http://shop.fsf.org/product/free-as-in-freedom-2/ GNU-FDL
+* [Free as in Freedom (2.0)][repo-free-freedom2] ([Site][site-free-freedom-2], GNU-FDL)
 * The Daemon, the GNU & the Penguin ~ by Dr. Peter Salus ([Site][site-tdtgtp], cc-nc-nd)
 
+[repo-free-freedom-2]: http://bzr.savannah.gnu.org/lh/books/changes
+[site-free-freedom-2]: http://shop.fsf.org/product/free-as-in-freedom-2/
 [site-tdtgtp]: http://www.groklaw.net/staticpages/index.php?page=20051013231901859
 [site-fsfs]: http://shop.fsf.org/product/free-software-free-society-2/
 [repo-fsfs]: http://bzr.savannah.gnu.org/lh/books/changes
@@ -197,13 +199,14 @@ This is not a list of free programming books. This is a curated list of open sou
 
 * [Elasticsearch - The Definitive Guide][repo-elastic-dg] ([Site][site-elastic-dg]cc-nc-nd)
 
+[repo-elastic-dg]: https://github.com/elastic/elasticsearch-definitive-guide
 [site-elastic-dg]: https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html
 
 <a name='world_wide_web'></a>
 ### World Wide Web
 
 * [HTTP API Design Guide][repo-http-api] (cc) - HTTP API design guide extracted from work on the Heroku Platform API
-* [Dive Into HTML5][repo-diveintohtml5] ([Site][site-diveintohtml5], )
+* [Dive Into HTML5][repo-diveintohtml5] ([Site][site-diveintohtml5], cc)
 * [Web Fundamentals][repo-web-fundamentles] ([Site][site-web-fundamentles], Apache 2.0) - Best practices for modern web development
 * [Code Guide][repo-code-guide] ([Site][site-code-guide], MIT) - Standards for flexible, durable, and sustainable HTML and CSS
 * [HTML Best Practices][repo-html-best] (cc0)
@@ -282,6 +285,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Peco REAMDE][repo-peco] (MIT) - Simplistic interactive filtering tool 
 * [Learn X in Y minutes][repo-xyminutes] ([Site][site-xyminutes], cc-sa)
 
+[repo-npr-bp]: https://github.com/nprapps/bestpractices
 [site-xyminutes]: http://learnxinyminutes.com/
 [repo-xyminutes]: https://github.com/adambard/learnxinyminutes-docs
 [repo-peco]: https://github.com/peco/peco
@@ -325,7 +329,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 ### Fortran
 
-* Introduction to Programming using Fortran 95 ([Site]][site-ipufortran], cc-nc-sa)
+* Introduction to Programming using Fortran 95 ([Site][site-ipufortran], cc-nc-sa)
 
 [site-ipufortran]: http://www.egr.unlv.edu/~ed/fortran
 
@@ -410,40 +414,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Haskell By Example][repo-haskell-example] ([Site][site], cc)
 
 [repo-haskell-example]: https://github.com/lotz84/haskellbyexample
-[site-haskell-exampl
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-e]: http://lotz84.github.io/haskellbyexample/
+[site-haskell-example]: http://lotz84.github.io/haskellbyexample/
 [repo-howtlh]: https://github.com/bitemyapp/learnhaskell
 [site-lyhfgg]: http://learnyouahaskell.com/chapters
 
@@ -451,10 +422,9 @@ e]: http://lotz84.github.io/haskellbyexample/
 ### Java
 
 * Android Developers - API Guide ([Site][site-android-api-guide], cc)
+* [Best practices in Android development][repo-android-bp] (cc)
 
-* Best practices in Android development https://github.com/futurice/android-best-practices
-* http://mixi-inc.github.io/AndroidTraining/ cc https://github.com/mixi-inc/AndroidTraining
-
+[repo-android-bp]: https://github.com/futurice/android-best-practices
 [site-android-api-gudie]: http://developer.android.com/guide/index.html
 
 <a name='javascript'></a>
@@ -470,19 +440,21 @@ e]: http://lotz84.github.io/haskellbyexample/
 * [Angular Test Patterns][repo-angular-test-pattern] (MIT) - A High-Quality Guide for Testing Angular 1.x Applications
 * [Airbnb JavaScript Style Guide][repo-airbnb-javascript] (MIT)
 * [JavaScript Garden][repo-js-garden] ([Site][site-js-garden], MIT) - A collection of documentation about the most quirky parts of the JavaScript language
-* casperjscasperjs
-* moment
-* ember
-* react
-* https://github.com/alanjames1987/Node.js-Best-Practices
-* https://github.com/bevacqua/js function qualityGuide () { MIT
-* http://www.nodebeginner.org/ https://github.com/manuelkiessling/nodebeginner.org cc-nc-sa
-* https://github.com/workshopper/learnyounode Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.  MIT
-* https://leanpub.com/understandinges6/read cc-nc-nd
-* JavaScript Allongé cc-sa https://leanpub.com/javascript-allonge/read
-* https://github.com/maxogden/art-of-node cc
-* https://leanpub.com/understandinges6/read/ cc-nc-nd
+* [Node.js Best Practices][repo-nodejs-bp] ([Site][site-nodejs-bp], MIT)
+* [function qualityGuide ()][repo-function-quality] { (MIT)
+* [The Node Beginner Book][repo-node-biginner] ([Site][site-node-biginner], cc-nc-sa)
+* [Learn You The Node.js For Much Win!][repo-learn-node-win] (MIT) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops. 
+* Understanding ECMAScript 6 ([Site][site-understanding-es6], cc-nc-nd)
+* [An introduction to Node.js][repo-art-of-node] (cc-sa)
 
+[repo-art-of-node]: https://github.com/maxogden/art-of-node
+[site-understanding-es6]: https://leanpub.com/understandinges6/read
+[repo-learn-node-win]: https://github.com/workshopper/learnyounode
+[repo-node-biginner]: https://github.com/manuelkiessling/nodebeginner.org
+[site-node-biginner]: http://www.nodebeginner.org/ 
+[repo-function-quality]: https://github.com/bevacqua/js
+[site-nodejs-bp]: http://justbuildsomething.com/node-js-best-practices/
+[repo-nodejs-bp]: https://github.com/alanjames1987/Node.js-Best-Practices
 [repo-angular-style-guide]: https://github.com/johnpapa/angular-styleguide
 [repo-react-primer]: https://github.com/mikechau/react-primer-draft/
 [repo-es6-features]: https://github.com/lukehoban/es6features
@@ -524,10 +496,7 @@ e]: http://lotz84.github.io/haskellbyexample/
 ### Php
 
 * [PHP: The Right Way][repo-php-right-way] ([Site][site-php-right-way], by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
-* zend
-* phpmyadmin
-* symfony
-* Laravel
+
 
 [repo-php-right-way]: https://github.com/codeguy/php-the-right-way
 [site-php-right-way]: http://www.phptherightway.com/
@@ -543,15 +512,19 @@ e]: http://lotz84.github.io/haskellbyexample/
 * [Explore Flask][repo-explore-flask] ([Site][site-explore-flask], Public Domain)
 * [Full Stack Python][repo-full-python] ([Site][site-full-python],  MIT) - Full Stack Python source with Pelican, Bootstrap and Markdown
 * [Sphinx documentation][repo-sphinx-doc] ([Site][site-sphinx-doc], BSD)
-* sqlalchemy
-* Pylons
-* http://www.swaroopch.com/notes/python/ cc-sa
-* https://github.com/swaroopch/byte_of_python http://www.swaroopch.com/notes/python/
-* https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit cc-sa  Learning to Program Using Python
-* A guide to Python's magic methods https://github.com/RafeKettler/magicmethods ss-nc-sa
-* Think Python http://www.greenteapress.com/thinkpython/thinkpython.pdf cc-nc
-* cc https://developers.google.com/edu/python/ Google's Python Class
+* [A Byte of Python][repo-byte-python] ([Site][site-byte-python], cc-sa)
+* Learning to Program Using Python ([Site][site-lpupython], cc-sa)
+* [A guide to Python's magic methods][repo-magic-methods] ([Site][site-magic-methods], cc-nc-sa)
+* Think Python ([Site][site-think-python], cc-nc)
+* Google's Python Class ([Site][site-google-python], cc)
 
+[site-google-python]: https://developers.google.com/edu/python/
+[site-think-python]: http://www.greenteapress.com/thinkpython/thinkpython.pdf
+[repo-magic-methods]: https://github.com/RafeKettler/magicmethods
+[site-magit-methods]: http://www.rafekettler.com/magicmethods.html
+[site-lpupython]: https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit
+[repo-byte-ptyhon]: https://github.com/swaroopch/byte_of_python
+[site-byte-python]: http://www.swaroopch.com/notes/python/
 [repo-sphinx-doc]: https://github.com/sphinx-doc/sphinx/tree/master/doc
 [site-sphinx-doc]: http://sphinx-doc.org/contents.html
 [repo-full-python]: https://github.com/makaimc/fullstackpython.com
@@ -629,12 +602,22 @@ e]: http://lotz84.github.io/haskellbyexample/
 
 ## Document
 
+* casperjscasperjs
+* moment
+* ember
+* react
 * riak
 * Middleman
 * Jekyll
 * vagrant
 * docker
-
+* zend
+* phpmyadmin
+* symfony
+* Laravel
+* sqlalchemy
+* Pylons
+* OmegaT
 
 <a name='other_languages'></a>
 ## Other Languages
@@ -654,8 +637,9 @@ e]: http://lotz84.github.io/haskellbyexample/
 * [七天学会NodeJS][repo-7days-node] ([Site][site-7days-node], MIT)
 * [A Detailed Cplusplus Concurrency Tutorial][repo-adcct] (MIT)
 * [Backbone.js入门教程][repo-backbonejs-note] (MIT)
-* https://github.com/ruanyf/es6tutorial cc-nc
-
+* [ECMAScript 6入门][repo-es6tutorial-cn] ([Site][site-es6tutorial-cn], cc-nc)
+[site-es6tutorial-cn]: http://es6.ruanyifeng.com/
+[repo-es6tutorial-cn]: https://github.com/ruanyf/es6tutorial
 [repo-backbonejs-note]: https://github.com/the5fire/backbonejs-learning-note
 [repo-adcct]: https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial
 [site-7days-node]: http://nqdeng.github.io/7-days-nodejs/ 
@@ -663,6 +647,13 @@ e]: http://lotz84.github.io/haskellbyexample/
 [repo-build-web-app-golang]: https://github.com/astaxie/build-web-application-with-golang
 [site-jstutorial]: http://javascript.ruanyifeng.com
 [repo-jstutorial]: https://github.com/ruanyf/jstutorial/
+
+## Japanese
+
+* [Android Development Training Course][repo-and-training] ([Site][site-and-training], Apache 2.0)
+
+[repo-and-training]: https://github.com/mixi-inc/AndroidTraining
+[site-and-training]:http://mixi-inc.github.io/AndroidTraining/
 
 <a name='another_documents_list'></a>
 ## Another Documents List / References
@@ -694,43 +685,4 @@ https://github.com/jlevy/the-art-of-command-line cc-sa
 https://github.com/jeffThompson/CollisionDetection
 https://github.com/getify/You-Dont-Know-JS cc-nc-nd
 https://github.com/Carreau/jupyter-book
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
