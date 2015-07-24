@@ -71,7 +71,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * High Performance Computing ([Site][site-high-perfomance-computing], cc)
 * Natural Language Processing for the Working Programmer ([Site][site-nlpwp], cc)
 * Fundamentals of Programming: With Object Oriented Programming ([Site][site-funop], cc-nc-sa)
-* Introduction to Computing ([Site][site-introtocom]], cc-nc-sa)
+* Introduction to Computing ([Site][site-introtocom], cc-nc-sa)
 * [Computer Science from the Bottom Up][repo-csftbu] ([Site][site-csftbu], cc-sa)
 * [Problem Solving with Algorithms and Data Structures][repo-psads] ([Site][site-psads], cc-nc-sa)
 * Data Compression Explained http://mattmahoney.net/dc/dce.html ??
@@ -101,7 +101,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-parallel-machine]: http://heather.cs.ucdavis.edu/parprocbook
 [repo-perfbook]: https://github.com/sbinet/perfbook
 [site-perfbook]: https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
-[site-high-performance-computing]:  http://open.umich.edu/education/si/resources/hpc-opentextbook/2009
+[site-high-perfomance-computing]:  http://open.umich.edu/education/si/resources/hpc-opentextbook/2009
 [site-nlpwp]: http://nlpwp.org/book/
 
 <a name='data_science'></a>
@@ -160,7 +160,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [The Architecture of Open Source Applications 2][repo-aosa] ([Site][site-aosa], cc-nc-sa)
 * [The Performance of Open Source Applications][repo-aosa] ([Site][site-aosa], cc-nc-sa)
 * [Free Software Free Society: Selected Essays][repo-fsfs] ([Site][site-fsfs], GNU-FDL)
-* [Free as in Freedom (2.0)][repo-free-freedom2] ([Site][site-free-freedom-2], GNU-FDL)
+* [Free as in Freedom (2.0)][repo-free-freedom-2] ([Site][site-free-freedom-2], GNU-FDL)
 * The Daemon, the GNU & the Penguin ~ by Dr. Peter Salus ([Site][site-tdtgtp], cc-nc-nd)
 
 [repo-free-freedom-2]: http://bzr.savannah.gnu.org/lh/books/changes
@@ -176,7 +176,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 * [500 Lines or Less][repo-500-lines] (cc & mit)
 * [Guides][repo-thoughtbot-guides] (cc) - A guide for programming in style
-* [An App Launch Guide][repo-app-launch-guide] ([Site][site-app-launch-guide], Public Domain) - This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch
+* [An App Launch Guide][repo-app-launch-guide] ([Site][site-app-launch-guide], Public Domain)
 * [Reverse Engineering for Beginners][repo-refb-book] ([Site][site-refb-book], cc-nc-nd)
 * [Build Podcast][repo-build-podcast] ([Site][site-build-podcast], Public Domain)
 * Mozilla Developer Network ([Site][site-mdn], cc-by-sa)
@@ -212,12 +212,14 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Web Fundamentals][repo-web-fundamentles] ([Site][site-web-fundamentles], Apache 2.0) - Best practices for modern web development
 * [Code Guide][repo-code-guide] ([Site][site-code-guide], MIT) - Standards for flexible, durable, and sustainable HTML and CSS
 * [HTML Best Practices][repo-html-best] (cc0)
-* [WebComponents.org][repo-webponents] ([Site][site-webcomponents], cc-sa)
-* https://github.com/zenorocha/browser-diet http://browserdiet.com/ cc-sa, MIT
+* [WebComponents.org][repo-webcomponents] ([Site][site-webcomponents], cc-sa)
+* [How to lose weight (in the browser)][repo-browser-diet] ([Site][site-browser-diet], cc-sa, MIT)
 * [North][repo-north] ([Site][site-north], MIT) - MIT Design and development standards to align and guide your project.
 * RESTful Web APIs ([Site][site-restful-web-apis], cc-nc-nd)
 * DOM Enlightenment ([Site][site-domenlight], cc-nc-nd)
 
+[repo-browser-diet]: https://github.com/zenorocha/browser-diet
+[site-browser-diet]: http://browserdiet.com/
 [site-domenlight]: http://domenlightenment.com/
 [site-restful-web-apis]: http://restfulwebapis.org/rws.html
 [repo-north]: https://github.com/north/north
@@ -279,8 +281,20 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='android_development'>
 ### Android Development
 
+* Android Developers - API Guide ([Site][site-android-api-guide], cc)
+* [Best practices in Android development][repo-android-bp] (cc)
+
+[repo-android-bp]: https://github.com/futurice/android-best-practices
+[site-android-api-guide]: http://developer.android.com/guide/index.html
+
 <a name='ios_development'>
 ### IOS Development
+
+* [iOS Good Practices][repo-ios-good-practices] (cc) - Good ideas for iOS development, by Futurice developers.
+* [iOS Developer and Designer Interview Questions][repo-ios-questions] (MIT) - A small guide to help those looking to hire a developer or designer for iOS work.
+
+[repo-ios-questions]: https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions
+[repo-ios-good-practices]: https://github.com/futurice/ios-good-practices
 
 <a name='etc'></a>
 ### ETC
@@ -373,9 +387,12 @@ This is not a list of free programming books. This is a curated list of open sou
 ### Clojure
 
 * [ClojureDocs][repo-clojure-docs] ([Site][site-clojure-docs], Eclipse Public License)
+* [Clojure Documentation][repo-clojure-doc] ([Site][site-clojure-doc], cc)
 
+[site-clojure-doc]: http://clojure-doc.org/
+[repo-clojure-doc]: https://github.com/clojuredocs/guides
 [site-clojure-docs]: http://clojuredocs.org
-[repo-clojure-docs]
+[repo-clojure-docs]: https://github.com/zk/clojuredocs
 
 <a name='elixir'></a>
 ### Elixir
@@ -419,7 +436,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 * Learn You a Haskell for Great Good! ([Site][site-lyhfgg], cc-nc-sa)
 * [How to learn Haskell][repo-howtlh] (cc0)
-* [Haskell By Example][repo-haskell-example] ([Site][site], cc)
+* [Haskell By Example][repo-haskell-example] ([Site][site-haskell-example], cc)
 
 [repo-haskell-example]: https://github.com/lotz84/haskellbyexample
 [site-haskell-example]: http://lotz84.github.io/haskellbyexample/
@@ -429,11 +446,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='java'></a>
 ### Java
 
-* Android Developers - API Guide ([Site][site-android-api-guide], cc)
-* [Best practices in Android development][repo-android-bp] (cc)
 
-[repo-android-bp]: https://github.com/futurice/android-best-practices
-[site-android-api-gudie]: http://developer.android.com/guide/index.html
 
 <a name='javascript'></a>
 ### Javascript
@@ -489,11 +502,7 @@ This is not a list of free programming books. This is a curated list of open sou
 ### Objective-C
 
 * [NYTimes Objective-C Style Guide][repo-nytimes-objective-c-style-guide] (MIT)
-* [iOS Good Practices][repo-ios-good-practices] (cc) - Good ideas for iOS development, by Futurice developers.
-* [iOS Developer and Designer Interview Questions][repo-ios-questions] (MIT) - A small guide to help those looking to hire a developer or designer for iOS work.
 
-[repo-ios-questions]: https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions
-[repo-ios-good-practices]: https://github.com/futurice/ios-good-practices
 [repo-nytimes-objective-c-style-guide]: https://github.com/NYTimes/objective-c-style-guide
 
 ### Ocaml
@@ -576,8 +585,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-effective-scala]: https://github.com/twitter/effectivescala
 [site-effective-scala]: http://twitter.github.com/effectivescala
-[sacla-document]: http://docs.scala-lang.org/contribute.html
-[scala-bp]: https://github.com/alexandru/scala-best-practices
+[repo-scala-bp]: https://github.com/alexandru/scala-best-practices
 [repo-scala-school]: https://github.com/twitter/scala_school
 [site-scala-school]: https://twitter.github.io/scala_school/
 
