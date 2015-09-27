@@ -628,7 +628,9 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='racket'></a>
 ### Racket
 
-* The Racket Guide 
+* Racket Documentation ([Site][site-racket-documentation], LGPL)
+
+[site-racket-documentation]: http://docs.racket-lang.org/index.html
 
 <a name='scala'></a>
 ### Scala
