@@ -769,11 +769,11 @@ This is not a list of free programming books. This is a curated list of open sou
 * [JSbooks][site-jsbooks] - The best free JavaScript resources
 
 [repo-beautiful-docs]: https://github.com/PharkMillups/beautiful-docs
-[repo-papars-we-love]: https://github.com/papers-we-love/papers-we-love
+[repo-papers-we-love]: https://github.com/papers-we-love/papers-we-love
 [repo-awesome-awesomeness]: https://github.com/bayandin/awesome-awesomeness
 [repo-awesome]: https://github.com/sindresorhus/awesome
 [repo-db-readings]: https://github.com/rxin/db-readings
-[repo-python-references]: https://github.com/rasbt/python_reference
+[repo-python-reference]: https://github.com/rasbt/python_reference
 [repo-narkoz-guides]: https://github.com/NARKOZ/guides
 [repo-free-programming-books]: https://github.com/vhf/free-programming-books
 [site-gitbook]: https://www.gitbook.io/
