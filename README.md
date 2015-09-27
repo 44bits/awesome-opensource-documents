@@ -751,27 +751,26 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='another_documents_list'></a>
 ## Another Documents List / References
 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* [Beautiful Docs][repo-beautiful-docs]
+* [Papers We Love][repo-papers-we-love]
+* [Awesome Awesomeness][repo-awesome-awesomeness]
+* [Awesome][repo-awesome]
+* [Readings in Databases][repo-db-readings]
+* [Python Reference][repo-python-reference]
+* [Guides][repo-narkoz-guides] - Design and development guides
+* [List of Free Learning Resources][repo-free-programming-books] - Freely available programming books 
+* [Gitbook][site-gitbook] - A modern publishing toolchain. Simply taking you from ideas to finished, polished books
+* [O'Reilly Open Books][site-oreilly-openbook]
+* [OnlineProgrammingBooks.com][site-online-programming-books]
+* [Free Software Foundation][site-fsf-book]
+* [Green Tea Press][site-greentea-press] - Free books by Allen Downey
+* [Wikipedia books(community books)][site-wikipedia-book]
+* [Python Books][repo-python-books]
+* [JSbooks][site-jsbooks] - The best free JavaScript resources
 
 [repo-beautiful-docs]: https://github.com/PharkMillups/beautiful-docs
 [repo-papars-we-love]: https://github.com/papers-we-love/papers-we-love
 [repo-awesome-awesomeness]: https://github.com/bayandin/awesome-awesomeness
-[repo-python-books]: https://github.com/revolunet/PythonBooks
 [repo-awesome]: https://github.com/sindresorhus/awesome
 [repo-db-readings]: https://github.com/rxin/db-readings
 [repo-python-references]: https://github.com/rasbt/python_reference
@@ -780,12 +779,11 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-gitbook]: https://www.gitbook.io/
 [site-oreilly-openbook]: http://www.oreilly.com/openbook/
 [site-online-programming-books]: http://www.onlineprogrammingbooks.com/
-[]: http://shop.fsf.org/category/books/
-[]: http://www.greenteapress.com/
-[]: http://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29
-[]: http://jsbooks.revolunet.com/
-
-
+[site-fsf-book]: http://shop.fsf.org/category/books/
+[site-greentea-press]: http://www.greenteapress.com/
+[site-wikipedia-book]: http://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29
+[repo-python-books]: https://github.com/revolunet/PythonBooks
+[site-jsbooks]: http://jsbooks.revolunet.com/
 
 <a name='license'></a>
 ## License
