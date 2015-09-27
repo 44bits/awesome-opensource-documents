@@ -2,7 +2,7 @@
 
 This is not a list of free programming books. This is a curated list of open source or open source licensed documents, guides, books which can read, use, modify, translate, redistribute and even rewrite under their license.
 
-## Book Template
+## Document Template
 
 ```
 [TITLE][repository-url] by AUTHOR ([SITE][site-url], LICENSE) - SHORT DESCRITPTION
@@ -189,14 +189,14 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='progromming'></a>
 ### Programming
 
-* [500 Lines or Less][repo-500-lines] (cc & mit)
-* [Guides][repo-thoughtbot-guides] (cc) - A guide for programming in style
-* [An App Launch Guide][repo-app-launch-guide] ([Site][site-app-launch-guide], Public Domain)
-* [Reverse Engineering for Beginners][repo-refb-book] ([Site][site-refb-book], cc-nc-nd)
-* [Build Podcast][repo-build-podcast] ([Site][site-build-podcast], Public Domain)
-* Mozilla Developer Network ([Site][site-mdn], cc-by-sa)
-* [The Little Introduction To Programming][repo-tlitp] ([Site][site-tlitp], cc-nc)
-* [The Programming Historian][repo-tphistorian] ([Site][site-tphistorian], cc)
+* [500 Lines or Less][repo-500-lines] (cc & mit) - This is the source for the book 500 Lines or Less, the fourth in the Architecture of Open Source Applications series.
+* [Guides][repo-thoughtbot-guides] (cc) - Guides for getting things done, programming well, and programming in style.
+* [An App Launch Guide][repo-app-launch-guide] ([Site][site-app-launch-guide], Public Domain) - This guide goes through all of the necessary steps for validating, building, marketing, and launching your product, specifically focused on app dev.
+* [Reverse Engineering for Beginners][repo-refb-book] ([Site][site-refb-book], cc-nc-nd) - Topics discussed: x86/x64, ARM/ARM64, MIPS, Java/JVM.
+* [Build Podcast][repo-build-podcast] ([Site][site-build-podcast], Public Domain) - Build Podcast is a show about technology tools for design and development all in the fun spirit of hacking, creating and building stuff!
+* Mozilla Developer Network ([Site][site-mdn], cc-by-sa) - Shared knowledge for the Open Web
+* [The Little Introduction To Programming][repo-tlitp] ([Site][site-tlitp], cc-nc) - This book will teach you the fundamentals of programming and act as a foundation for whatever your programming goals may be.
+* [The Programming Historian][repo-tphistorian] ([Site][site-tphistorian], cc) - The Programming Historian is an online, open-access, peer-reviewed suite of tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research.
 * [WHAT IS CODE?][repo-what-is-code] ([Site][site-what-is-code], cc-nc-nd) - Paul Ford’s “What Is Code?”
 
 [site-what-is-code]: http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
