@@ -1,6 +1,6 @@
 # Awesome Open Source Documents
 
-This is not a list of free programming books. This is a curated list of open source or open source licensed documents, guides, books which can read, use, modify, translate, distribute and even rewrite under their license.
+This is not a list of free programming books. This is a curated list of open source or open source licensed documents, guides, books which can read, use, modify, translate, redistribute and even rewrite under their license.
 
 ## Book Template
 
@@ -446,8 +446,6 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='java'></a>
 ### Java
 
-
-
 <a name='javascript'></a>
 ### Javascript
 
@@ -516,7 +514,6 @@ This is not a list of free programming books. This is a curated list of open sou
 
 * [PHP: The Right Way][repo-php-right-way] ([Site][site-php-right-way], by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 
-
 [repo-php-right-way]: https://github.com/codeguy/php-the-right-way
 [site-php-right-way]: http://www.phptherightway.com/
 
@@ -526,11 +523,9 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Python Enhancement Proposals][repo-peps] ([Site][site-peps], Open Publication License)
 * [The Hitchhiker’s Guide to Python!][repo-python-hguide] ([Site][site-python-hguide], cc-nc-sa) -  Python best practices guidebook, written for Humans.
 * [Django Documentation][repo-django-document] ([Site][site-django-document], bsd)
-* [Ansible Documentation][repo-ansible-document] ([Site][site-ansible-document], GNU)
 * Dive Into Python 3 ([Site][site-diveintopython3], cc-sa)
 * [Explore Flask][repo-explore-flask] ([Site][site-explore-flask], Public Domain)
 * [Full Stack Python][repo-full-python] ([Site][site-full-python],  MIT) - Full Stack Python source with Pelican, Bootstrap and Markdown
-* [Sphinx documentation][repo-sphinx-doc] ([Site][site-sphinx-doc], BSD)
 * [A Byte of Python][repo-byte-python] ([Site][site-byte-python], cc-sa)
 * Learning to Program Using Python ([Site][site-lpupython], cc-sa)
 * [A guide to Python's magic methods][repo-magic-methods] ([Site][site-magic-methods], cc-nc-sa)
@@ -623,7 +618,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-progit]: https://github.com/progit/progit
 [site-progit]: http://git-scm.com/book/
 
-## Document
+## Library Document
 
 * casperjscasperjs
 * moment
@@ -638,9 +633,13 @@ This is not a list of free programming books. This is a curated list of open sou
 * phpmyadmin
 * symfony
 * Laravel
-* sqlalchemy
+* sqlalchemy (mit)
 * Pylons
 * OmegaT
+* [Ansible Documentation][repo-ansible-document] ([Site][site-ansible-document], GNU)
+* [Sphinx documentation][repo-sphinx-doc] ([Site][site-sphinx-doc], BSD)
+
+[site-sqlalchemy]: http://docs.sqlalchemy.org/en/latest/index.html
 
 <a name='other_languages'></a>
 ## Other Languages
@@ -649,7 +648,11 @@ This is not a list of free programming books. This is a curated list of open sou
 ### Korean
 
 * 점프 투 파이썬 ([Site][site-jump-to-python], cc-nc-nd)
+* [emacsbook][repo-emacsbook] (cc-nc)
+* [파이썬 웹개발 요리책][repo-pywebcookbook] (??)
 
+[repo-emacsbook]: https://github.com/tsgates/emacsbook
+[repo-pywebcookbook]: https://github.com/dittos/pywebcookbook
 [site-jump-to-python]: https://wikidocs.net/book/1
 
 <a name='chinese'></a>
@@ -684,22 +687,39 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='another_documents_list'></a>
 ## Another Documents List / References
 
-* https://github.com/PharkMillups/beautiful-docs
-* https://github.com/papers-we-love/papers-we-love
-* https://github.com/bayandin/awesome-awesomeness
-* https://github.com/revolunet/PythonBooks
-* https://github.com/sindresorhus/awesome
-* https://github.com/rxin/db-readings
-* https://www.gitbook.io/
-* https://github.com/rasbt/python_reference
-* https://github.com/NARKOZ/guides
-* http://www.oreilly.com/openbook/
-* http://www.onlineprogrammingbooks.com/
-* http://shop.fsf.org/category/books/
-* http://www.greenteapress.com/
-* http://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29
-* http://jsbooks.revolunet.com/
-* https://github.com/vhf/free-programming-books
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+[repo-beautiful-docs]: https://github.com/PharkMillups/beautiful-docs
+[repo-papars-we-love]: https://github.com/papers-we-love/papers-we-love
+[repo-awesome-awesomeness]: https://github.com/bayandin/awesome-awesomeness
+[repo-python-books]: https://github.com/revolunet/PythonBooks
+[repo-awesome]: https://github.com/sindresorhus/awesome
+[repo-db-readings]: https://github.com/rxin/db-readings
+[repo-python-references]: https://github.com/rasbt/python_reference
+[repo-narkoz-guides]: https://github.com/NARKOZ/guides
+[repo-free-programming-books]: https://github.com/vhf/free-programming-books
+[site-gitbook]: https://www.gitbook.io/
+[site-oreilly-openbook]: http://www.oreilly.com/openbook/
+[site-online-programming-books]: http://www.onlineprogrammingbooks.com/
+[]: http://shop.fsf.org/category/books/
+[]: http://www.greenteapress.com/
+[]: http://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29
+[]: http://jsbooks.revolunet.com/
 
 <a name='license'></a>
 ## License
@@ -719,3 +739,14 @@ This is not a list of free programming books. This is a curated list of open sou
 * https://github.com/getify/You-Dont-Know-JS cc-nc-nd
 * https://github.com/Carreau/jupyter-book
 * https://www.gitbook.com/book/bigbadotis/gibber-user-manual/details
+* upstart.ubuntu.com/cookbook/ Upstart Intro, Cookbook and Best Practises cc-sa
+* http://www.rxmarbles.com 
+* http://www.cookbook-r.com/
+* http://pharobyexample.org/ cc-sa
+* http://deepintopharo.com/ cc-sa
+* http://pharo.gemtalksystems.com/ cc-nc-sa
+* http://book.seaside.st/book cc-sa
+* http://www.squeakbyexample.org/ cc-sa
+* The Racket Guide http://docs.racket-lang.org/index.html
+* https://github.com/BloombergMedia/whatiscode
+* https://github.com/bagder/http2-explained
