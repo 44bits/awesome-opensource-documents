@@ -713,10 +713,8 @@ This is not a list of free programming books. This is a curated list of open sou
 
 * 점프 투 파이썬 ([Site][site-jump-to-python], cc-nc-nd)
 * [emacsbook][repo-emacsbook] (cc-nc)
-* [파이썬 웹개발 요리책][repo-pywebcookbook] (??)
 
 [repo-emacsbook]: https://github.com/tsgates/emacsbook
-[repo-pywebcookbook]: https://github.com/dittos/pywebcookbook
 [site-jump-to-python]: https://wikidocs.net/book/1
 
 <a name='chinese'></a>
