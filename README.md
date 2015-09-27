@@ -391,7 +391,13 @@ This is not a list of free programming books. This is a curated list of open sou
 * Practicing Ruby ([Site][site-practicing-ruby], cc-sa)
 * [Ruby Best Practices][repo-rbp] (cc-nc-sa)
 * [Neo Ruby Koans][repo-ruby-koan] ([Site][site-ruby-koan], cc-nc-sa) - A set of Koans to teach the Ruby language
+* [Middleman][repo-middleman] ([Site][site-middleman], cc)
+* [Jekyll][repo-jekyll] ([Site][site-jekyll], MIT)
 
+[repo-jekyll]: https://jekyllrb.com/
+[site-jekyll]: https://github.com/jekyll/jekyll/tree/master/site
+[repo-middleman]: https://github.com/middleman/middleman-guides
+[site-middleman]: https://middlemanapp.com/
 [repo-ruby-koan]: https://github.com/neo/ruby_koans
 [site-ruby-koan]: https://github.com/neo/ruby_koans
 [repo-rbp]: https://github.com/practicingruby/rbp-book
@@ -491,7 +497,16 @@ This is not a list of free programming books. This is a curated list of open sou
 * [An introduction to Node.js][repo-art-of-node] (cc-sa)
 * [stream-handbook][repo-stream-handbook] (cc) - how to write node programs with streams
 * [You Don't Know JS][repo-you-dont-know-js] ([Site][site-you-dont-know-js], cc-nc-nd) - A book series on JavaScript. @YDKJS on twitter.
+* [CasperJS][repo-casperjs] ([Site][site-casperjs], MIT)
+* [Ember.js Guide][repo-emberjs] ([Site][site-emberjs], MIT)
+* [React Document][repo-react] ([Site][site-react], BSD)
 
+[repo-react]: https://github.com/facebook/react/tree/master/docs
+[site-react]: https://facebook.github.io/react/docs/getting-started.html
+[repo-emberjs]: https://github.com/emberjs/guides/
+[site-emberjs]: http://guides.emberjs.com/v2.0.0/
+[site-casperjs]: https://casperjs.readthedocs.org/en/latest/
+[repo-casperjs]: https://github.com/n1k0/casperjs/blob/master/docs
 [site-you-dont-know-js]: https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series
 [repo-you-dont-know-js]: https://github.com/getify/You-Dont-Know-JS
 [repo-stream-handbook]: https://github.com/substack/stream-handbook
@@ -566,8 +581,6 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-lpupython]: https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit
 [repo-byte-python]: https://github.com/swaroopch/byte_of_python
 [site-byte-python]: http://www.swaroopch.com/notes/python/
-[repo-sphinx-doc]: https://github.com/sphinx-doc/sphinx/tree/master/doc
-[site-sphinx-doc]: http://sphinx-doc.org/contents.html
 [repo-full-python]: https://github.com/makaimc/fullstackpython.com
 [site-full-python]: http://www.fullstackpython.com/
 [repo-explore-flask]: https://github.com/rpicard/explore-flask
@@ -575,8 +588,6 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-diveintopython3]: http://www.diveintopython3.net/
 [repo-django-document]: https://github.com/django/django/tree/master/docs
 [site-django-document]: https://docs.djangoproject.com/en/1.8/
-[repo-ansible-document]: https://github.com/ansible/ansible/tree/devel/docsite
-[site-ansible-document]: http://docs.ansible.com/
 [repo-peps]: https://github.com/python/peps
 [site-peps]: https://www.python.org/dev/peps/
 [site-python-hguide]: http://docs.python-guide.org/en/latest/
@@ -652,22 +663,33 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='editor'></a>
 ### Editor
 
-* emacs
-* emacs lisp
-* emacs.sexy
-* vim.sexy
-* http://learnvimscriptthehardway.stevelosh.com/ Learn Vimscript the Hard Way https://github.com/sjl/learnvimscriptthehardway
-* https://github.com/bbatsov/emacs-lisp-style-guide cc
-* http://files.swaroopch.com/vim/byte_of_vim_v051.pdf cc-sa
+* GNU Emacs manual ([Site][site-emacs-manual], GNU-FDL)
+* GNU Emacs Lisp Reference Manual ([Site][site-elisp-manual], GNU-FDL)
+* [Emacs is sexy!][repo-emacs-sexy] ([Site][site-emacs-sexy], GNU) - Simple website to share the love for Emacs
+* [Learn Vimscript the Hard Way][repo-vimscript-hard-way] ([Site][site-vimscript-hard-way], custom license)
+* [The Emacs Lisp Style Guide][repo-elisp-style-guide] (cc)
+* A Byte of Vim ([Site][site-byte-vim], cc-sa) 
+
+[site-byte-vim]: http://www.swaroopch.com/notes/vim/
+[repo-elisp-style-guide]: https://github.com/bbatsov/emacs-lisp-style-guide
+[repo-vimscript-hard-way]: https://github.com/sjl/learnvimscriptthehardway
+[site-vimscript-hard-way]: http://learnvimscriptthehardway.stevelosh.com/
+[site-emacs-manual]: https://www.gnu.org/software/emacs/manual/emacs.html
+[site-elisp-manual]: 
 
 <a name='git'></a>
 ### Git
 
-* [Pro Git][repo-progit] ([Site][site-progit], by-nc-sa)
-* git style
+* [Pro Git][repo-progit] ([Site][site-progit], cc-nc-sa)
+* [A Git Style Guide][repo-git-style-guide] (cc) - This is a Git Style Guide inspired by How to Get Your Change Into the Linux Kernel, the git man pages and various practices popular among the community.
 * [Github Cheatsheet][repo-github-cheatsheet] (MIT) - A list of cool features of Git and GitHub
-* https://github.com/blynn/gitmagic GPL http://cs.stanford.edu/~blynn/gitmagic/
-* https://github.com/jlord/git-it BSD http://jlord.github.io/git-it
+* [Git Magic][repo-git-magic] ([Site][site-git-magic], GPL)
+* [Git it][repo-git-it] ([Site][site-git-it], BSD) - A workshopper for learning Git and GitHub.
+
+[repo-git-magic]: https://github.com/blynn/gitmagic
+[site-git-magic]: http://cs.stanford.edu/~blynn/gitmagic/ 
+[repo-git-it]: https://github.com/jlord/git-it
+[site-git-it]: http://jlord.github.io/git-it
 
 [repo-github-cheatsheet]: https://github.com/tiimgreen/github-cheat-sheet
 [repo-progit]: https://github.com/progit/progit
@@ -684,26 +706,29 @@ This is not a list of free programming books. This is a curated list of open sou
 
 ## Library Document
 
-* casperjscasperjs
-* moment
-* ember
-* react
-* riak
-* Middleman
-* Jekyll
-* vagrant
-* docker
-* zend
-* phpmyadmin
-* symfony
-* Laravel
-* sqlalchemy (mit)
-* Pylons
-* OmegaT
-* [Ansible Documentation][repo-ansible-document] ([Site][site-ansible-document], GNU)
+* [riak docs][repo-riak] ([Site][site-riak], cc)
+* [Vagrant][repo-vagrant] ([Site][site-vagrant], MIT)
+* [Docker][repo-docker] ([Site][site-docker], Apache 2.0)
+* [phpMyAdmin][repo-phpmyadmin] ([Site][site-phpmyadmin], GPL)
+* [OmegaT][repo-omegat] ([Site][site-omegag], GPL)
 * [Sphinx documentation][repo-sphinx-doc] ([Site][site-sphinx-doc], BSD)
+* [Ansible Documentation][repo-ansible-document] ([Site][site-ansible-document], GPL)
 
+[repo-vagrant]: https://github.com/mitchellh/vagrant/tree/master/website/docs
+[site-vagrant]: https://docs.vagrantup.com/v2/
+[repo-docker]: https://github.com/docker/docker/tree/master/docs
+[site-docker]: https://docs.docker.com/
+[repo-phpmyadmin]: https://github.com/phpmyadmin/localized_docs
+[site-phpmyadmin]: https://phpmyadmin-english-united-kingdom.readthedocs.org/en/latest/
+[repo-omegat]: http://sourceforge.net/p/omegat/code/ci/master/tree/doc_src/
+[site-omegat]: http://omegat.sourceforge.net/manual-standard/
+[repo-riak]: https://github.com/basho/basho_docs
+[site-riak]: http://docs.basho.com/riak/latest/
 [site-sqlalchemy]: http://docs.sqlalchemy.org/en/latest/index.html
+[repo-ansible-document]: https://github.com/ansible/ansible/tree/devel/docsite
+[site-ansible-document]: http://docs.ansible.com/
+[repo-sphinx-doc]: https://github.com/sphinx-doc/sphinx/tree/master/doc
+[site-sphinx-doc]: http://sphinx-doc.org/contents.html
 
 <a name='other_languages'></a>
 ## Other Languages
@@ -791,6 +816,3 @@ This is not a list of free programming books. This is a curated list of open sou
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
 </p>
-
-
-
