@@ -58,7 +58,7 @@ This is not a list of free programming books. This is a curated list of open sou
 ### Computer Science
 
 * [Crypto 101][repo-crypto-101] ([Site][site-crypto-101], cc-nc) - the introductory book on cryptography
-* [The little book about OS development][repo-littleosbook] ([Site][site-littleosbook], cc-nc-sa)
+* [The little book about OS development][repo-littleosbook] ([Site][site-littleosbook], cc-nc-sa) - This is the source code for the book "The little book about OS development"
 * How to Design Programs ([Site][site-htdp], cc-nc-nd)
 * Structure and Interpretation of Computer Programs ([Site][site-sicp], cc-sa)
 * Programming Languages: Application and Interpretation ([Site][site-plai], cc-nc-sa)
@@ -499,8 +499,14 @@ This is not a list of free programming books. This is a curated list of open sou
 * [You Don't Know JS][repo-you-dont-know-js] ([Site][site-you-dont-know-js], cc-nc-nd) - A book series on JavaScript. @YDKJS on twitter.
 * [CasperJS][repo-casperjs] ([Site][site-casperjs], MIT)
 * [Ember.js Guide][repo-emberjs] ([Site][site-emberjs], MIT)
-* [React Document][repo-react] ([Site][site-react], BSD)
+* [React Document][repo-react] ([Site][site-react], cc)
+* [Flux Application Architecture][repo-flux] ([Site][site-flux], cc)
+* [Redux Document][repo-redux] ([Site][site-redux], MIT)
 
+[repo-flux]: https://facebook.github.io/react/docs/flux-overview.html
+[site-flux]: https://github.com/facebook/react/tree/master/docs
+[repo-redux]: https://github.com/rackt/redux/blob/master/README.md
+[site-redux]: https://rackt.github.io/redux/
 [repo-react]: https://github.com/facebook/react/tree/master/docs
 [site-react]: https://facebook.github.io/react/docs/getting-started.html
 [repo-emberjs]: https://github.com/emberjs/guides/
@@ -693,7 +699,6 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-git-magic]: http://cs.stanford.edu/~blynn/gitmagic/ 
 [repo-git-it]: https://github.com/jlord/git-it
 [site-git-it]: http://jlord.github.io/git-it
-
 [repo-github-cheatsheet]: https://github.com/tiimgreen/github-cheat-sheet
 [repo-progit]: https://github.com/progit/progit
 [site-progit]: http://git-scm.com/book/
