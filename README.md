@@ -235,7 +235,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [North][repo-north] ([Site][site-north], MIT) - MIT Design and development standards to align and guide your project.
 * RESTful Web APIs ([Site][site-restful-web-apis], cc-nc-nd)
 * DOM Enlightenment ([Site][site-domenlight], cc-nc-nd)
-* [http2 explained][repo-http2-explaiend] ([Site][site-http2-explained], cc-nc-nd) - http2 explained is a detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+* [http2 explained][repo-http2-explained] ([Site][site-http2-explained], cc-nc-nd) - http2 explained is a detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 
 [site-http2-explained]: http://daniel.haxx.se/http2/
 [repo-http2-explained]: https://github.com/bagder/http2-explained
@@ -675,7 +675,9 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-vimscript-hard-way]: https://github.com/sjl/learnvimscriptthehardway
 [site-vimscript-hard-way]: http://learnvimscriptthehardway.stevelosh.com/
 [site-emacs-manual]: https://www.gnu.org/software/emacs/manual/emacs.html
-[site-elisp-manual]: 
+[site-elisp-manual]: https://www.gnu.org/software/emacs/manual/elisp.html
+[repo-emacs-sexy]: https://github.com/picandocodigo/emacs.sexy
+[site-emacs-sexy]: http://emacs.sexy/
 
 <a name='git'></a>
 ### Git
@@ -686,6 +688,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Git Magic][repo-git-magic] ([Site][site-git-magic], GPL)
 * [Git it][repo-git-it] ([Site][site-git-it], BSD) - A workshopper for learning Git and GitHub.
 
+[repo-git-style-guide]: https://github.com/agis-/git-style-guide
 [repo-git-magic]: https://github.com/blynn/gitmagic
 [site-git-magic]: http://cs.stanford.edu/~blynn/gitmagic/ 
 [repo-git-it]: https://github.com/jlord/git-it
@@ -710,7 +713,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Vagrant][repo-vagrant] ([Site][site-vagrant], MIT)
 * [Docker][repo-docker] ([Site][site-docker], Apache 2.0)
 * [phpMyAdmin][repo-phpmyadmin] ([Site][site-phpmyadmin], GPL)
-* [OmegaT][repo-omegat] ([Site][site-omegag], GPL)
+* [OmegaT][repo-omegat] ([Site][site-omegat], GPL)
 * [Sphinx documentation][repo-sphinx-doc] ([Site][site-sphinx-doc], BSD)
 * [Ansible Documentation][repo-ansible-document] ([Site][site-ansible-document], GPL)
 
