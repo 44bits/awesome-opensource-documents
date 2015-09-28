@@ -176,6 +176,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Free Software Free Society: Selected Essays][repo-fsfs] ([Site][site-fsfs], GNU-FDL) - The Architecture of Open Source Applications
 * [Free as in Freedom (2.0)][repo-free-freedom-2] ([Site][site-free-freedom-2], GNU-FDL) - Free as in Freedom (2.0) is Stallman's revision of the original biography.
 * The Daemon, the GNU & the Penguin ~ by Dr. Peter Salus ([Site][site-tdtgtp], cc-nc-nd)
+* 꾸준히, 자유롭게, 즐겁게 : 한국 오픈 소스 개발자들 이야기 ([Site][site-osdi], cc-nc-nd)
 
 [repo-free-freedom-2]: http://bzr.savannah.gnu.org/lh/books/changes
 [site-free-freedom-2]: http://shop.fsf.org/product/free-as-in-freedom-2/
@@ -184,6 +185,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-fsfs]: http://bzr.savannah.gnu.org/lh/books/changes
 [site-aosa]: http://aosabook.org/en/index.html
 [repo-aosa]: https://github.com/aosabook/aosabook
+[site-osdi]: http://osdi.insightbook.co.kr/
 
 <a name='progromming'></a>
 ### Programming
