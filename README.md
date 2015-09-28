@@ -62,21 +62,21 @@ This is not a list of free programming books. This is a curated list of open sou
 * Structure and Interpretation of Computer Programs ([Site][site-sicp], cc-sa)
 * Programming Languages: Application and Interpretation ([Site][site-plai], cc-nc-sa)
 * Practical Foundations for Programming Languages ([Site][site-pfpl], cc-nc-nd)
-* [Open Data Structures][repo-ods] ([Site][site-ods], cc)
-* Algorithms, Etc. ([Site][site-algorithm-etc], cc-nc-sa)
-* Introduction to Theory of Computation ([Site][site-michiel-computation], cc-sa)
-* Discrete Structures for Computer Science: Counting, Recursion, and Probability ([Site][site-michiel-structures], cc-nc-sa) 
-* [graphbook][repo-graphbook] (GNU-FDL) - A book on algorithmic graph theory
-* [Operating Systems and Middleware: Supporting Controlled Interaction][repo-operating-middleware] ([Site][site-operating-middleware] cc-sa)
-* Programming on Parallel Machines ([Site][site-parallel-machine], cc-nd)
-* [Is Parallel Programming Hard, And, If So, What Can You Do About It?][repo-perfbook] ([Site][site-perfbook], cc-sa)
+* [Open Data Structures][repo-ods] ([Site][site-ods], cc) - To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementation
+* Algorithms, Etc. ([Site][site-algorithm-etc], cc-nc-sa) - This page contains lecture notes and other course materials for various algorithms classes Jeff Erickson have taught at the University of Illinois, Urbana-Champaign.
+* Introduction to Theory of Computation ([Site][site-michiel-computation], cc-sa) - This is a free textbook for an undergraduate course on the Theory of Computation, which we have been teaching at Carleton University since 2002
+* Discrete Structures for Computer Science: Counting, Recursion, and Probability ([Site][site-michiel-structures], cc-nc-sa) - This is a free textbook for an undergraduate course on Discrete Structures for Computer Science, which I have been teaching at Carleton University since 2013
+* [graphbook][repo-graphbook] (GNU-FDL) - A GNU-FDL book on algorithmic graph theory by David Joyner, Minh Van Nguyen, and David Phillips. This is an introductory book on algorithmic graph theory
+* [Operating Systems and Middleware: Supporting Controlled Interaction][repo-operating-middleware] ([Site][site-operating-middleware] cc-sa) - free, modifiable textbook on operating systems principles
+* Programming on Parallel Machines ([Site][site-parallel-machine], cc-nd) - The purpose of this book is to help you program shared-memory parallel machines without risking your sanity
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It?][repo-perfbook] ([Site][site-perfbook], cc-sa) - The purpose of this book is to teach new programmers and scientists about the basics of High Performance Computing
 * High Performance Computing ([Site][site-high-perfomance-computing], cc)
-* Natural Language Processing for the Working Programmer ([Site][site-nlpwp], cc)
-* Fundamentals of Programming: With Object Oriented Programming ([Site][site-funop], cc-nc-sa)
-* Introduction to Computing ([Site][site-introtocom], cc-nc-sa)
-* [Computer Science from the Bottom Up][repo-csftbu] ([Site][site-csftbu], cc-sa)
-* [Problem Solving with Algorithms and Data Structures][repo-psads] ([Site][site-psads], cc-nc-sa)
-* Data Compression Explained ([Site][site-dce], custom liscense)
+* Natural Language Processing for the Working Programmer ([Site][site-nlpwp], cc) - We will go into many of the techniques that so-called computational linguists use to analyze the structure of human language, and transform it into a form that computers work with
+* Fundamentals of Programming: With Object Oriented Programming ([Site][site-funop], cc-nc-sa) - This book presents a balanced and flexible approach to the incorporation of object-oriented principles in introductory courses using Python
+* Introduction to Computing ([Site][site-introtocom], cc-nc-sa) - This book introduces the most important ideas in computing using the Scheme and Python programming languages. It focuses on how to describe information processes by defining procedures, how to analyze the costs required to carry out a procedure, and the fundamental limits of what can and cannot be computed mechanically
+* [Computer Science from the Bottom Up][repo-csftbu] ([Site][site-csftbu], cc-sa) - Computer Science from the Bottom Up — A free, online book designed to teach computer science from the bottom end up. Topics covered include binary and binary logic, operating systems internals, toolchain fundamentals and system library fundamentals
+* [Problem Solving with Algorithms and Data Structures][repo-psads] ([Site][site-psads], cc-nc-sa) - Examples and work from Problem Solving with Algorithms and Data Structures Using Python 
+* Data Compression Explained ([Site][site-dce], custom liscense) - This book is for the reader who wants to understand how data compression works, or who wants to write data compression software.
 
 [site-dce]: http://mattmahoney.net/dc/dce.html
 [repo-psads]: https://github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python
@@ -114,16 +114,16 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Think Stats][repo-thinkstats] ([Site][site-thinkstats], cc-sa) - Probability and Statistics for Programmers
 * A Brief Introduction to Neural Networks ([Site][site-abinn], cc-nc-nd)
 * Data Mining for the Masses ([PDF][site-dmftm], cc)
-* [Bayesian Methods for Hackers][repo-baymh] ([Site][site-baymh], MIT)
+* [Bayesian Methods for Hackers][repo-baymh] ([Site][site-baymh], MIT) - An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view
 * Journal of Statistical Software ([Site][site-jstatsoft], cc-by)
-* [The Book Of Jupyter][repo-jupyter-book] ([Site][site-jupyter-book], cc)
+* [The Book Of Jupyter][repo-jupyter-book] ([Site][site-jupyter-book], cc) - This is some of the material that covers the advanced Jupyter/IPython SciPy tutorial that is/was/will be given in July 2015
 
 [repo-jupyter-book]: https://github.com/Carreau/jupyter-book
 [site-jupyter-book]: https://carreau.gitbooks.io/jupyter-book/content/
 [site-jstatsoft]: http://www.jstatsoft.org/index
 [site-baymh]: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 [repo-baymh]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-[site-dmftm]: http://textbookequity.org/oct/Textbooks/North_DataMiningForTheMasses.pdf
+[site-dmftm]:http://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf
 [site-abinn]: http://www.dkriesel.com/en/science/neural_networks
 [repo-thinkstats]: https://code.google.com/p/thinkstats
 [site-thinkstats]: http://greenteapress.com/thinkstats/
@@ -633,8 +633,8 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='scala'></a>
 ### Scala
 
-* [Scala Best Practices][repo-scala-bp] (cc)
-* [twitter.github.com/effectivescala][repo-effective-scala] ([Site][site-effective-scala], cc-by)
+* [Scala Best Practices][repo-scala-bp] (cc) - A collection of best practices, friendly to people that want to contribute
+* [twitter.github.com/effectivescala][repo-effective-scala] ([Site][site-effective-scala], cc-by) - Twitter's Effective Scala Guide
 * [Scala School!][repo-scala-school] ([Site][site-scala-school], Apache 2.0) - Lessons in the Fundamentals of Scala
 
 [repo-effective-scala]: https://github.com/twitter/effectivescala
@@ -646,10 +646,10 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='smalltalk'></a>
 ### Smalltalk
 
-* Deep into Pharo ([Site][site-deep-pharo], cc-sa)
-* Pharo by example ([Site][site-pharo-example], cc-sa)
-* Dynamic Web Development with Seaside ([Site][site-dwd-seaside], cc-nc-sa)
-* Squeak by Example ([Site][site-squeak-example], cc-sa)
+* Deep into Pharo ([Site][site-deep-pharo], cc-sa) - Deep into Pharo is the second volume of a series of books covering Pharo
+* Pharo by example ([Site][site-pharo-example], cc-sa) - Pharo by Example, intended for both students and developers, will guide you gently through the Pharo language and environment by means of a series of examples and exercises
+* Dynamic Web Development with Seaside ([Site][site-dwd-seaside], cc-nc-sa) - Dynamic Web Development with Seaside, intended for developers, will present the core of Seaside as well as advanced features such as Web 2.0 support and deployment
+* Squeak by Example ([Site][site-squeak-example], cc-sa) - Squeak by Example, intended for both students and developers, will guide you gently through the Squeak language and environment by means of a series of examples and exercises
 
 [site-squeak-example]: http://www.squeakbyexample.org/
 [site-dwd-seaside]: http://book.seaside.st/book
@@ -662,19 +662,19 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='server'></a>
 ### Server
 
-* [Nginx Server Configs][repo-nginx-configs] (MIT)
+* [Nginx Server Configs][repo-nginx-configs] (MIT) - Nginx HTTP server boilerplate configs 
 
 [repo-nginx-configs]: https://github.com/h5bp/server-configs-nginx
 
 <a name='editor'></a>
 ### Editor
 
-* GNU Emacs manual ([Site][site-emacs-manual], GNU-FDL)
-* GNU Emacs Lisp Reference Manual ([Site][site-elisp-manual], GNU-FDL)
+* GNU Emacs manual ([Site][site-emacs-manual], GNU-FDL) - Emacs is the extensible, customizable, self-documenting real-time display editor. This manual describes how to edit with Emacs and some of the ways to customize it
+* GNU Emacs Lisp Reference Manual ([Site][site-elisp-manual], GNU-FDL) - Documentation for Emacs Lisp
 * [Emacs is sexy!][repo-emacs-sexy] ([Site][site-emacs-sexy], GNU) - Simple website to share the love for Emacs
-* [Learn Vimscript the Hard Way][repo-vimscript-hard-way] ([Site][site-vimscript-hard-way], custom license)
-* [The Emacs Lisp Style Guide][repo-elisp-style-guide] (cc)
-* A Byte of Vim ([Site][site-byte-vim], cc-sa) 
+* [Learn Vimscript the Hard Way][repo-vimscript-hard-way] ([Site][site-vimscript-hard-way], custom license) - Learn Vimscript the Hard Way is a book for users of the Vim editor who want to learn how to customize Vim
+* [The Emacs Lisp Style Guide][repo-elisp-style-guide] (cc) - This Emacs Lisp style guide recommends best practices so that real-world Emacs Lisp programmers can write code that can be maintained by other real-world Emacs Lisp programmers
+* A Byte of Vim ([Site][site-byte-vim], cc-sa) - “A Byte of Vim” is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard
 
 [site-byte-vim]: http://www.swaroopch.com/notes/vim/
 [repo-elisp-style-guide]: https://github.com/bbatsov/emacs-lisp-style-guide
@@ -688,10 +688,10 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='git'></a>
 ### Git
 
-* [Pro Git][repo-progit] ([Site][site-progit], cc-nc-sa)
+* [Pro Git][repo-progit] ([Site][site-progit], cc-nc-sa) - An open source book on Git by Scott Chacon and Ben Straub
 * [A Git Style Guide][repo-git-style-guide] (cc) - This is a Git Style Guide inspired by How to Get Your Change Into the Linux Kernel, the git man pages and various practices popular among the community.
 * [Github Cheatsheet][repo-github-cheatsheet] (MIT) - A list of cool features of Git and GitHub
-* [Git Magic][repo-git-magic] ([Site][site-git-magic], GPL)
+* [Git Magic][repo-git-magic] ([Site][site-git-magic], GPL) - A guide to using Git
 * [Git it][repo-git-it] ([Site][site-git-it], BSD) - A workshopper for learning Git and GitHub.
 
 [repo-git-style-guide]: https://github.com/agis-/git-style-guide
@@ -706,21 +706,21 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='tool-etc'></a>
 ### etc.
 
-* Gibber User Manual ([Site][site-gibber-manual], cc)
+* Gibber User Manual ([Site][site-gibber-manual], cc) - Gibber is a creative coding environment that runs in the browser. This book explains why Gibber was created, what its features are and how to use it
 * Upstart Intro, Cookbook and Best Practises ([Site][site-upstart-cookbook], cc-sa)
 
 [site-upstart-cookbook]: http://upstart.ubuntu.com/cookbook/
 [site-gibber-manual]: https://www.gitbook.com/book/bigbadotis/gibber-user-manual/details
 
-## Library Document
+## Library Documentation
 
-* [riak docs][repo-riak] ([Site][site-riak], cc)
-* [Vagrant][repo-vagrant] ([Site][site-vagrant], MIT)
-* [Docker][repo-docker] ([Site][site-docker], Apache 2.0)
-* [phpMyAdmin][repo-phpmyadmin] ([Site][site-phpmyadmin], GPL)
-* [OmegaT][repo-omegat] ([Site][site-omegat], GPL)
-* [Sphinx documentation][repo-sphinx-doc] ([Site][site-sphinx-doc], BSD)
-* [Ansible Documentation][repo-ansible-document] ([Site][site-ansible-document], GPL)
+* [riak docs][repo-riak] ([Site][site-riak], cc) - Documentation for riak
+* [Vagrant][repo-vagrant] ([Site][site-vagrant], MIT) - Documentation for Vagrant
+* [Docker][repo-docker] ([Site][site-docker], Apache 2.0) - Documentation for Docker
+* [phpMyAdmin][repo-phpmyadmin] ([Site][site-phpmyadmin], GPL) - Documentation for phpMyAdmin
+* [OmegaT][repo-omegat] ([Site][site-omegat], GPL) - Documentation for OmegaT
+* [Sphinx documentation][repo-sphinx-doc] ([Site][site-sphinx-doc], BSD) - Documentation for Sphinx
+* [Ansible Documentation][repo-ansible-document] ([Site][site-ansible-document], GPL) - Documentation for Ansible
 
 [repo-vagrant]: https://github.com/mitchellh/vagrant/tree/master/website/docs
 [site-vagrant]: https://docs.vagrantup.com/v2/
@@ -744,7 +744,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='korean'></a>
 ### Korean
 
-* 점프 투 파이썬 ([Site][site-jump-to-python], cc-nc-nd)
+* 점프 투 파이썬 ([Site][site-jump-to-python], cc-nc-nd) - 이 책은 파이썬이란 언어를 처음 접해보는 독자들과 프로그래밍을 한 번도 해 본적이 없는 사람들을 대상으로 한다. 프로그래밍을 할 때 사용되는 전문적인 용어들을 알기 쉽게 풀어서 쓰려고 노력하였으며, 파이썬이란 언어의 개별적인 특성만을 강조하지 않고 프로그래밍 전반에 관한 사항을 파이썬이란 언어를 통해 알 수 있도록 알기 쉽게 설명하였다.
 * [emacsbook][repo-emacsbook] (cc-nc)
 
 [repo-emacsbook]: https://github.com/tsgates/emacsbook
@@ -753,12 +753,12 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='chinese'></a>
 ### Chinese
 
-* [JavaScript 标准参考教程][repo-jstutorial] ([Site][site-jstutorial], cc-nc)
+* [JavaScript 标准参考教程][repo-jstutorial] ([Site][site-jstutorial], cc-nc) - A open JavaScript tutorial book, focusing on client devices, written in Chinese
 * [Build Web Applciation With Golang][repo-build-web-app-golang] (cc-sa) - A golang ebook intro how to build a web with golang 
-* [七天学会NodeJS][repo-7days-node] ([Site][site-7days-node], MIT)
-* [A Detailed Cplusplus Concurrency Tutorial][repo-adcct] (MIT)
-* [Backbone.js入门教程][repo-backbonejs-note] (MIT)
-* [ECMAScript 6入门][repo-es6tutorial-cn] ([Site][site-es6tutorial-cn], cc-nc)
+* [七天学会NodeJS][repo-7days-node] ([Site][site-7days-node], MIT) - 这是一本NodeJS新手入门教程，涵盖了使用NodeJS开发各种程序所必要的知识，请点击以下链接阅读
+* [C++ 并发编程指南][repo-adcct] (MIT) - A Detailed Cplusplus Concurrency Tutorial
+* [Backbone.js入门教程][repo-backbonejs-note] (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
+* [ECMAScript 6入门][repo-es6tutorial-cn] ([Site][site-es6tutorial-cn], cc-nc) - 一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
 
 [site-es6tutorial-cn]: http://es6.ruanyifeng.com/
 [repo-es6tutorial-cn]: https://github.com/ruanyf/es6tutorial
@@ -772,7 +772,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 ## Japanese
 
-* [Android Development Training Course][repo-and-training] ([Site][site-and-training], Apache 2.0)
+* [Android Development Training Course][repo-and-training] ([Site][site-and-training], Apache 2.0) - Training course repository for android app development 
 * [はてな教科書][repo-hatena-book] (cc-nc-sa) - はてな研修用教科書
 
 [repo-hatena-book]: https://github.com/hatena/Hatena-Textbook
@@ -782,21 +782,21 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='another_documents_list'></a>
 ## Another Documents List / References
 
-* [Beautiful Docs][repo-beautiful-docs]
-* [Papers We Love][repo-papers-we-love]
-* [Awesome Awesomeness][repo-awesome-awesomeness]
-* [Awesome][repo-awesome]
-* [Readings in Databases][repo-db-readings]
-* [Python Reference][repo-python-reference]
+* [Beautiful Docs][repo-beautiful-docs] - Pointers to useful, well-written, and otherwise beautiful documentation
+* [Papers We Love][repo-papers-we-love] - Papers from the computer science community to read and discuss
+* [Awesome Awesomeness][repo-awesome-awesomeness] - A curated list of amazingly awesome awesomeness
+* [Awesome][repo-awesome] - A curated list of awesome lists 
+* [Readings in Databases][repo-db-readings] - A list of papers essential to understanding databases and building new data systems
+* [Python Reference][repo-python-reference] - Useful functions, tutorials, and other Python-related things 
 * [Guides][repo-narkoz-guides] - Design and development guides
 * [List of Free Learning Resources][repo-free-programming-books] - Freely available programming books 
 * [Gitbook][site-gitbook] - A modern publishing toolchain. Simply taking you from ideas to finished, polished books
-* [O'Reilly Open Books][site-oreilly-openbook]
-* [OnlineProgrammingBooks.com][site-online-programming-books]
-* [Free Software Foundation][site-fsf-book]
+* [O'Reilly Open Books][site-oreilly-openbook] - O'Reilly has published a number of Open Books--books with various forms of "open" copyright--over the years. The reasons for "opening" copyright, as well as the specific license agreements under which they are opened, are as varied as our authors
+* [OnlineProgrammingBooks.com][site-online-programming-books] - This site lists free eBooks and online books related to programming, computer science, software engineering, web design, mobile app development, networking, databases, information technology, AI, graphics and computer hardware which are provided by publishers or authors on their websites legally
+* [Free Software Foundation - books/documentation][site-fsf-book]
 * [Green Tea Press][site-greentea-press] - Free books by Allen Downey
 * [Wikipedia books(community books)][site-wikipedia-book]
-* [Python Books][repo-python-books]
+* [Python Books][repo-python-books] - PythonBooks is a showcase of the best free ebooks about Python
 * [JSbooks][site-jsbooks] - The best free JavaScript resources
 
 [repo-beautiful-docs]: https://github.com/PharkMillups/beautiful-docs
