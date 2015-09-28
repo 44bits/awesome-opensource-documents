@@ -35,7 +35,7 @@ This is not a list of free programming books. This is a curated list of open sou
   * [Haskell](#haskell)
   * [Javascript](#javascript)
   * [Objective-c](#objective-c)
-  * [Php](#php)
+  * [PHP](#php)
   * [Python](#python)
   * [Rust](#rust)
   * [R](#r)
@@ -556,7 +556,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-real-world-ocaml]: https://realworldocaml.org/v1/en/html/
 
 <a name='php'></a>
-### Php
+### PHP
 
 * [PHP: The Right Way][repo-php-right-way] ([Site][site-php-right-way], by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 
