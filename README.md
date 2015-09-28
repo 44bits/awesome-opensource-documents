@@ -133,14 +133,14 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='devops'></a>
 ### Devops
 
-* [Ops School Curriculum][repo-ops-school] ([Site][site-ops-school], cc)
-* [Twelve Factor App][repo-twelve-factor] ([Site][site-twelve-factor], MIT)
-* Digital Oceans - Tutorials ([Site][site-do-tutorials], cc-nc-sa)
-* [.htaccess Snippets][repo-htaccess] (Public Domain) - A collection of useful .htaccess snippets
-* [Travis CI][repo-travis-docs] ([Site][site-travis-docs], MIT)
+* [Ops School Curriculum][repo-ops-school] ([Site][site-ops-school], cc) - Ops School is a comprehensive program that will help you learn to be an operations engineer
+* [Twelve Factor App][repo-twelve-factor] ([Site][site-twelve-factor], MIT) - The twelve-factor app is a methodology for building software-as-a-service apps
+* Digital Oceans - Tutorials ([Site][site-do-tutorials], cc-nc-sa) - development and sysadmin tutorials
+* [.htaccess Snippets][repo-htaccess] (Public Domain) - A collection of useful .htaccess snippets, all in one place.
+* [Travis CI][repo-travis-docs] ([Site][site-travis-docs], MIT) - Documentation for Travis
 * [CoreOS Documentation][repo-coreos] ([Site][site-coreos], Apache 2.0) - Documentation for CoreOS
-* [Packer Documentation][repo-packer] ([Site][site-packer], MPL)
-* [The Art of Command Line][repo-art-command-line] (cc-sa)
+* [Packer Documentation][repo-packer] ([Site][site-packer], MPL) - Documentation for Packer
+* [The Art of Command Line][repo-art-command-line] (cc-sa) - Master the command line, in one page 
 
 [repo-art-command-line]: https://github.com/jlevy/the-art-of-command-line
 [repo-packer]: https://github.com/mitchellh/packer/tree/master/website/source/docs
@@ -174,8 +174,8 @@ This is not a list of free programming books. This is a curated list of open sou
 * [The Architecture of Open Source Applications 1][repo-aosa] ([Site][site-aosa], cc-nc-sa)
 * [The Architecture of Open Source Applications 2][repo-aosa] ([Site][site-aosa], cc-nc-sa)
 * [The Performance of Open Source Applications][repo-aosa] ([Site][site-aosa], cc-nc-sa)
-* [Free Software Free Society: Selected Essays][repo-fsfs] ([Site][site-fsfs], GNU-FDL)
-* [Free as in Freedom (2.0)][repo-free-freedom-2] ([Site][site-free-freedom-2], GNU-FDL)
+* [Free Software Free Society: Selected Essays][repo-fsfs] ([Site][site-fsfs], GNU-FDL) - The Architecture of Open Source Applications
+* [Free as in Freedom (2.0)][repo-free-freedom-2] ([Site][site-free-freedom-2], GNU-FDL) - Free as in Freedom (2.0) is Stallman's revision of the original biography.
 * The Daemon, the GNU & the Penguin ~ by Dr. Peter Salus ([Site][site-tdtgtp], cc-nc-nd)
 
 [repo-free-freedom-2]: http://bzr.savannah.gnu.org/lh/books/changes
@@ -217,7 +217,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='database'></a>
 ### Database
 
-* [Elasticsearch - The Definitive Guide][repo-elastic-dg] ([Site][site-elastic-dg], cc-nc-nd)
+* [Elasticsearch - The Definitive Guide][repo-elastic-dg] ([Site][site-elastic-dg], cc-nc-nd) - The Definitive Guide to Elasticsearch
 
 [repo-elastic-dg]: https://github.com/elastic/elasticsearch-definitive-guide
 [site-elastic-dg]: https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html
@@ -226,15 +226,15 @@ This is not a list of free programming books. This is a curated list of open sou
 ### World Wide Web
 
 * [HTTP API Design Guide][repo-http-api] (cc) - HTTP API design guide extracted from work on the Heroku Platform API
-* [Dive Into HTML5][repo-diveintohtml5] ([Site][site-diveintohtml5], cc)
+* [Dive Into HTML5][repo-diveintohtml5] ([Site][site-diveintohtml5], cc) - Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards
 * [Web Fundamentals][repo-web-fundamentles] ([Site][site-web-fundamentles], Apache 2.0) - Best practices for modern web development
 * [Code Guide][repo-code-guide] ([Site][site-code-guide], MIT) - Standards for flexible, durable, and sustainable HTML and CSS
-* [HTML Best Practices][repo-html-best] (cc0)
-* [WebComponents.org][repo-webcomponents] ([Site][site-webcomponents], cc-sa)
-* [How to lose weight (in the browser)][repo-browser-diet] ([Site][site-browser-diet], cc-sa, MIT)
+* [HTML Best Practices][repo-html-best] (cc0) - For writing maintainable and scalable HTML documents
+* [WebComponents.org][repo-webcomponents] ([Site][site-webcomponents], cc-sa) - A place to discuss and evolve Web Component best-practices
+* [How to lose weight (in the browser)][repo-browser-diet] ([Site][site-browser-diet], cc-sa, MIT) - The definitive front-end performance guide
 * [North][repo-north] ([Site][site-north], MIT) - MIT Design and development standards to align and guide your project.
-* RESTful Web APIs ([Site][site-restful-web-apis], cc-nc-nd)
-* DOM Enlightenment ([Site][site-domenlight], cc-nc-nd)
+* RESTful Web APIs ([Site][site-restful-web-apis], cc-nc-nd) - Restful Web APIs was the first book-length treatment of RESTful design, and the predecessor to RESTful Web APIs.
+* DOM Enlightenment ([Site][site-domenlight], cc-nc-nd) - Exploring the relationship between JavaScript and the modern HTML DOM
 * [http2 explained][repo-http2-explained] ([Site][site-http2-explained], cc-nc-nd) - http2 explained is a detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 
 [site-http2-explained]: http://daniel.haxx.se/http2/
@@ -261,8 +261,8 @@ This is not a list of free programming books. This is a curated list of open sou
 ### Writings and Documentation
 
 * [Write the Doc][repo-write-the-doc] ([Site][site-write-the-doc], cc) - A place for Sphinx documentation and general writing of things.
-* [The Hitchhiker's Guide to Documentation!][repo-thgtd] ([Site][site-thgtd], cc-nc-sa)
-* [CommonMark Spec][repo-commonmark-spec] ([Site][site-commonmark-spec], cc-sa)
+* [The Hitchhiker's Guide to Documentation!][repo-thgtd] ([Site][site-thgtd], cc-nc-sa) - This Guide exists to provide advices and a best-practice handbook about creating documentation
+* [CommonMark Spec][repo-commonmark-spec] ([Site][site-commonmark-spec], cc-sa) - CommonMark is a rationalized version of Markdown syntax, with a spec and BSD-licensed reference implementations in C and JavaScript.
 * reStructuredText Markup Specification ([Site][site-rst-spec], Public Domain)
 * [Prose for Programmers][repo-prose-prog] (cc-nc-nd) - A book to help software developers write better prose 
 
