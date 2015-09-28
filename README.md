@@ -14,7 +14,7 @@ This is not a list of free programming books. This is a curated list of open sou
   * [Computer Science](#computer_science)
   * [Data Science](#data_science)
   * [Devops](#devops)
-  * [Methematics & Physics](#mathematics)
+  * [Mathematics & Physics](#mathematics)
   * [Open Source](#open_source)
   * [Programming](#programming)
   * [Database](#database)
