@@ -478,7 +478,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 * Learning JavaScript Design Patterns ([Site][site-ljdp], cc-nc-nd) - In this book we will explore applying both classical and modern design patterns to the JavaScript programming language
 * [JavaScript-Garden][repo-javascript-garden] ([Site][site-javascript-garden], MIT) - A collection of documentation about the most quirky parts of the JavaScript language
-* [ECMAScript 6 Features][repo-es6-features] (MIT) - JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language
+* [ECMAScript 6 Features][repo-es6-features] (MIT) - ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAScript standard
 * [React Primer Draft][repo-react-primer] (GNU) - A primer for building Single-Page Applications with React
 * [Angular Style Guide][repo-angular-style-guide] (MIT) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices
 * [JavaScript : The Right Way][repo-jstherightway] ([Site][site-jstherightway], cc-nc-sa) - This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices
