@@ -5,7 +5,7 @@ This is not a list of free programming books. This is a curated list of open sou
 ## Document Template
 
 ```
-[TITLE][repository-url] by AUTHOR ([SITE][site-url], LICENSE) - SHORT DESCRITPTION
+[TITLE][repository-url] by AUTHOR ([SITE][site-url], LICENSE) - SHORT DESCRIPTION
 ```
 
 ## Table of Contents
