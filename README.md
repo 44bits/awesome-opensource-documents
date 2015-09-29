@@ -540,8 +540,11 @@ This is not a list of free programming books. This is a curated list of open sou
 ### Lisp
 
 * [DIY Lisp][repo-diy-lisp] (BSD) - A hands-on, test driven guide to implementing a simple programming language 
+* [Build Your Own Lisp][repo-buildyourownlisp] ([Site][site-buildyourownlisp], cc-nc-sa) - Learn C and build your own programming language in under 1000 lines of code!
 
 [repo-diy-lisp]: https://github.com/kvalle/diy-lisp
+[repo-buildyourownlisp]: https://github.com/orangeduck/BuildYourOwnLisp
+[site-buildyourownlisp]: http://www.buildyourownlisp.com/
 
 <a name='objective-c'></a>
 ### Objective-C
