@@ -125,7 +125,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-baymh]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 [site-dmftm]:http://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf
 [site-abinn]: http://www.dkriesel.com/en/science/neural_networks
-[repo-thinkstats]: https://code.google.com/p/thinkstats/
+[repo-thinkstats]: https://github.com/AllenDowney/ThinkStats2
 [site-thinkstats]: http://greenteapress.com/thinkstats/
 [repo-leads]: https://github.com/nborwankar/LearnDataScience
 
@@ -611,7 +611,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [site-rust-python]: http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
 [repo-rust-rubyist]: https://github.com/steveklabnik/rust_for_rubyists
-[site-rust-rubyist]: http://www.rustforrubyists.com
+[site-rust-rubyist]:  https://github.com/steveklabnik/rust_for_rubyists
 [repo-rust-by-example]: https://github.com/rust-lang/rust-by-example
 [site-rust-by-example]: http://rustbyexample.com/
 [site-trpl]: http://doc.rust-lang.org/book/README.html
