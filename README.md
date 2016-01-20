@@ -125,7 +125,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-baymh]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 [site-dmftm]:http://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf
 [site-abinn]: http://www.dkriesel.com/en/science/neural_networks
-[repo-thinkstats]: https://code.google.com/p/thinkstats
+[repo-thinkstats]: https://code.google.com/p/thinkstats/
 [site-thinkstats]: http://greenteapress.com/thinkstats/
 [repo-leads]: https://github.com/nborwankar/LearnDataScience
 
@@ -143,10 +143,10 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-art-command-line]: https://github.com/jlevy/the-art-of-command-line
 [repo-packer]: https://github.com/mitchellh/packer/tree/master/website/source/docs
-[site-packer]: https://www.packer.io/docs
+[site-packer]: https://www.packer.io/docs/
 [site-coreos]: https://coreos.com/docs/
 [repo-coreos]: https://github.com/coreos/docs/
-[site-travis-docs]: http://docs.travis-ci.com/
+[site-travis-docs]: https://docs.travis-ci.com/
 [repo-travis-docs]: https://github.com/travis-ci/docs-travis-ci-com
 [repo-twelve-factor]: https://github.com/heroku/12factor
 [site-twelve-factor]: http://12factor.net/
@@ -329,10 +329,10 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Learn X in Y minutes][repo-xyminutes] ([Site][site-xyminutes], cc-sa) - Take a whirlwind tour of your next favorite language. Community-driven!
 * [RxMarbles][repo-rxmarbles] ([Site][site-rxmarbles], BSD) - Interactive diagrams of Rx Observables
 
-[site-rxmarbles]: http://www.rxmarbles.com
+[site-rxmarbles]: http://rxmarbles.com/
 [repo-rxmarbles]: https://github.com/staltz/rxmarbles
 [repo-npr-bp]: https://github.com/nprapps/bestpractices
-[site-xyminutes]: http://learnxinyminutes.com/
+[site-xyminutes]: https://learnxinyminutes.com/
 [repo-xyminutes]: https://github.com/adambard/learnxinyminutes-docs
 [repo-peco]: https://github.com/peco/peco
 [repo-10up-bp]: https://github.com/10up/Engineering-Best-Practices
@@ -341,7 +341,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-zguide]: https://github.com/imatix/zguide
 [repo-solarized]: https://github.com/altercation/ethanschoonover.com/tree/master/projects/solarized
 [site-solarized]: http://ethanschoonover.com/solarized
-[repo-cocktails-for-programmer]: https://github.com/the-teacher/cocktails_for_programmers
+[repo-cocktails-for-programmer]: https://github.com/cocktails-for-programmers/cocktails_for_programmers
 
 <a name=programming_languages'></a>
 ## Programming Languages
@@ -411,7 +411,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-rails-guide]: https://github.com/rails/rails/tree/master/guides
 [site-rails-guide]: http://guides.rubyonrails.org/
 [repo-poignant-ruby]: https://github.com/mislav/poignant-guide
-[site-poignant-ruby]: http://mislav.uniqpath.com/poignant-guide/book/
+[site-poignant-ruby]: http://poignant.guide/book/
 
 <a name='clojure'></a>
 ### Clojure
@@ -509,7 +509,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-react]: https://github.com/facebook/react/tree/master/docs
 [site-react]: https://facebook.github.io/react/docs/getting-started.html
 [repo-emberjs]: https://github.com/emberjs/guides/
-[site-emberjs]: http://guides.emberjs.com/v2.0.0/
+[site-emberjs]: https://guides.emberjs.com/v2.0.0/
 [site-casperjs]: https://casperjs.readthedocs.org/en/latest/
 [repo-casperjs]: https://github.com/n1k0/casperjs/blob/master/docs
 [site-you-dont-know-js]: https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series
@@ -527,11 +527,11 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-react-primer]: https://github.com/mikechau/react-primer-draft/
 [repo-es6-features]: https://github.com/lukehoban/es6features
 [repo-javascript-garden]: https://github.com/BonsaiDen/JavaScript-Garden
-[site-javascript-garden]: http://bonsaiden.github.com/JavaScript-Garden
+[site-javascript-garden]: http://bonsaiden.github.io/JavaScript-Garden/
 [repo-jstherightway]: https://github.com/braziljs/js-the-right-way
 [site-jstherightway]: http://jstherightway.org/
 [repo-idiomatic-js]: https://github.com/rwaldron/idiomatic.js
-[site-ljdp]: http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+[site-ljdp]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 [repo-angular-test-pattern]: https://github.com/daniellmb/angular-test-patterns
 [repo-airbnb-javascript]: https://github.com/airbnb/javascript
 [repo-js-garden]: https://github.com/BonsaiDen/JavaScript-Garden
@@ -587,7 +587,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-magic-methods]: https://github.com/RafeKettler/magicmethods
 [site-magic-methods]: http://www.rafekettler.com/magicmethods.html
 [site-lpupython]: https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit
-[repo-byte-python]: https://github.com/swaroopch/byte_of_python
+[repo-byte-python]: https://github.com/swaroopch/byte-of-python
 [site-byte-python]: http://www.swaroopch.com/notes/python/
 [repo-full-python]: https://github.com/makaimc/fullstackpython.com
 [site-full-python]: http://www.fullstackpython.com/
@@ -611,7 +611,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [site-rust-python]: http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
 [repo-rust-rubyist]: https://github.com/steveklabnik/rust_for_rubyists
-[site-rust-rubyist]: http://rustforrubyists.com/
+[site-rust-rubyist]: http://www.rustforrubyists.com
 [repo-rust-by-example]: https://github.com/rust-lang/rust-by-example
 [site-rust-by-example]: http://rustbyexample.com/
 [site-trpl]: http://doc.rust-lang.org/book/README.html
@@ -642,7 +642,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Scala School!][repo-scala-school] ([Site][site-scala-school], Apache 2.0) - Lessons in the Fundamentals of Scala
 
 [repo-effective-scala]: https://github.com/twitter/effectivescala
-[site-effective-scala]: http://twitter.github.com/effectivescala
+[site-effective-scala]: http://twitter.github.io/effectivescala/
 [repo-scala-bp]: https://github.com/alexandru/scala-best-practices
 [repo-scala-school]: https://github.com/twitter/scala_school
 [site-scala-school]: https://twitter.github.io/scala_school/
@@ -740,7 +740,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-ansible-document]: https://github.com/ansible/ansible/tree/devel/docsite
 [site-ansible-document]: http://docs.ansible.com/
 [repo-sphinx-doc]: https://github.com/sphinx-doc/sphinx/tree/master/doc
-[site-sphinx-doc]: http://sphinx-doc.org/contents.html
+[site-sphinx-doc]: http://www.sphinx-doc.org/en/stable/contents.html
 
 <a name='other_languages'></a>
 ## Other Languages
@@ -769,7 +769,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-es6tutorial-cn]: http://es6.ruanyifeng.com/
 [repo-es6tutorial-cn]: https://github.com/ruanyf/es6tutorial
 [repo-backbonejs-note]: https://github.com/the5fire/backbonejs-learning-note
-[repo-adcct]: https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial
+[repo-adcct]: https://github.com/forhappy/Cplusplus-Concurrency-In-Practice
 [site-7days-node]: http://nqdeng.github.io/7-days-nodejs/ 
 [repo-7days-node]: https://github.com/nqdeng/7-days-nodejs
 [repo-build-web-app-golang]: https://github.com/astaxie/build-web-application-with-golang
@@ -818,7 +818,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-online-programming-books]: http://www.onlineprogrammingbooks.com/
 [site-fsf-book]: http://shop.fsf.org/category/books/
 [site-greentea-press]: http://www.greenteapress.com/
-[site-wikipedia-book]: http://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29
+[site-wikipedia-book]: https://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29
 [repo-python-books]: https://github.com/revolunet/PythonBooks
 [site-jsbooks]: http://jsbooks.revolunet.com/
 
