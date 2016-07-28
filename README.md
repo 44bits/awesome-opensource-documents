@@ -236,6 +236,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * RESTful Web APIs ([Site][site-restful-web-apis], cc-nc-nd) - Restful Web APIs was the first book-length treatment of RESTful design, and the predecessor to RESTful Web APIs.
 * DOM Enlightenment ([Site][site-domenlight], cc-nc-nd) - Exploring the relationship between JavaScript and the modern HTML DOM
 * [http2 explained][repo-http2-explained] ([Site][site-http2-explained], cc-nc-nd) - http2 explained is a detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+* RESTful API Guidelines ([Site][zalando-guidelines], cc) - Comprehensive, "API First" design guidelines developed by Zalando
 
 [site-http2-explained]: http://daniel.haxx.se/http2/
 [repo-http2-explained]: https://github.com/bagder/http2-explained
@@ -256,6 +257,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-diveintohtml5]: http://diveintohtml5.info/
 [repo-500-lines]: https://github.com/aosabook/500lines
 [repo-http-api]: https://github.com/interagent/http-api-design
+[zalando-guidelines]: https://zalando.github.io/restful-api-guidelines/index.html
 
 <a name='writings_and_documentation'></a>
 ### Writings and Documentation
