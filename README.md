@@ -767,6 +767,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [C++ 并发编程指南][repo-adcct] (MIT) - A Detailed Cplusplus Concurrency Tutorial
 * [Backbone.js入门教程][repo-backbonejs-note] (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
 * [ECMAScript 6入门][repo-es6tutorial-cn] ([Site][site-es6tutorial-cn], cc-nc) - 一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
+* [Nginx开发从入门到精通][repo-nginx-book-cn] ([Site][site-nginx-book-cn], cc-nc) - 一本开源的Nginx开发教程，全面介绍nginx模块的开发以及它的内部原理
 
 [site-es6tutorial-cn]: http://es6.ruanyifeng.com/
 [repo-es6tutorial-cn]: https://github.com/ruanyf/es6tutorial
@@ -777,6 +778,8 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-build-web-app-golang]: https://github.com/astaxie/build-web-application-with-golang
 [site-jstutorial]: http://javascript.ruanyifeng.com
 [repo-jstutorial]: https://github.com/ruanyf/jstutorial/
+[site-nginx-book-cn]: http://tengine.taobao.org/book/
+[repo-nginx-book-cn]: https://github.com/taobao/nginx-book
 
 ## Japanese
 
