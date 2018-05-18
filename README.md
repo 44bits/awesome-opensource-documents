@@ -19,7 +19,7 @@ This is not a list of free programming books. This is a curated list of open sou
   * [Programming](#programming)
   * [Database](#database)
   * [World Wide Web](#world_wide_web)
-  * [Writing and Documentation](#writing_and_documentation)
+  * [Writings and Documentation](#writings_and_documentation)
   * [Journalism and Visualization](#journalism_and_visualization)
   * [Android Development](#android_development)
   * [IOS Development](#ios_development)
