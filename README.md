@@ -1,6 +1,6 @@
 # Awesome Open Source Documents
 
-This is not a list of free programming books. This is a curated list of open source or open source licensed documents, guides, books which can read, use, modify, translate, redistribute and even rewrite under their license.
+This is not a list of free programming books. This is a curated list of open source or open source licensed documents, guides, and books which can be read, used, modified, translated, redistributed and even rewritten under their same license.
 
 ## Document Template
 
@@ -13,13 +13,13 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Subjects](#subjects)
   * [Computer Science](#computer_science)
   * [Data Science](#data_science)
-  * [Devops](#devops)
+  * [DevOps](#devops)
   * [Mathematics & Physics](#mathematics)
   * [Open Source](#open_source)
   * [Programming](#programming)
   * [Database](#database)
   * [World Wide Web](#world_wide_web)
-  * [Writings and Documentation](#writings_and_documentation)
+  * [Writing and Documentation](#writing_and_documentation)
   * [Journalism and Visualization](#journalism_and_visualization)
   * [Android Development](#android_development)
   * [IOS Development](#ios_development)
@@ -45,7 +45,7 @@ This is not a list of free programming books. This is a curated list of open sou
   * [Git](#git)
   * [Server](#server)
   * [etc.](#tool-etc)
-* [Other Lanugages](#other_languages)
+* [Other Languages](#other_languages)
   * [Chinese](#chinese)
   * [Japanese](#japanese)
   * [Korean](#korean)
@@ -75,12 +75,12 @@ This is not a list of free programming books. This is a curated list of open sou
 * Fundamentals of Programming: With Object Oriented Programming ([Site][site-funop], cc-nc-sa) - This book presents a balanced and flexible approach to the incorporation of object-oriented principles in introductory courses using Python
 * Introduction to Computing ([Site][site-introtocom], cc-nc-sa) - This book introduces the most important ideas in computing using the Scheme and Python programming languages. It focuses on how to describe information processes by defining procedures, how to analyze the costs required to carry out a procedure, and the fundamental limits of what can and cannot be computed mechanically
 * [Computer Science from the Bottom Up][repo-csftbu] ([Site][site-csftbu], cc-sa) - Computer Science from the Bottom Up — A free, online book designed to teach computer science from the bottom end up. Topics covered include binary and binary logic, operating systems internals, toolchain fundamentals and system library fundamentals
-* [Problem Solving with Algorithms and Data Structures][repo-psads] ([Site][site-psads], cc-nc-sa) - Examples and work from Problem Solving with Algorithms and Data Structures Using Python 
+* [Problem Solving with Algorithms and Data Structures][repo-psads] ([Site][site-psads], cc-nc-sa) - Examples and work from Problem Solving with Algorithms and Data Structures Using Python
 * Data Compression Explained ([Site][site-dce], custom liscense) - This book is for the reader who wants to understand how data compression works, or who wants to write data compression software.
 
 [site-dce]: http://mattmahoney.net/dc/dce.html
 [repo-psads]: https://github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python
-[site-psads]: http://interactivepython.org/runestone/static/pythonds/index.html 
+[site-psads]: http://interactivepython.org/runestone/static/pythonds/index.html
 [repo-csftbu]: https://github.com/ianw/bottomupcs
 [site-csftbu]: http://www.bottomupcs.com/
 [site-introtocom]: http://www.computingbook.org/
@@ -139,7 +139,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Travis CI][repo-travis-docs] ([Site][site-travis-docs], MIT) - Documentation for Travis
 * [CoreOS Documentation][repo-coreos] ([Site][site-coreos], Apache 2.0) - Documentation for CoreOS
 * [Packer Documentation][repo-packer] ([Site][site-packer], MPL) - Documentation for Packer
-* [The Art of Command Line][repo-art-command-line] (cc-sa) - Master the command line, in one page 
+* [The Art of Command Line][repo-art-command-line] (cc-sa) - Master the command line, in one page
 
 [repo-art-command-line]: https://github.com/jlevy/the-art-of-command-line
 [repo-packer]: https://github.com/mitchellh/packer/tree/master/website/source/docs
@@ -159,7 +159,7 @@ This is not a list of free programming books. This is a curated list of open sou
 ### Mathematics & Physics
 
 * [Homotopy type theory][repo-hott-book] ([Site][site-hott-book], BSD) - Homotopy Type Theory is an interpretation of Martin-Löf’s intensional type theory into abstract homotopy theory.
-* [Collision Detection][repo-jeff-collision] ([Site][site-jeff-collision], cc-nc-sa) - A book and examples on collision detection 
+* [Collision Detection][repo-jeff-collision] ([Site][site-jeff-collision], cc-nc-sa) - A book and examples on collision detection
 
 [repo-jeff-collision]: https://github.com/jeffThompson/CollisionDetection
 [site-jeff-collision]: http://www.jeffreythompson.org/collision-detection/
@@ -259,14 +259,14 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-http-api]: https://github.com/interagent/http-api-design
 [zalando-guidelines]: https://zalando.github.io/restful-api-guidelines/index.html
 
-<a name='writings_and_documentation'></a>
-### Writings and Documentation
+<a name='writing_and_documentation'></a>
+### Writing and Documentation
 
 * [Write the Doc][repo-write-the-doc] ([Site][site-write-the-doc], cc) - A place for Sphinx documentation and general writing of things.
 * [The Hitchhiker's Guide to Documentation!][repo-thgtd] ([Site][site-thgtd], cc-nc-sa) - This Guide exists to provide advices and a best-practice handbook about creating documentation
 * [CommonMark Spec][repo-commonmark-spec] ([Site][site-commonmark-spec], cc-sa) - CommonMark is a rationalized version of Markdown syntax, with a spec and BSD-licensed reference implementations in C and JavaScript.
 * reStructuredText Markup Specification ([Site][site-rst-spec], Public Domain)
-* [Prose for Programmers][repo-prose-prog] (cc-nc-nd) - A book to help software developers write better prose 
+* [Prose for Programmers][repo-prose-prog] (cc-nc-nd) - A book to help software developers write better prose
 
 [repo-prose-prog]: https://github.com/joshuacc/prose-for-programmers
 [repo-commonmark-spec]: https://github.com/jgm/CommonMark
@@ -283,9 +283,9 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Data Journalism Handbook][site-data-journalism-handbook] (cc-sa) - The Data Journalism Handbook is a free, open source reference book for anyone interested in the emerging field of data journalism
 * [Intro to D3.js][repo-intro-to-d3] ([Site][site-intro-to-d3], Apache 2.0) - The tutorial provides a quick intro to D3.js, a Javascript library for creating data visualizations in the browser.
 * [The Nature of Code][repo-natureofcode] ([Site][site-natureofcode], cc-nc, LGPL) - This book focuses on the programming strategies and techniques behind computer simulations of natural systems using Processing
-* [Data Science 45-min Intros][repo-data-science-45min] (Public Domain) - Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques 
+* [Data Science 45-min Intros][repo-data-science-45min] (Public Domain) - Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques
 * [Data + Design][repo-data-design] ([Site][site-data-design],  cc-nc-sa) - A Simple Introduction to Preparing and Visualizing Information
-* [D3 101 Screencasts][repo-d3-101-screencasts] ([Site][site-d3-101-screencasts], MIT) - Curran Kelleher's D3.js screencasts 
+* [D3 101 Screencasts][repo-d3-101-screencasts] ([Site][site-d3-101-screencasts], MIT) - Curran Kelleher's D3.js screencasts
 * [Thematic Cartography Guide][repo-themacg] ([Site][site-themacg], cc-nc) - A short, friendly guide to basic principles of thematic mapping.
 
 [repo-themacg]: https://github.com/axismaps/thematic-cartography
@@ -305,7 +305,7 @@ This is not a list of free programming books. This is a curated list of open sou
 ### Android Development
 
 * Android Developers - API Guide ([Site][site-android-api-guide], cc) - Documentation for Android development
-* [Best practices in Android development][repo-android-bp] (cc) - Do's and Don'ts for Android development, by Futurice developers 
+* [Best practices in Android development][repo-android-bp] (cc) - Do's and Don'ts for Android development, by Futurice developers
 
 [repo-android-bp]: https://github.com/futurice/android-best-practices
 [site-android-api-guide]: http://developer.android.com/guide/index.html
@@ -322,7 +322,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='subject-etc'></a>
 ### ETC
 
-* [Cocktails for programmers][repo-cocktails-for-programmer] (MIT) - Сocktails for programmers. Коктейли для программистов. 
+* [Cocktails for programmers][repo-cocktails-for-programmer] (MIT) - Сocktails for programmers. Коктейли для программистов.
 * [Solarized][repo-solarized] ([Site][site-solarized], MIT) - Precision colors for machines and people
 * [ØMQ - The Guide][repo-zguide] ([Site][site-zguide] cc-nc-sa) - Learning and Using ØMQ
 * [NPR Visuals' Best Practices][repo-npr-bp] (cc) - Best practices and coding conventions for the NPR Visuals team.
@@ -345,7 +345,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-solarized]: http://ethanschoonover.com/solarized
 [repo-cocktails-for-programmer]: https://github.com/cocktails-for-programmers/cocktails_for_programmers
 
-<a name=programming_languages'></a>
+<a name="programming_languages"></a>
 ## Programming Languages
 
 ### C
@@ -384,10 +384,10 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='ruby'></a>
 ### Ruby
 
-* [Why's Poignant Guide to Ruby][repo-poignant-ruby] ([Site][site-poignant-ruby], cc-sa) - This is just a small Ruby book. It won’t crush you. It’s light as a feather 
+* [Why's Poignant Guide to Ruby][repo-poignant-ruby] ([Site][site-poignant-ruby], cc-sa) - This is just a small Ruby book. It won’t crush you. It’s light as a feather
 * [Rails Guide][repo-rails-guide] ([Site][site-rails-guide], cc-sa) - Official Guide for Ruby on Rails
-* [The Rails Style Guide][repo-rails-style-guide] (cc) - A community-driven Ruby on Rails 4 style guide 
-* [Ruby Style Guide][repo-ruby-style-guide] (cc) - A community-driven Ruby coding style guide 
+* [The Rails Style Guide][repo-rails-style-guide] (cc) - A community-driven Ruby on Rails 4 style guide
+* [Ruby Style Guide][repo-ruby-style-guide] (cc) - A community-driven Ruby coding style guide
 * [Better Spec][repo-better-spec] ([Site][site-better-spec], MIT) - RSpec Best Practices
 * [Ruby Hacking Guide][repo-rhg] ([Site][site-rhg-english], cc-nc-sa) - Ruby hacking guide english translation
 * Practicing Ruby ([Site][site-practicing-ruby], cc-sa) - We provide concentrated doses of programming experience across a wide range of different topics
@@ -431,7 +431,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 * [Elixir Getting Started][repo-elixir-getting-started] ([Site][site-elixir-getting-started], Apache 2.0) - Official Elixir tutorial
 * [repo-30-days-of-elixir][repo-30-days-of-elixir] (MIT) - A walk through the Elixir language in 30 exercises
-* [Elixir Style Guide][repo-elixir-style-guide] (cc) - A community driven style guide for Elixir 
+* [Elixir Style Guide][repo-elixir-style-guide] (cc) - A community driven style guide for Elixir
 
 [repo-elixir-style-guide]: https://github.com/niftyn8/elixir_style_guide
 [repo-elixir-getting-started]: https://github.com/elixir-lang/elixir-lang.github.com
@@ -458,7 +458,7 @@ This is not a list of free programming books. This is a curated list of open sou
 ### Go
 
 * [Go by Example][repo-go-by-example] (cc) - Go by Example is a hands-on introduction to Go using annotated example programs
-* [Build Web Application With Golang][repo-bwawg] (cc-sa) - A golang ebook intro how to build a web with golang 
+* [Build Web Application With Golang][repo-bwawg] (cc-sa) - A golang ebook intro how to build a web with golang
 
 [repo-bwawg]: https://github.com/astaxie/build-web-application-with-golang
 [repo-go-by-example]: https://github.com/mmcgrana/gobyexample
@@ -492,9 +492,9 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Node.js Best Practices][repo-nodejs-bp] ([Site][site-nodejs-bp], MIT) - This is a list of best practices for writing robust Node.js code. It is inspired by other guilds such as Felix Geisendörfer's Node Style Guide and what is popular within the community
 * [function qualityGuide () {][repo-function-quality] (MIT) - This style guide aims to provide the ground rules for an application's JavaScript code, such that it's highly readable and consistent across different developers on a team
 * [The Node Beginner Book][repo-node-biginner] ([Site][site-node-biginner], cc-nc-sa) - The Node Beginner Book is a comprehensive introduction to Node.js and some of the more advanced JavaScript topics like functional programming
-* [Learn You The Node.js For Much Win!][repo-learn-node-win] (MIT) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops. 
+* [Learn You The Node.js For Much Win!][repo-learn-node-win] (MIT) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
 * Understanding ECMAScript 6 ([Site][site-understanding-es6], cc-nc-nd) - ECMAScript 6 is coming, are you ready? There's a lot of new concepts to learn and understand. Get a headstart with this book!
-* [An introduction to Node.js][repo-art-of-node] (cc-sa) - a short introduction to node.js 
+* [An introduction to Node.js][repo-art-of-node] (cc-sa) - a short introduction to node.js
 * [stream-handbook][repo-stream-handbook] (cc) - how to write node programs with streams
 * [You Don't Know JS][repo-you-dont-know-js] ([Site][site-you-dont-know-js], cc-nc-nd) - A book series on JavaScript. @YDKJS on twitter.
 * [CasperJS][repo-casperjs] ([Site][site-casperjs], MIT) - Documentation for CasperJS
@@ -521,7 +521,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-understanding-es6]: https://leanpub.com/understandinges6/read
 [repo-learn-node-win]: https://github.com/workshopper/learnyounode
 [repo-node-biginner]: https://github.com/manuelkiessling/nodebeginner.org
-[site-node-biginner]: http://www.nodebeginner.org/ 
+[site-node-biginner]: http://www.nodebeginner.org/
 [repo-function-quality]: https://github.com/bevacqua/js
 [site-nodejs-bp]: http://justbuildsomething.com/node-js-best-practices/
 [repo-nodejs-bp]: https://github.com/alanjames1987/Node.js-Best-Practices
@@ -541,7 +541,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 ### Lisp
 
-* [DIY Lisp][repo-diy-lisp] (BSD) - A hands-on, test driven guide to implementing a simple programming language 
+* [DIY Lisp][repo-diy-lisp] (BSD) - A hands-on, test driven guide to implementing a simple programming language.
 * [Build Your Own Lisp][repo-buildyourownlisp] ([Site][site-buildyourownlisp], cc-nc-sa) - Learn C and build your own programming language in under 1000 lines of code!
 
 [repo-diy-lisp]: https://github.com/kvalle/diy-lisp
@@ -551,13 +551,13 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='objective-c'></a>
 ### Objective-C
 
-* [NYTimes Objective-C Style Guide][repo-nytimes-objective-c-style-guide] (MIT) - This style guide outlines the coding conventions of the iOS teams at The New York Times
+* [NYTimes Objective-C Style Guide][repo-nytimes-objective-c-style-guide] (MIT) - This style guide outlines the coding conventions of the iOS teams at The New York Times.
 
 [repo-nytimes-objective-c-style-guide]: https://github.com/NYTimes/objective-c-style-guide
 
 ### Ocaml
 
-* Real World OCaml ([Site][site-real-world-ocaml], cc-nc-nd) - Real World OCaml is aimed at programmers who have some experience with conventional programming languages, but not specifically with statically typed functional programming
+* Real World OCaml ([Site][site-real-world-ocaml], cc-nc-nd) - Real World OCaml is aimed at programmers who have some experience with conventional programming languages, but not specifically with statically typed functional programming.
 
 [site-real-world-ocaml]: https://realworldocaml.org/v1/en/html/
 
@@ -668,7 +668,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='server'></a>
 ### Server
 
-* [Nginx Server Configs][repo-nginx-configs] (MIT) - Nginx HTTP server boilerplate configs 
+* [Nginx Server Configs][repo-nginx-configs] (MIT) - Nginx HTTP server boilerplate configs
 
 [repo-nginx-configs]: https://github.com/h5bp/server-configs-nginx
 
@@ -702,7 +702,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-git-style-guide]: https://github.com/agis-/git-style-guide
 [repo-git-magic]: https://github.com/blynn/gitmagic
-[site-git-magic]: http://cs.stanford.edu/~blynn/gitmagic/ 
+[site-git-magic]: http://cs.stanford.edu/~blynn/gitmagic/
 [repo-git-it]: https://github.com/jlord/git-it
 [site-git-it]: http://jlord.github.io/git-it
 [repo-github-cheatsheet]: https://github.com/tiimgreen/github-cheat-sheet
@@ -762,7 +762,7 @@ This is not a list of free programming books. This is a curated list of open sou
 ### Chinese
 
 * [JavaScript 标准参考教程][repo-jstutorial] ([Site][site-jstutorial], cc-nc) - A open JavaScript tutorial book, focusing on client devices, written in Chinese
-* [Build Web Applciation With Golang][repo-build-web-app-golang] (cc-sa) - A golang ebook intro how to build a web with golang 
+* [Build Web Applciation With Golang][repo-build-web-app-golang] (cc-sa) - A golang ebook intro how to build a web with golang
 * [七天学会NodeJS][repo-7days-node] ([Site][site-7days-node], MIT) - 这是一本NodeJS新手入门教程，涵盖了使用NodeJS开发各种程序所必要的知识，请点击以下链接阅读
 * [C++ 并发编程指南][repo-adcct] (MIT) - A Detailed Cplusplus Concurrency Tutorial
 * [Backbone.js入门教程][repo-backbonejs-note] (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
@@ -773,7 +773,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-es6tutorial-cn]: https://github.com/ruanyf/es6tutorial
 [repo-backbonejs-note]: https://github.com/the5fire/backbonejs-learning-note
 [repo-adcct]: https://github.com/forhappy/Cplusplus-Concurrency-In-Practice
-[site-7days-node]: http://nqdeng.github.io/7-days-nodejs/ 
+[site-7days-node]: http://nqdeng.github.io/7-days-nodejs/
 [repo-7days-node]: https://github.com/nqdeng/7-days-nodejs
 [repo-build-web-app-golang]: https://github.com/astaxie/build-web-application-with-golang
 [site-jstutorial]: http://javascript.ruanyifeng.com
@@ -783,7 +783,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 ## Japanese
 
-* [Android Development Training Course][repo-and-training] ([Site][site-and-training], Apache 2.0) - Training course repository for android app development 
+* [Android Development Training Course][repo-and-training] ([Site][site-and-training], Apache 2.0) - Training course repository for android app development
 * [はてな教科書][repo-hatena-book] (cc-nc-sa) - はてな研修用教科書
 
 [repo-hatena-book]: https://github.com/hatena/Hatena-Textbook
@@ -796,11 +796,11 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Beautiful Docs][repo-beautiful-docs] - Pointers to useful, well-written, and otherwise beautiful documentation
 * [Papers We Love][repo-papers-we-love] - Papers from the computer science community to read and discuss
 * [Awesome Awesomeness][repo-awesome-awesomeness] - A curated list of amazingly awesome awesomeness
-* [Awesome][repo-awesome] - A curated list of awesome lists 
+* [Awesome][repo-awesome] - A curated list of awesome lists
 * [Readings in Databases][repo-db-readings] - A list of papers essential to understanding databases and building new data systems
-* [Python Reference][repo-python-reference] - Useful functions, tutorials, and other Python-related things 
+* [Python Reference][repo-python-reference] - Useful functions, tutorials, and other Python-related things
 * [Guides][repo-narkoz-guides] - Design and development guides
-* [List of Free Learning Resources][repo-free-programming-books] - Freely available programming books 
+* [List of Free Learning Resources][repo-free-programming-books] - Freely available programming books
 * [Gitbook][site-gitbook] - A modern publishing toolchain. Simply taking you from ideas to finished, polished books
 * [O'Reilly Open Books][site-oreilly-openbook] - O'Reilly has published a number of Open Books--books with various forms of "open" copyright--over the years. The reasons for "opening" copyright, as well as the specific license agreements under which they are opened, are as varied as our authors
 * [OnlineProgrammingBooks.com][site-online-programming-books] - This site lists free eBooks and online books related to programming, computer science, software engineering, web design, mobile app development, networking, databases, information technology, AI, graphics and computer hardware which are provided by publishers or authors on their websites legally
