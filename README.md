@@ -25,15 +25,19 @@ This is not a list of free programming books. This is a curated list of open sou
   * [IOS Development](#ios_development)
   * [etc.](#subject-etc)
 * [Programming Languages](#programming_languages)
+  * [C](#language-c)
   * [Coffeescript](#coffeescript)
   * [CSS](#css)
+  * [Fortran](#fortran)
   * [Ruby](#ruby)
   * [Clojure](#clojure)
   * [Erlang](#erlang)
   * [Elixir](#elixir)
+  * [Forth](#forth)
   * [Go](#go)
   * [Haskell](#haskell)
   * [Javascript](#javascript)
+  * [Lisp](#lisp)
   * [Objective-c](#objective-c)
   * [PHP](#php)
   * [Python](#python)
@@ -45,10 +49,11 @@ This is not a list of free programming books. This is a curated list of open sou
   * [Git](#git)
   * [Server](#server)
   * [etc.](#tool-etc)
+* [Library Documentation](#library-docs)
 * [Other Languages](#other_languages)
+  * [Korean](#korean)
   * [Chinese](#chinese)
   * [Japanese](#japanese)
-  * [Korean](#korean)
 * [License](#license)
 
 <a name='subjects'></a>
@@ -262,11 +267,11 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='writing_and_documentation'></a>
 ### Writing and Documentation
 
-* [Write the Doc][repo-write-the-doc] ([Site][site-write-the-doc], cc) - A place for Sphinx documentation and general writing of things.
-* [The Hitchhiker's Guide to Documentation!][repo-thgtd] ([Site][site-thgtd], cc-nc-sa) - This Guide exists to provide advices and a best-practice handbook about creating documentation
+* [Write the Docs][repo-write-the-docs] ([Site][site-write-the-docs], cc) - A place for Sphinx documentation and general writing of things.
+* [The Hitchhiker's Guide to Documentation!][repo-thgtd] ([Site][site-thgtd], cc-nc-sa) - This Guide exists to provide advices and a best-practice handbook about creating documentation.
 * [CommonMark Spec][repo-commonmark-spec] ([Site][site-commonmark-spec], cc-sa) - CommonMark is a rationalized version of Markdown syntax, with a spec and BSD-licensed reference implementations in C and JavaScript.
 * reStructuredText Markup Specification ([Site][site-rst-spec], Public Domain)
-* [Prose for Programmers][repo-prose-prog] (cc-nc-nd) - A book to help software developers write better prose
+* [Prose for Programmers][repo-prose-prog] (cc-nc-nd) - A book to help software developers write better prose.
 
 [repo-prose-prog]: https://github.com/joshuacc/prose-for-programmers
 [repo-commonmark-spec]: https://github.com/jgm/CommonMark
@@ -274,8 +279,8 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-rst-spec]: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 [site-thgtd]: http://docs-guide.readthedocs.org/en/latest/
 [repo-thgtd]: https://github.com/chrismedrela/docs-guide
-[site-write-the-doc]: http://docs.writethedocs.org/
-[repo-write-the-doc]: https://github.com/writethedocs/docs/
+[site-write-the-docs]: http://docs.writethedocs.org/
+[repo-write-the-docs]: https://github.com/writethedocs/docs/
 
 <a name='journalism_and_visualization'></a>
 ### Journalism and Visualization
@@ -301,7 +306,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-intro-to-d3]: https://square.github.io/intro-to-d3/
 [site-data-journalism-handbook]: http://datajournalismhandbook.org/1.0/en/
 
-<a name='android_development'>
+<a name='android_development'></a>
 ### Android Development
 
 * Android Developers - API Guide ([Site][site-android-api-guide], cc) - Documentation for Android development
@@ -310,7 +315,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-android-bp]: https://github.com/futurice/android-best-practices
 [site-android-api-guide]: http://developer.android.com/guide/index.html
 
-<a name='ios_development'>
+<a name='ios_development'></a>
 ### IOS Development
 
 * [iOS Good Practices][repo-ios-good-practices] (cc) - Good ideas for iOS development, by Futurice developers.
@@ -348,6 +353,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name="programming_languages"></a>
 ## Programming Languages
 
+<a name='language-c'></a>
 ### C
 
 * [C Style][repo-cstyle] (cc-sa) - My favorite C programming practices
@@ -375,6 +381,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-bootstrap]: https://github.com/twbs/bootstrap/tree/master/docs
 [repo-idiomatic-css]: https://github.com/necolas/idiomatic-css
 
+<a name='fortran'></a>
 ### Fortran
 
 * Introduction to Programming using Fortran 95 ([Site][site-ipufortran], cc-nc-sa) - This text provides an introduction to programming and problem solving using the Fortran 95 programming language.
@@ -438,6 +445,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-elixir-getting-started]: http://elixir-lang.org/getting-started/introduction.html
 [repo-30-days-of-elixir]: https://github.com/seven1m/30-days-of-elixir
 
+<a name='forth'></a>
 ### Forth
 
 * Thinking Forth Project Thinking Forth Project ([PDF][site-thinking-forth], cc-nc-sa)
@@ -539,6 +547,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-js-garden]: https://github.com/BonsaiDen/JavaScript-Garden
 [site-js-garden]: http://bonsaiden.github.io/JavaScript-Garden/
 
+<a name='lisp'></a>
 ### Lisp
 
 * [DIY Lisp][repo-diy-lisp] (BSD) - A hands-on, test driven guide to implementing a simple programming language.
@@ -718,6 +727,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-upstart-cookbook]: http://upstart.ubuntu.com/cookbook/
 [site-gibber-manual]: https://www.gitbook.com/book/bigbadotis/gibber-user-manual/details
 
+<a name='library-docs'></a>
 ## Library Documentation
 
 * [riak docs][repo-riak] ([Site][site-riak], cc) - Documentation for riak
@@ -781,6 +791,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-nginx-book-cn]: http://tengine.taobao.org/book/
 [repo-nginx-book-cn]: https://github.com/taobao/nginx-book
 
+<a name='japanese'></a>
 ## Japanese
 
 * [Android Development Training Course][repo-and-training] ([Site][site-and-training], Apache 2.0) - Training course repository for android app development
