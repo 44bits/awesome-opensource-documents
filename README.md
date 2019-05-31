@@ -39,6 +39,8 @@ This is not a list of free programming books. This is a curated list of open sou
   * [Javascript](#javascript)
   * [Lisp](#lisp)
   * [Objective-c](#objective-c)
+  * [Ocaml](#ocaml)
+  * [Perl](#perl)
   * [PHP](#php)
   * [Python](#python)
   * [Rust](#rust)
@@ -145,7 +147,13 @@ This is not a list of free programming books. This is a curated list of open sou
 * [CoreOS Documentation][repo-coreos] ([Site][site-coreos], Apache 2.0) - Documentation for CoreOS
 * [Packer Documentation][repo-packer] ([Site][site-packer], MPL) - Documentation for Packer
 * [The Art of Command Line][repo-art-command-line] (cc-sa) - Master the command line, in one page
+* [Command Line Text Processing][repo-cli-text-processing] ([Site][site-cli-text-processing], cc-nc-sa) - From finding text to search and replace, from sorting to beautifying text and more
+* [Linux Command Line][repo-linux-cli] ([Site][site-linux-cli], cc-nc-sa) - Introduction to Linux commands and Shell scripting
 
+[repo-linux-cli]: https://github.com/learnbyexample/Linux_command_line
+[site-linux-cli]: https://learnbyexample.gitbooks.io/linux-command-line/content/index.html
+[repo-cli-text-processing]: https://github.com/learnbyexample/Command-line-text-processing
+[site-cli-text-processing]: https://learnbyexample.gitbooks.io/command-line-text-processing/content/
 [repo-art-command-line]: https://github.com/jlevy/the-art-of-command-line
 [repo-packer]: https://github.com/mitchellh/packer/tree/master/website/source/docs
 [site-packer]: https://www.packer.io/docs/
@@ -402,7 +410,10 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Neo Ruby Koans][repo-ruby-koan] ([Site][site-ruby-koan], cc-nc-sa) - A set of Koans to teach the Ruby language
 * [Middleman][repo-middleman] ([Site][site-middleman], cc) - Documentation for Middleman
 * [Jekyll][repo-jekyll] ([Site][site-jekyll], MIT) - Documentation for Jekyll
+* [Ruby Scripting][repo-ruby-scripting] ([Site][site-ruby-scripting], cc-nc-sa) - example based guide for Ruby scripting
 
+[repo-ruby-scripting]: https://github.com/learnbyexample/Ruby_Scripting
+[site-ruby-scripting]: https://learnbyexample.gitbooks.io/ruby-scripting/content/index.html
 [repo-jekyll]: https://jekyllrb.com/
 [site-jekyll]: https://github.com/jekyll/jekyll/tree/master/site
 [repo-middleman]: https://github.com/middleman/middleman-guides
@@ -564,11 +575,20 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-nytimes-objective-c-style-guide]: https://github.com/NYTimes/objective-c-style-guide
 
+<a name='ocaml'></a>
 ### Ocaml
 
 * Real World OCaml ([Site][site-real-world-ocaml], cc-nc-nd) - Real World OCaml is aimed at programmers who have some experience with conventional programming languages, but not specifically with statically typed functional programming.
 
 [site-real-world-ocaml]: https://realworldocaml.org/v1/en/html/
+
+<a name='perl'></a>
+### Perl
+
+* [Perl intro][repo-perl-intro] ([Site][site-perl-intro], cc-nc-sa) - Introductory course for Perl 5 through examples
+
+[repo-perl-intro]: https://github.com/learnbyexample/Perl_intro
+[site-perl-intro]: https://learnbyexample.gitbooks.io/perl-introduction/content/
 
 <a name='php'></a>
 ### PHP
@@ -592,7 +612,13 @@ This is not a list of free programming books. This is a curated list of open sou
 * [A guide to Python's magic methods][repo-magic-methods] ([Site][site-magic-methods], cc-nc-sa) - This guide is the culmination of a few months' worth of blog posts. The subject is magic methods
 * Think Python ([Site][site-think-python], cc-nc) - How to Think Like a Computer Scientist
 * Google's Python Class ([Site][site-google-python], cc) - this is a free class for people with a little bit of programming experience who want to learn Python
+* [Python Basics][repo-python-basics] ([Site][site-python-basics], cc-nc-sa) - Introduction to Python
+* [A Whirlwind Tour of Python][repo-whirlwind-tour] ([Site][site-whirlwind-tour], cc0) - fast-paced introduction to essential components of the Python language for researchers and developers who are already familiar with programming in another language
 
+[repo-whirlwind-tour]: https://github.com/jakevdp/WhirlwindTourOfPython
+[site-whirlwind-tour]: https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb
+[repo-python-basics]: https://github.com/learnbyexample/Python_Basics
+[site-python-basics]: https://learnbyexample.gitbooks.io/python-basics/content/index.html
 [site-google-python]: https://developers.google.com/edu/python/
 [site-think-python]: http://www.greenteapress.com/thinkpython/thinkpython.pdf
 [repo-magic-methods]: https://github.com/RafeKettler/magicmethods
@@ -690,7 +716,10 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Learn Vimscript the Hard Way][repo-vimscript-hard-way] ([Site][site-vimscript-hard-way], custom license) - Learn Vimscript the Hard Way is a book for users of the Vim editor who want to learn how to customize Vim
 * [The Emacs Lisp Style Guide][repo-elisp-style-guide] (cc) - This Emacs Lisp style guide recommends best practices so that real-world Emacs Lisp programmers can write code that can be maintained by other real-world Emacs Lisp programmers
 * A Byte of Vim ([Site][site-byte-vim], cc-sa) - “A Byte of Vim” is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard
+* [Vim Reference][repo-vim-reference] ([Site][site-vim-reference], cc-nc-sa) - guide for beginner to intermediate users
 
+[repo-vim-reference]: https://github.com/learnbyexample/vim_reference
+[site-vim-reference]: https://learnbyexample.gitbooks.io/vim-reference/content/index.html
 [site-byte-vim]: http://www.swaroopch.com/notes/vim/
 [repo-elisp-style-guide]: https://github.com/bbatsov/emacs-lisp-style-guide
 [repo-vimscript-hard-way]: https://github.com/sjl/learnvimscriptthehardway
