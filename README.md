@@ -365,8 +365,10 @@ This is not a list of free programming books. This is a curated list of open sou
 ### C
 
 * [C Style][repo-cstyle] (cc-sa) - My favorite C programming practices
+* C Programming ([Site][site-c-programming], cc-sa) - comprehensive look at the C programming language and its features
 
 [repo-cstyle]: https://github.com/mcinglis/c-style
+[site-c-programming]: https://en.wikibooks.org/wiki/C_Programming
 
 <a name='coffeescript'></a>
 ### Cofeescript
@@ -411,6 +413,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Middleman][repo-middleman] ([Site][site-middleman], cc) - Documentation for Middleman
 * [Jekyll][repo-jekyll] ([Site][site-jekyll], MIT) - Documentation for Jekyll
 * [Ruby Scripting][repo-ruby-scripting] ([Site][site-ruby-scripting], cc-nc-sa) - example based guide for Ruby scripting
+* [Ruby Regexp][repo-ruby-regexp] ([Site][site-ruby-regexp], cc-nc-sa) - step by step guide to Ruby regular expressions
 
 [repo-ruby-scripting]: https://github.com/learnbyexample/Ruby_Scripting
 [site-ruby-scripting]: https://learnbyexample.gitbooks.io/ruby-scripting/content/index.html
@@ -432,6 +435,8 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-rails-guide]: http://guides.rubyonrails.org/
 [repo-poignant-ruby]: https://github.com/mislav/poignant-guide
 [site-poignant-ruby]: http://poignant.guide/book/
+[repo-ruby-regexp]: https://github.com/learnbyexample/Ruby_Regexp
+[site-ruby-regexp]: https://github.com/learnbyexample/Ruby_Regexp/blob/master/ruby_regexp.md
 
 <a name='clojure'></a>
 ### Clojure
@@ -516,11 +521,13 @@ This is not a list of free programming books. This is a curated list of open sou
 * [An introduction to Node.js][repo-art-of-node] (cc-sa) - a short introduction to node.js
 * [stream-handbook][repo-stream-handbook] (cc) - how to write node programs with streams
 * [You Don't Know JS][repo-you-dont-know-js] ([Site][site-you-dont-know-js], cc-nc-nd) - A book series on JavaScript. @YDKJS on twitter.
+* Eloquent JavaScript ([Site][site-eloquent-javascript], cc-nc) - about JavaScript, programming, and the wonders of the digital
 * [CasperJS][repo-casperjs] ([Site][site-casperjs], MIT) - Documentation for CasperJS
 * [Ember.js Guide][repo-emberjs] ([Site][site-emberjs], MIT) - Official Guide for Ember.js
 * [React Document][repo-react] ([Site][site-react], cc) - Documentation for React
 * [Flux Application Architecture][repo-flux] ([Site][site-flux], cc) - Documenatiton for Flux application architecture
 * [Redux Document][repo-redux] ([Site][site-redux], MIT) - Documentation for Redux
+* [JavaScript RegExp][repo-js-regexp] ([Site][site-js-regexp], cc-nc-sa) - step by step guide to JavaScript regular expressions
 
 [repo-node-style-guide]: https://github.com/felixge/node-style-guide
 [repo-flux]: https://facebook.github.io/react/docs/flux-overview.html
@@ -557,6 +564,9 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-airbnb-javascript]: https://github.com/airbnb/javascript
 [repo-js-garden]: https://github.com/BonsaiDen/JavaScript-Garden
 [site-js-garden]: http://bonsaiden.github.io/JavaScript-Garden/
+[repo-js-regexp]: https://github.com/learnbyexample/learn_js_regexp
+[site-js-regexp]: https://github.com/learnbyexample/learn_js_regexp/blob/master/js_regexp.md
+[site-eloquent-javascript]: https://eloquentjavascript.net/
 
 <a name='lisp'></a>
 ### Lisp
@@ -610,17 +620,24 @@ This is not a list of free programming books. This is a curated list of open sou
 * [A Byte of Python][repo-byte-python] ([Site][site-byte-python], cc-sa) - "A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience
 * Learning to Program Using Python ([Site][site-lpupython], cc-sa)
 * [A guide to Python's magic methods][repo-magic-methods] ([Site][site-magic-methods], cc-nc-sa) - This guide is the culmination of a few months' worth of blog posts. The subject is magic methods
-* Think Python ([Site][site-think-python], cc-nc) - How to Think Like a Computer Scientist
-* Google's Python Class ([Site][site-google-python], cc) - this is a free class for people with a little bit of programming experience who want to learn Python
-* [Python Basics][repo-python-basics] ([Site][site-python-basics], cc-nc-sa) - Introduction to Python
+* [Think Python][repo-think-python] ([Site][site-think-python], cc-nc) - How to Think Like a Computer Scientist
+* Automate the Boring Stuff with Python ([Site][site-automatetheboringstuff], cc-nc-sa) - learn how to use Python to write programs that do in minutes what would take you hours to do by hand - no prior programming experience required
 * [A Whirlwind Tour of Python][repo-whirlwind-tour] ([Site][site-whirlwind-tour], cc0) - fast-paced introduction to essential components of the Python language for researchers and developers who are already familiar with programming in another language
+* [Practical Python Programming][repo-practical-python] ([Site][site-practical-python], cc-sa) - covers foundational aspects of Python programming with an emphasis on script writing, data manipulation, and program organization
+* [Python Basics][repo-python-basics] ([Site][site-python-basics], cc-nc-sa) - Introduction to Python
+* Google's Python Class ([Site][site-google-python], cc) - this is a free class for people with a little bit of programming experience who want to learn Python (Note that this course is designed for Python 2.6 or later, not Python 3.x)
+* [Think DSP][repo-think-dsp] ([Site][site-think-dsp], cc-nc) - introduction to Digital Signal Processing in Python
+* [Python re(gex)?][repo-python-regex] ([Site][site-python-regex], cc-nc-sa) - step by step guide to learning Python regular expressions
 
 [repo-whirlwind-tour]: https://github.com/jakevdp/WhirlwindTourOfPython
 [site-whirlwind-tour]: https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb
 [repo-python-basics]: https://github.com/learnbyexample/Python_Basics
 [site-python-basics]: https://learnbyexample.gitbooks.io/python-basics/content/index.html
 [site-google-python]: https://developers.google.com/edu/python/
-[site-think-python]: http://www.greenteapress.com/thinkpython/thinkpython.pdf
+[site-think-python]: https://greenteapress.com/wp/think-python-2e/
+[repo-think-python]: https://github.com/AllenDowney/ThinkPython
+[site-think-dsp]: https://greenteapress.com/wp/think-dsp/
+[repo-think-dsp]: https://github.com/AllenDowney/ThinkDSP
 [repo-magic-methods]: https://github.com/RafeKettler/magicmethods
 [site-magic-methods]: http://www.rafekettler.com/magicmethods.html
 [site-lpupython]: https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit
@@ -637,6 +654,11 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-peps]: https://www.python.org/dev/peps/
 [site-python-hguide]: http://docs.python-guide.org/en/latest/
 [repo-python-hguide]: https://github.com/kennethreitz/python-guide
+[site-practical-python]: https://dabeaz-course.github.io/practical-python/
+[repo-practical-python]: https://github.com/dabeaz-course/practical-python
+[site-automatetheboringstuff]: https://automatetheboringstuff.com/
+[repo-python-regex]: https://github.com/learnbyexample/py_regular_expressions
+[site-python-regex]: https://github.com/learnbyexample/py_regular_expressions/blob/master/py_regex.md
 
 <a name='rust'></a>
 ### Rust
