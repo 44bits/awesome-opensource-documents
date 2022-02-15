@@ -794,7 +794,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-docker]: https://github.com/moby/moby/tree/master/docs
 [site-docker]: https://docs.docker.com/
 [repo-phpmyadmin]: https://github.com/phpmyadmin/localized_docs
-[site-phpmyadmin]: https://phpmyadmin-english-united-kingdom.readthedocs.org/en/latest/
+[site-phpmyadmin]: https://docs.phpmyadmin.net/en/latest/
 [repo-omegat]: http://sourceforge.net/p/omegat/code/ci/master/tree/doc_src/
 [site-omegat]: https://omegat.sourceforge.io/manual-standard/
 [repo-riak]: https://github.com/basho/basho_docs
