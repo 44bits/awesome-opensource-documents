@@ -426,7 +426,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-rbp]: https://github.com/practicingruby/rbp-book
 [site-practicing-ruby]: https://practicingruby.com/about
 [repo-ruby-style-guide]: https://github.com/rubocop/ruby-style-guide
-[repo-rails-style-guide]: https://github.com/bbatsov/rails-style-guide
+[repo-rails-style-guide]: https://github.com/rubocop/rails-style-guide
 [site-rhg-english]: https://ruby-hacking-guide.github.io/
 [repo-rhg]: https://github.com/tmm1/ruby-hacking-guide
 [repo-better-spec]: https://github.com/andreareginato/betterspecs/
