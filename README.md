@@ -429,7 +429,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-rails-style-guide]: https://github.com/rubocop/rails-style-guide
 [site-rhg-english]: https://ruby-hacking-guide.github.io/
 [repo-rhg]: https://github.com/tmm1/ruby-hacking-guide
-[repo-better-spec]: https://github.com/andreareginato/betterspecs/
+[repo-better-spec]: https://github.com/betterspecs/betterspecs
 [site-better-spec]: http://betterspecs.org/#books
 [repo-rails-guide]: https://github.com/rails/rails/tree/master/guides
 [site-rails-guide]: http://guides.rubyonrails.org/
