@@ -156,7 +156,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-cli-text-processing]: https://learnbyexample.gitbooks.io/command-line-text-processing/content/
 [repo-art-command-line]: https://github.com/jlevy/the-art-of-command-line
 [repo-packer]: https://github.com/mitchellh/packer/tree/master/website/source/docs
-[site-packer]: https://www.packer.io/docs/
+[site-packer]: https://www.packer.io/docs
 [site-coreos]: https://coreos.com/docs/
 [repo-coreos]: https://github.com/coreos/docs/
 [site-travis-docs]: https://docs.travis-ci.com/
