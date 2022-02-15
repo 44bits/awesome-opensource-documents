@@ -799,7 +799,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-omegat]: https://omegat.sourceforge.io/manual-standard/
 [repo-riak]: https://github.com/basho/basho_docs
 [site-riak]: http://docs.basho.com/riak/latest/
-[site-sqlalchemy]: http://docs.sqlalchemy.org/en/latest/index.html
+[site-sqlalchemy]: https://docs.sqlalchemy.org/en/14/index.html
 [repo-ansible-document]: https://github.com/ansible/ansible/tree/devel/docsite
 [site-ansible-document]: http://docs.ansible.com/
 [repo-sphinx-doc]: https://github.com/sphinx-doc/sphinx/tree/master/doc
