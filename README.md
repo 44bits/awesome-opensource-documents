@@ -162,7 +162,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-travis-docs]: https://docs.travis-ci.com/
 [repo-travis-docs]: https://github.com/travis-ci/docs-travis-ci-com
 [repo-twelve-factor]: https://github.com/heroku/12factor
-[site-twelve-factor]: http://12factor.net/
+[site-twelve-factor]: https://12factor.net/
 [repo-htaccess]: https://github.com/phanan/htaccess
 [site-do-tutorials]: https://www.digitalocean.com/community/tutorials
 [site-ops-school]: http://ops-school.readthedocs.org/en/latest/
