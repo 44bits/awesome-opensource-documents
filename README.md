@@ -90,7 +90,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-psads]: http://interactivepython.org/runestone/static/pythonds/index.html
 [repo-csftbu]: https://github.com/ianw/bottomupcs
 [site-csftbu]: http://www.bottomupcs.com/
-[site-introtocom]: http://www.computingbook.org/
+[site-introtocom]: http://computingbook.org/
 [site-funop]: https://books.google.lk/books?printsec=frontcover&id=TZ-qjncsv6QC&hl=ko#v=onepage&q&f=false
 [site-pfpl]: http://www.cs.cmu.edu/~rwh/plbook/
 [site-plai]: http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/
