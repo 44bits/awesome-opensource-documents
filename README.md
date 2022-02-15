@@ -796,7 +796,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-phpmyadmin]: https://github.com/phpmyadmin/localized_docs
 [site-phpmyadmin]: https://phpmyadmin-english-united-kingdom.readthedocs.org/en/latest/
 [repo-omegat]: http://sourceforge.net/p/omegat/code/ci/master/tree/doc_src/
-[site-omegat]: http://omegat.sourceforge.net/manual-standard/
+[site-omegat]: https://omegat.sourceforge.io/manual-standard/
 [repo-riak]: https://github.com/basho/basho_docs
 [site-riak]: http://docs.basho.com/riak/latest/
 [site-sqlalchemy]: http://docs.sqlalchemy.org/en/latest/index.html
