@@ -803,7 +803,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-ansible-document]: https://github.com/ansible/ansible/tree/devel/docsite
 [site-ansible-document]: http://docs.ansible.com/
 [repo-sphinx-doc]: https://github.com/sphinx-doc/sphinx/tree/master/doc
-[site-sphinx-doc]: http://www.sphinx-doc.org/en/stable/contents.html
+[site-sphinx-doc]: https://www.sphinx-doc.org/en/master/contents.html
 
 <a name='other_languages'></a>
 ## Other Languages
