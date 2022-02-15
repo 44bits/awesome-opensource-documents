@@ -270,7 +270,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-diveintohtml5]: http://diveintohtml5.info/
 [repo-500-lines]: https://github.com/aosabook/500lines
 [repo-http-api]: https://github.com/interagent/http-api-design
-[zalando-guidelines]: https://zalando.github.io/restful-api-guidelines/index.html
+[zalando-guidelines]: https://opensource.zalando.com/restful-api-guidelines/index.html
 
 <a name='writing_and_documentation'></a>
 ### Writing and Documentation
