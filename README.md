@@ -215,7 +215,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-what-is-code]: https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 [repo-what-is-code]: https://github.com/BloombergMedia/whatiscode
 [repo-tphistorian]: https://github.com/programminghistorian/jekyll
-[site-tphistorian]: http://programminghistorian.org/
+[site-tphistorian]: https://programminghistorian.org/
 [repo-tlitp]: https://github.com/karlseguin/the-little-introduction-to-programming
 [site-tlitp]: http://codingintro.com/
 [site-mdn]: https://developer.mozilla.org/en-US/
