@@ -108,7 +108,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-graphbook]: https://code.google.com/archive/p/graphbook/
 [site-operating-middleware]: https://gustavus.edu/mcs/max/os-book/
 [repo-operating-middleware]: https://github.com/Max-Hailperin/Operating-Systems-and-Middleware--Supporting-Controlled-Interaction
-[site-parallel-machine]: http://heather.cs.ucdavis.edu/parprocbook
+[site-parallel-machine]: https://heather.cs.ucdavis.edu/parprocbook
 [repo-perfbook]: https://github.com/sbinet/perfbook
 [site-perfbook]: https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
 [site-high-perfomance-computing]:  http://open.umich.edu/education/si/resources/hpc-opentextbook/2009
