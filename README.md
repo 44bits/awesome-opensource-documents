@@ -767,7 +767,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-git-it]: http://jlord.us/git-it/
 [repo-github-cheatsheet]: https://github.com/tiimgreen/github-cheat-sheet
 [repo-progit]: https://github.com/progit/progit
-[site-progit]: http://git-scm.com/book/
+[site-progit]: https://git-scm.com/book/en/v2
 
 <a name='tool-etc'></a>
 ### etc.
