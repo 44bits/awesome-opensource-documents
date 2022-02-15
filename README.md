@@ -355,7 +355,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-zguide]: http://zguide.zeromq.org/
 [repo-zguide]: https://github.com/booksbyus/zguide
 [repo-solarized]: https://github.com/altercation/ethanschoonover.com/tree/master/projects/solarized
-[site-solarized]: http://ethanschoonover.com/solarized
+[site-solarized]: https://ethanschoonover.com/solarized/
 [repo-cocktails-for-programmer]: https://github.com/cocktails-for-programmers/cocktails_for_programmers
 
 <a name="programming_languages"></a>
