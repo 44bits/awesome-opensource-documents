@@ -191,7 +191,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * The Daemon, the GNU & the Penguin ~ by Dr. Peter Salus ([Site][site-tdtgtp], cc-nc-nd)
 
 [repo-free-freedom-2]: http://bzr.savannah.gnu.org/lh/books/changes
-[site-free-freedom-2]: http://shop.fsf.org/product/free-as-in-freedom-2/
+[site-free-freedom-2]: https://shop.fsf.org/books/free-freedom-20-richard-stallman
 [site-tdtgtp]: http://www.groklaw.net/staticpages/index.php?page=20051013231901859
 [site-fsfs]: http://shop.fsf.org/product/free-software-free-society-2/
 [repo-fsfs]: http://bzr.savannah.gnu.org/lh/books/changes
