@@ -576,7 +576,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-diy-lisp]: https://github.com/kvalle/diy-lang
 [repo-buildyourownlisp]: https://github.com/orangeduck/BuildYourOwnLisp
-[site-buildyourownlisp]: http://www.buildyourownlisp.com/
+[site-buildyourownlisp]: https://buildyourownlisp.com/
 
 <a name='objective-c'></a>
 ### Objective-C
