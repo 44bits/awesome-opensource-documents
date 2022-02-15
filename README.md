@@ -193,7 +193,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-free-freedom-2]: http://bzr.savannah.gnu.org/lh/books/changes
 [site-free-freedom-2]: https://shop.fsf.org/books/free-freedom-20-richard-stallman
 [site-tdtgtp]: http://www.groklaw.net/staticpages/index.php?page=20051013231901859
-[site-fsfs]: http://shop.fsf.org/product/free-software-free-society-2/
+[site-fsfs]: https://shop.fsf.org/books-docs/free-software-free-society-selected-essays-richard-m-stallman-3rd-edition
 [repo-fsfs]: http://bzr.savannah.gnu.org/lh/books/changes
 [site-aosa]: http://aosabook.org/en/index.html
 [repo-aosa]: https://github.com/aosabook/aosabook
