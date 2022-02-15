@@ -475,7 +475,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Structure and Interpretation of Computer Program][repo-sicp-lfe] ([Site][site-sicp-lfe], cc-sa) - Structure and Interpretation of Computer Programs, the LFE edition
 
 [repo-sicp-lfe]: https://github.com/cnbbooks/lfe-sicp
-[site-sicp-lfe]: http://lfe.gitbooks.io/sicp/
+[site-sicp-lfe]: https://lfe.gitbooks.io/sicp/content/
 [site-lysefgg]: http://learnyousomeerlang.com/content
 
 <a name='go'></a>
