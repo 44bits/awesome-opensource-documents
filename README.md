@@ -419,7 +419,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-ruby-scripting]: https://learnbyexample.gitbooks.io/ruby-scripting/content/index.html
 [repo-jekyll]: https://jekyllrb.com/
 [site-jekyll]: https://github.com/jekyll/jekyll/tree/master/site
-[repo-middleman]: https://github.com/middleman/middleman-guides
+[repo-middleman]: https://github.com/middleman/middlemanapp.com
 [site-middleman]: https://middlemanapp.com/
 [repo-ruby-koan]: https://github.com/neo/ruby_koans
 [site-ruby-koan]: https://github.com/neo/ruby_koans
