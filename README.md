@@ -106,7 +106,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-michiel-structures]: https://cglab.ca/~michiel/DiscreteStructures/
 [site-michiel-computation]: https://cglab.ca/~michiel/TheoryOfComputation/
 [repo-graphbook]: https://code.google.com/archive/p/graphbook/
-[site-operating-middleware]: https://gustavus.edu/+max/os-book/
+[site-operating-middleware]: https://gustavus.edu/mcs/max/os-book/
 [repo-operating-middleware]: https://github.com/Max-Hailperin/Operating-Systems-and-Middleware--Supporting-Controlled-Interaction
 [site-parallel-machine]: http://heather.cs.ucdavis.edu/parprocbook
 [repo-perfbook]: https://github.com/sbinet/perfbook
