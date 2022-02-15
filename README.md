@@ -282,7 +282,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Prose for Programmers][repo-prose-prog] (cc-nc-nd) - A book to help software developers write better prose.
 
 [repo-prose-prog]: https://github.com/joshuacc/prose-for-programmers
-[repo-commonmark-spec]: https://github.com/jgm/CommonMark
+[repo-commonmark-spec]: https://github.com/commonmark/commonmark-spec
 [site-commonmark-spec]: http://spec.commonmark.org/
 [site-rst-spec]: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 [site-thgtd]: http://docs-guide.readthedocs.org/en/latest/
