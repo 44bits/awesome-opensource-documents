@@ -630,7 +630,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Python re(gex)?][repo-python-regex] ([Site][site-python-regex], cc-nc-sa) - step by step guide to learning Python regular expressions
 
 [repo-whirlwind-tour]: https://github.com/jakevdp/WhirlwindTourOfPython
-[site-whirlwind-tour]: https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb
+[site-whirlwind-tour]: https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb
 [repo-python-basics]: https://github.com/learnbyexample/Python_Basics
 [site-python-basics]: https://learnbyexample.gitbooks.io/python-basics/content/index.html
 [site-google-python]: https://developers.google.com/edu/python/
