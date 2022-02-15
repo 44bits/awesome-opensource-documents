@@ -456,7 +456,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [repo-30-days-of-elixir][repo-30-days-of-elixir] (MIT) - A walk through the Elixir language in 30 exercises
 * [Elixir Style Guide][repo-elixir-style-guide] (cc) - A community driven style guide for Elixir
 
-[repo-elixir-style-guide]: https://github.com/niftyn8/elixir_style_guide
+[repo-elixir-style-guide]: https://github.com/christopheradams/elixir_style_guide
 [repo-elixir-getting-started]: https://github.com/elixir-lang/elixir-lang.github.com
 [site-elixir-getting-started]: http://elixir-lang.org/getting-started/introduction.html
 [repo-30-days-of-elixir]: https://github.com/seven1m/30-days-of-elixir
