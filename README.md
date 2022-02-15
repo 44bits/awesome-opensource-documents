@@ -130,7 +130,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-jstatsoft]: https://www.jstatsoft.org/index
 [site-baymh]: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 [repo-baymh]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-[site-dmftm]:http://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf
+[site-dmftm]:https://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf
 [site-abinn]: http://www.dkriesel.com/en/science/neural_networks
 [repo-thinkstats]: https://github.com/AllenDowney/ThinkStats2
 [site-thinkstats]: https://greenteapress.com/thinkstats/
