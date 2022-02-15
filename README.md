@@ -94,7 +94,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-funop]: https://books.google.lk/books?printsec=frontcover&id=TZ-qjncsv6QC&hl=ko#v=onepage&q&f=false
 [site-pfpl]: http://www.cs.cmu.edu/~rwh/plbook/
 [site-plai]: http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/
-[site-sicp]: https://mitpress.mit.edu/sicp/full-text/book/book.html
+[site-sicp]: https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
 [site-htdp]: http://www.ccs.neu.edu/home/matthias/HtDP2e/
 [site-crypto-101]: https://www.crypto101.io/
 [repo-crypto-101]: https://github.com/crypto101/book
