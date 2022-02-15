@@ -764,7 +764,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-git-magic]: https://github.com/blynn/gitmagic
 [site-git-magic]: http://www-cs-students.stanford.edu/~blynn//gitmagic/
 [repo-git-it]: https://github.com/jlord/git-it
-[site-git-it]: http://jlord.github.io/git-it
+[site-git-it]: http://jlord.us/git-it/
 [repo-github-cheatsheet]: https://github.com/tiimgreen/github-cheat-sheet
 [repo-progit]: https://github.com/progit/progit
 [site-progit]: http://git-scm.com/book/
