@@ -353,7 +353,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-10up-bp]: https://github.com/10up/Engineering-Best-Practices
 [site-10up-bp]: https://10up.github.io/Engineering-Best-Practices/
 [site-zguide]: http://zguide.zeromq.org/
-[repo-zguide]: https://github.com/imatix/zguide
+[repo-zguide]: https://github.com/booksbyus/zguide
 [repo-solarized]: https://github.com/altercation/ethanschoonover.com/tree/master/projects/solarized
 [site-solarized]: http://ethanschoonover.com/solarized
 [repo-cocktails-for-programmer]: https://github.com/cocktails-for-programmers/cocktails_for_programmers
