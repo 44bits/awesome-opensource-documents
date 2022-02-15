@@ -177,7 +177,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-jeff-collision]: https://github.com/jeffThompson/CollisionDetection
 [site-jeff-collision]: http://www.jeffreythompson.org/collision-detection/
 [repo-hott-book]: https://github.com/HoTT/HoTT
-[site-hott-book]: http://homotopytypetheory.org/
+[site-hott-book]: https://homotopytypetheory.org/
 
 
 <a name='open_source'></a>
