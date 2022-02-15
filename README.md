@@ -288,7 +288,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-thgtd]: https://docs-guide.readthedocs.io/en/latest/
 [repo-thgtd]: https://github.com/chrismedrela/docs-guide
 [site-write-the-docs]: https://www.writethedocs.org/
-[repo-write-the-docs]: https://github.com/writethedocs/docs/
+[repo-write-the-docs]: https://github.com/writethedocs/www
 
 <a name='journalism_and_visualization'></a>
 ### Journalism and Visualization
