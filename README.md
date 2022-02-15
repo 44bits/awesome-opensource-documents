@@ -648,7 +648,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-explore-flask]: https://github.com/rpicard/explore-flask
 [site-explore-flask]: https://exploreflask.com/
 [site-diveintopython3]: http://www.diveintopython3.net/
-[repo-django-document]: https://github.com/django/django/tree/master/docs
+[repo-django-document]: https://github.com/django/django/tree/main/docs
 [site-django-document]: https://docs.djangoproject.com/en/1.8/
 [repo-peps]: https://github.com/python/peps
 [site-peps]: https://www.python.org/dev/peps/
