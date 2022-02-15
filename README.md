@@ -127,7 +127,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-jupyter-book]: https://github.com/Carreau/jupyter-book
 [site-jupyter-book]: https://carreau.gitbooks.io/jupyter-book/content/
-[site-jstatsoft]: http://www.jstatsoft.org/index
+[site-jstatsoft]: https://www.jstatsoft.org/index
 [site-baymh]: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 [repo-baymh]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 [site-dmftm]:http://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf
