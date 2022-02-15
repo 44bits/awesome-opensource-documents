@@ -308,7 +308,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-data-design]: https://github.com/infoactive/data-design/
 [site-data-design]: https://infoactive.co/data-design
 [repo-data-science-45min]: https://github.com/DrSkippy/Data-Science-45min-Intros
-[repo-natureofcode]: https://github.com/shiffman/The-Nature-of-Code
+[repo-natureofcode]: https://github.com/nature-of-code/noc-book
 [site-natureofcode]: http://natureofcode.com/
 [repo-intro-to-d3]: https://github.com/square/intro-to-d3
 [site-intro-to-d3]: https://square.github.io/intro-to-d3/
