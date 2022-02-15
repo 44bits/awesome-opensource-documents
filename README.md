@@ -884,7 +884,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-oreilly-openbook]: http://www.oreilly.com/openbook/
 [site-online-programming-books]: http://www.onlineprogrammingbooks.com/
 [site-fsf-book]: https://shop.fsf.org/collection/books-docs
-[site-greentea-press]: http://www.greenteapress.com/
+[site-greentea-press]: https://greenteapress.com/wp/
 [site-wikipedia-book]: https://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29
 [repo-python-books]: https://github.com/revolunet/PythonBooks
 [site-jsbooks]: http://jsbooks.revolunet.com/
