@@ -287,7 +287,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-rst-spec]: https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html
 [site-thgtd]: https://docs-guide.readthedocs.io/en/latest/
 [repo-thgtd]: https://github.com/chrismedrela/docs-guide
-[site-write-the-docs]: http://docs.writethedocs.org/
+[site-write-the-docs]: https://www.writethedocs.org/
 [repo-write-the-docs]: https://github.com/writethedocs/docs/
 
 <a name='journalism_and_visualization'></a>
