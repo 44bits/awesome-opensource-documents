@@ -742,7 +742,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-vim-reference]: https://github.com/learnbyexample/vim_reference
 [site-vim-reference]: https://learnbyexample.gitbooks.io/vim-reference/content/index.html
-[site-byte-vim]: http://www.swaroopch.com/notes/vim/
+[site-byte-vim]: https://vim.swaroopch.com/
 [repo-elisp-style-guide]: https://github.com/bbatsov/emacs-lisp-style-guide
 [repo-vimscript-hard-way]: https://github.com/sjl/learnvimscriptthehardway
 [site-vimscript-hard-way]: http://learnvimscriptthehardway.stevelosh.com/
