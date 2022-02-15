@@ -791,7 +791,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-vagrant]: https://github.com/mitchellh/vagrant/tree/master/website/docs
 [site-vagrant]: https://www.vagrantup.com/docs
-[repo-docker]: https://github.com/docker/docker/tree/master/docs
+[repo-docker]: https://github.com/moby/moby/tree/master/docs
 [site-docker]: https://docs.docker.com/
 [repo-phpmyadmin]: https://github.com/phpmyadmin/localized_docs
 [site-phpmyadmin]: https://phpmyadmin-english-united-kingdom.readthedocs.org/en/latest/
