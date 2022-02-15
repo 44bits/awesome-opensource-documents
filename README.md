@@ -474,7 +474,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * Learn You Some Erlang for Great Good! ([Site][site-lysefgg], cc-nc-nd)
 * [Structure and Interpretation of Computer Program][repo-sicp-lfe] ([Site][site-sicp-lfe], cc-sa) - Structure and Interpretation of Computer Programs, the LFE edition
 
-[repo-sicp-lfe]: https://github.com/lfe/sicp
+[repo-sicp-lfe]: https://github.com/cnbbooks/lfe-sicp
 [site-sicp-lfe]: http://lfe.gitbooks.io/sicp/
 [site-lysefgg]: http://learnyousomeerlang.com/content
 
