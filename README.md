@@ -790,7 +790,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Ansible Documentation][repo-ansible-document] ([Site][site-ansible-document], GPL) - Documentation for Ansible
 
 [repo-vagrant]: https://github.com/mitchellh/vagrant/tree/master/website/docs
-[site-vagrant]: https://docs.vagrantup.com/v2/
+[site-vagrant]: https://www.vagrantup.com/docs
 [repo-docker]: https://github.com/docker/docker/tree/master/docs
 [site-docker]: https://docs.docker.com/
 [repo-phpmyadmin]: https://github.com/phpmyadmin/localized_docs
