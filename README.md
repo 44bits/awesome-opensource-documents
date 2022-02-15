@@ -133,7 +133,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-dmftm]:http://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf
 [site-abinn]: http://www.dkriesel.com/en/science/neural_networks
 [repo-thinkstats]: https://github.com/AllenDowney/ThinkStats2
-[site-thinkstats]: http://greenteapress.com/thinkstats/
+[site-thinkstats]: https://greenteapress.com/thinkstats/
 [repo-leads]: https://github.com/nborwankar/LearnDataScience
 
 <a name='devops'></a>
