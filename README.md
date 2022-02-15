@@ -535,7 +535,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-redux]: https://github.com/reduxjs/redux/blob/master/README.md
 [site-redux]: https://rackt.github.io/redux/
 [repo-react]: https://github.com/facebook/react/tree/master/docs
-[site-react]: https://facebook.github.io/react/docs/getting-started.html
+[site-react]: https://reactjs.org/docs/getting-started.html
 [repo-emberjs]: https://github.com/emberjs/guides/
 [site-emberjs]: https://guides.emberjs.com/v2.0.0/
 [site-casperjs]: https://casperjs.readthedocs.org/en/latest/
