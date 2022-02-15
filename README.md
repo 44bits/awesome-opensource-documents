@@ -329,7 +329,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [iOS Good Practices][repo-ios-good-practices] (cc) - Good ideas for iOS development, by Futurice developers.
 * [iOS Developer and Designer Interview Questions][repo-ios-questions] (MIT) - A small guide to help those looking to hire a developer or designer for iOS work.
 
-[repo-ios-questions]: https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions
+[repo-ios-questions]: https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions
 [repo-ios-good-practices]: https://github.com/futurice/ios-good-practices
 
 <a name='subject-etc'></a>
