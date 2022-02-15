@@ -760,7 +760,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Git Magic][repo-git-magic] ([Site][site-git-magic], GPL) - A guide to using Git
 * [Git it][repo-git-it] ([Site][site-git-it], BSD) - A workshopper for learning Git and GitHub.
 
-[repo-git-style-guide]: https://github.com/agis-/git-style-guide
+[repo-git-style-guide]: https://github.com/agis/git-style-guide
 [repo-git-magic]: https://github.com/blynn/gitmagic
 [site-git-magic]: http://cs.stanford.edu/~blynn/gitmagic/
 [repo-git-it]: https://github.com/jlord/git-it
