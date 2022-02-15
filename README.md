@@ -111,7 +111,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-parallel-machine]: https://heather.cs.ucdavis.edu/parprocbook
 [repo-perfbook]: https://github.com/sbinet/perfbook
 [site-perfbook]: https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
-[site-high-perfomance-computing]:  http://open.umich.edu/education/si/resources/hpc-opentextbook/2009
+[site-high-perfomance-computing]:  https://open.umich.edu/find/open-educational-resources/information/high-performance-computing-open-textbook
 [site-nlpwp]: http://nlpwp.org/book/
 
 <a name='data_science'></a>
