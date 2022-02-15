@@ -212,7 +212,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [The Programming Historian][repo-tphistorian] ([Site][site-tphistorian], cc) - The Programming Historian is an online, open-access, peer-reviewed suite of tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research.
 * [WHAT IS CODE?][repo-what-is-code] ([Site][site-what-is-code], cc-nc-nd) - Paul Ford’s “What Is Code?”
 
-[site-what-is-code]: http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+[site-what-is-code]: https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 [repo-what-is-code]: https://github.com/BloombergMedia/whatiscode
 [repo-tphistorian]: https://github.com/programminghistorian/jekyll
 [site-tphistorian]: http://programminghistorian.org/
