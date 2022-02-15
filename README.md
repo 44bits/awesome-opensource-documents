@@ -880,7 +880,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-python-reference]: https://github.com/rasbt/python_reference
 [repo-narkoz-guides]: https://github.com/NARKOZ/guides
 [repo-free-programming-books]: https://github.com/vhf/free-programming-books
-[site-gitbook]: https://www.gitbook.io/
+[site-gitbook]: https://www.gitbook.com/
 [site-oreilly-openbook]: http://www.oreilly.com/openbook/
 [site-online-programming-books]: http://www.onlineprogrammingbooks.com/
 [site-fsf-book]: http://shop.fsf.org/category/books/
