@@ -312,7 +312,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-natureofcode]: http://natureofcode.com/
 [repo-intro-to-d3]: https://github.com/square/intro-to-d3
 [site-intro-to-d3]: https://square.github.io/intro-to-d3/
-[site-data-journalism-handbook]: http://datajournalismhandbook.org/1.0/en/
+[site-data-journalism-handbook]: https://datajournalism.com/read/handbook/one
 
 <a name='android_development'></a>
 ### Android Development
