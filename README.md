@@ -284,7 +284,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-prose-prog]: https://github.com/joshuacc/prose-for-programmers
 [repo-commonmark-spec]: https://github.com/commonmark/commonmark-spec
 [site-commonmark-spec]: http://spec.commonmark.org/
-[site-rst-spec]: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
+[site-rst-spec]: https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html
 [site-thgtd]: http://docs-guide.readthedocs.org/en/latest/
 [repo-thgtd]: https://github.com/chrismedrela/docs-guide
 [site-write-the-docs]: http://docs.writethedocs.org/
