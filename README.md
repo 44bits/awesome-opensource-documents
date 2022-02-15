@@ -652,7 +652,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-django-document]: https://docs.djangoproject.com/en/1.8/
 [repo-peps]: https://github.com/python/peps
 [site-peps]: https://www.python.org/dev/peps/
-[site-python-hguide]: http://docs.python-guide.org/en/latest/
+[site-python-hguide]: https://docs.python-guide.org/
 [repo-python-hguide]: https://github.com/kennethreitz/python-guide
 [site-practical-python]: https://dabeaz-course.github.io/practical-python/
 [repo-practical-python]: https://github.com/dabeaz-course/practical-python
