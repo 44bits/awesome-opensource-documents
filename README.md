@@ -642,7 +642,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-magic-methods]: http://www.rafekettler.com/magicmethods.html
 [site-lpupython]: https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit
 [repo-byte-python]: https://github.com/swaroopch/byte-of-python
-[site-byte-python]: http://www.swaroopch.com/notes/python/
+[site-byte-python]: https://python.swaroopch.com/
 [repo-full-python]: https://github.com/makaimc/fullstackpython.com
 [site-full-python]: http://www.fullstackpython.com/
 [repo-explore-flask]: https://github.com/rpicard/explore-flask
