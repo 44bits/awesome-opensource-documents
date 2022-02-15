@@ -532,7 +532,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-node-style-guide]: https://github.com/felixge/node-style-guide
 [repo-flux]: https://facebook.github.io/react/docs/flux-overview.html
 [site-flux]: https://github.com/facebook/react/tree/master/docs
-[repo-redux]: https://github.com/rackt/redux/blob/master/README.md
+[repo-redux]: https://github.com/reduxjs/redux/blob/master/README.md
 [site-redux]: https://rackt.github.io/redux/
 [repo-react]: https://github.com/facebook/react/tree/master/docs
 [site-react]: https://facebook.github.io/react/docs/getting-started.html
