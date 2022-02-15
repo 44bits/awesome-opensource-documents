@@ -538,7 +538,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-react]: https://reactjs.org/docs/getting-started.html
 [repo-emberjs]: https://github.com/emberjs/guides/
 [site-emberjs]: https://guides.emberjs.com/v2.0.0/
-[site-casperjs]: https://casperjs.readthedocs.org/en/latest/
+[site-casperjs]: https://casperjs.readthedocs.io/en/latest/
 [repo-casperjs]: https://github.com/n1k0/casperjs/blob/master/docs
 [site-you-dont-know-js]: https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series
 [repo-you-dont-know-js]: https://github.com/getify/You-Dont-Know-JS
