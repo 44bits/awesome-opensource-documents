@@ -260,7 +260,7 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-north]: https://github.com/north/north
 [site-north]: http://pointnorth.io/
 [repo-webcomponents]: https://github.com/webcomponents/webcomponents.github.io
-[site-webcomponents]: http://webcomponents.org/
+[site-webcomponents]: https://www.webcomponents.org/
 [repo-html-best]: https://github.com/hail2u/html-best-practices
 [repo-web-fundamentles]: https://github.com/google/WebFundamentals/
 [site-web-fundamentles]: https://developers.google.com/web/fundamentals/
