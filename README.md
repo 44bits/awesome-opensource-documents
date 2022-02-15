@@ -606,7 +606,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [PHP: The Right Way][repo-php-right-way] ([Site][site-php-right-way], by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 
 [repo-php-right-way]: https://github.com/codeguy/php-the-right-way
-[site-php-right-way]: http://www.phptherightway.com/
+[site-php-right-way]: https://phptherightway.com/
 
 <a name='python'></a>
 ### Python
