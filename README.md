@@ -361,6 +361,13 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name="programming_languages"></a>
 ## Programming Languages
 
+<a name='language-assembly'></a>
+### Assembly
+
+* [Some Assembly Required][repo-sar] (cc-sa) - An approachable introduction to Assembly
+
+[repo-sar]: https://github.com/hackclub/some-assembly-required/
+
 <a name='language-c'></a>
 ### C
 
