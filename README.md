@@ -836,6 +836,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Backbone.js入门教程][repo-backbonejs-note] (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
 * [ECMAScript 6入门][repo-es6tutorial-cn] ([Site][site-es6tutorial-cn], cc-nc) - 一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
 * [Nginx开发从入门到精通][repo-nginx-book-cn] ([Site][site-nginx-book-cn], cc-nc) - 一本开源的Nginx开发教程，全面介绍nginx模块的开发以及它的内部原理
+* [FreeBSD 从入门到跑路](repo-freebsdask-book-cn) ([Site][site-freebsdask-book-cn], cc-by) - 这是一本 FreeBSD 操作系统书籍，还包含一些 OpenBSD、NetBSD、DragonFly BSD、TwinCAT/BSD 等 BSD 家族操作系统的快速入门章节
 
 [site-es6tutorial-cn]: http://es6.ruanyifeng.com/
 [repo-es6tutorial-cn]: https://github.com/ruanyf/es6tutorial
@@ -848,6 +849,8 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-jstutorial]: https://github.com/ruanyf/jstutorial/
 [site-nginx-book-cn]: http://tengine.taobao.org/book/
 [repo-nginx-book-cn]: https://github.com/taobao/nginx-book
+[repo-freebsdask-book-cn]: https://github.com/FreeBSD-Ask/FreeBSD-Ask
+[site-freebsdask-book-cn]: https://book.bsdcn.org
 
 <a name='japanese'></a>
 ## Japanese
