@@ -139,6 +139,8 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='devops'></a>
 ### Devops
 
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 * [Ops School Curriculum][repo-ops-school] ([Site][site-ops-school], cc) - Ops School is a comprehensive program that will help you learn to be an operations engineer
 * [Twelve Factor App][repo-twelve-factor] ([Site][site-twelve-factor], MIT) - The twelve-factor app is a methodology for building software-as-a-service apps
 * Digital Oceans - Tutorials ([Site][site-do-tutorials], cc-nc-sa) - development and sysadmin tutorials
